@@ -1,0 +1,857 @@
+﻿{
+  "PrismaMod:IllyaCarnivalPrismaAstolfo": {
+    "NAME": "嘉年华棱镜阿福",
+    "DESCRIPTION": "随机获得以下效果：回复 !M! 生命，获得 !M! 点 力量 ，获得 !M! 点 敏捷 ，获得 !M! 最大生命，获得 20 金币。 消耗 。",
+    "UPGRADE_DESCRIPTION": "随机获得以下效果：回复 !M! 生命，获得 !M! 点 力量 ，获得 !M! 点 敏捷 ，获得 !M! 最大生命，获得 [#3ddf3d]30[] 金币。 消耗 。"
+  },
+
+  "PrismaMod:IllyaBerserCAR": {
+    "NAME": "狂战车",
+    "DESCRIPTION": "造成 !D! 点伤害并获得 [E] 。"
+  },
+
+  "PrismaMod:IllyaCarnivalAttack": {
+    "NAME": "嘉年华攻击",
+    "DESCRIPTION": "造成 !D! 点伤害。生成 !M! 个 prismamod:攻击 充能球。"
+  },
+
+  "PrismaMod:IllyaCarnivalDefend": {
+    "NAME": "嘉年华防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 并生成 !M! 个 prismamod:防御 充能球。"
+  },
+
+  "PrismaMod:IllyaUncommonAOEAttack": {
+    "NAME": "切片火焰",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害并给予 !M! 层 虚弱 。"
+  },
+
+  "PrismaMod:IllyaAssassinRevenge": {
+    "NAME": "Assassin的反射",
+    "DESCRIPTION": "每当受到攻击时，生成1个 prismamod:毒药 充能球。本回合给予攻击者 !M! 层 中毒 。"
+  },
+
+  "PrismaMod:IllyaCarnivalOrbs": {
+    "NAME": "充能球嘉年华",
+    "DESCRIPTION": "生成 1 个 prismamod:攻击 、 prismamod:防御 、 prismamod:毒药 、 prismamod:双星 、 prismamod:亡语 和 prismamod:刺客 充能球。"
+  },
+
+  "PrismaMod:IllyaCommonEvoke": {
+    "NAME": "释放",
+    "DESCRIPTION": "激发最右侧的充能球。",
+    "UPGRADE_DESCRIPTION": "激发最右侧的2个充能球。"
+  },
+
+  "PrismaMod:IllyaDualEvoke": {
+    "NAME": "双重释放",
+    "DESCRIPTION": "激发你前 !M! 个充能球2次。"
+  },
+
+  "PrismaMod:IllyaEvokeAll": {
+    "NAME": "激发所有",
+    "DESCRIPTION": "激发所有的充能球。"
+  },
+
+  "PrismaMod:IllyaHassanGift": {
+    "NAME": "Assassin的礼物",
+    "DESCRIPTION": "生成 !M! 个 prismamod:毒药 充能球。"
+  },
+
+  "PrismaMod:IllyaMultiEvoke": {
+    "NAME": "多重释放",
+    "DESCRIPTION": "激发下 X 个充能球。",
+    "UPGRADE_DESCRIPTION" : "激发下 X 个充能球但不移除。"
+  },
+
+  "PrismaMod:IllyaRapidFire": {
+    "NAME": "快速开火",
+    "DESCRIPTION": "prismamod:力量标度 。 造成 !D! 点伤害 !M! 次。值等于目前充能球栏位个数。"
+  },
+
+  "PrismaMod:IllyaReinForce": {
+    "NAME": "强力防御",
+    "DESCRIPTION": "prismamod:敏捷标度 。获得 !B! 点 格挡  !M! 次。值等于目前充能球栏位个数。"
+  },
+
+  "PrismaMod:IllyaSaphire": {
+    "NAME": "蓝宝石",
+    "DESCRIPTION": "获得 !M! 个充能球栏位并抽 !PrismaMod:SecondMagic! 张牌。 消耗 。"
+  },
+
+  "PrismaMod:IllyaUberChannel": {
+    "NAME": "超级生成",
+    "DESCRIPTION": "随机生成最大数量的充能球。"
+  },
+
+  "PrismaMod:IllyaUncommonEvoke": {
+    "NAME": "快速释放",
+    "DESCRIPTION": "激发并释放最右侧的充能球。"
+  },
+
+  "PrismaMod:IllyaUpgradeOrbs": {
+    "NAME": "升级充能球",
+    "DESCRIPTION": "本回合翻倍被动和 激发 效果。"
+  },
+
+  "PrismaMod:IllyaBlindPoisonToss": {
+    "NAME": "盲目投毒",
+    "DESCRIPTION": " !M! 个随机敌人 !PrismaMod:SecondMagic! 层 中毒 。"
+  },
+
+  "PrismaMod:IllyaFeed": {
+    "NAME": "喂养",
+    "DESCRIPTION": "造成 !D! 点伤害。回复最多15等于敌人中毒层数的生命。 消耗 。"
+  },
+
+  "PrismaMod:IllyaFriendMaker": {
+    "NAME": "交朋结友",
+    "DESCRIPTION": "造成 !D! 点伤害。给予 !M! 层 中毒 。"
+  },
+
+  "PrismaMod:IllyaPoisonBomb": {
+    "NAME": "毒药炸弹",
+    "DESCRIPTION": "给予所有敌人 !M! 层 中毒 。"
+  },
+
+  "PrismaMod:IllyaPoisoningPhantasm": {
+    "NAME": "毒药幻象",
+    "DESCRIPTION": "prismamod:引爆 所有 中毒 敌人。"
+  },
+
+  "PrismaMod:IllyaPoisonTippedWeapons": {
+    "NAME": "毒尖",
+    "DESCRIPTION": "所有的攻击牌给予 !M! 层 中毒 。",
+    "UPGRADE_DESCRIPTION": "保留 。所有的攻击牌给予 !M! 层 中毒 。"
+  },
+
+  "PrismaMod:IllyaRussianRoulette": {
+    "NAME": "俄罗斯轮盘",
+    "DESCRIPTION": "给予房内随机单位 !M! 层 中毒 。"
+  },
+
+  "PrismaMod:IllyaStunPoison": {
+    "NAME": "灾祸",
+    "DESCRIPTION": "造成 !D! 点 伤害。如果目标敌人有 中毒 ，再造成 !D! 点伤害。"
+  },
+
+  "PrismaMod:IllyaCommonAttack": {
+    "NAME": "发射",
+    "DESCRIPTION": "造成 !D! 点 伤害。"
+  },
+
+  "PrismaMod:IllyaBoysLove": {
+    "NAME": "BL",
+    "DESCRIPTION": "给予所有敌人 !M! 层 中毒 。"
+  },
+
+  "PrismaMod:IllyaDetonatingBlow": {
+    "NAME": "起爆",
+    "DESCRIPTION": "造成 !D! 点无视格挡伤害。 prismamod:引爆 目标的 中毒 。"
+  },
+
+  "PrismaMod:IllyaCommonDefend": {
+    "NAME": "护盾",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+
+  "PrismaMod:IllyaUncommonAttack": {
+    "NAME": "真实火焰",
+    "DESCRIPTION": "造成 !D! 点伤害。给予 !M! 层 易伤 。"
+  },
+
+  "PrismaMod:IllyaUncommonDefend": {
+    "NAME": "真实护盾",
+    "DESCRIPTION": "获得 !B! 点 格挡 并获得 !M! 层 多层护甲 。"
+  },
+
+  "PrismaMod:IllyaBride": {
+    "NAME": "聘礼",
+    "DESCRIPTION": " 抽 !M! 张牌。 消耗 。",
+    "UPGRADE_DESCRIPTION": "保留 。 固有 。 抽 !M! 张牌。 消耗 。"
+  },
+
+  "PrismaMod:IllyaDevil": {
+    "NAME": "恶魔少女",
+    "DESCRIPTION": "造成 !D! 点伤害并抽 !M! 张牌。"
+  },
+
+  "PrismaMod:IllyaGun": {
+    "NAME": "枪械",
+    "DESCRIPTION": "造成 !D! 点 伤害 。"
+  },
+
+  "PrismaMod:IllyaMaid": {
+    "NAME": "女仆",
+    "DESCRIPTION": "本回合受到双倍伤害。下一回合获得 [E] [E] [E] 。"
+  },
+
+  "PrismaMod:IllyaZwei": {
+    "NAME": "双子形态",
+    "DESCRIPTION": "清除所有的梦幻召唤。获得 !M! 点 力量 ，获得 13 [E] ，抽 !PrismaMod:SecondMagic! 张牌，所有栏位生成 prismamod:双星 充能球，同时每回合结束时 prismamod:完全引爆 所有的 中毒 。下一回合获得 -99 点 力量 和 99 层 易伤 。每回合开始时失去所有 [E] 。"
+  },
+
+  "PrismaMod:IllyaAlice": {
+    "NAME": "爱丽丝形态",
+    "DESCRIPTION": "获得 !M! 层 易伤 。概率生成一个特殊的 prismamod:宝具 或回复 !PrismaMod:SecondMagic! 生命。 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 易伤 。回复 !PrismaMod:SecondMagic! 生命。 消耗 。"
+  },
+
+  "PrismaMod:IllyaTestament": {
+    "NAME": "亡语",
+    "DESCRIPTION": "激发 所有的充能球。生成最大数量的 prismamod:亡语 充能球。"
+  },
+
+  "PrismaMod:IllyaCommandSeal": {
+    "NAME": "圣痕",
+    "DESCRIPTION": "回复 !M! 点生命。 NL 获得 !PrismaMod:SecondMagic! 层 无实体 。 消耗 。"
+  },
+
+  "PrismaMod:IllyaRubysPotion": {
+    "NAME": "红宝石药水",
+    "DESCRIPTION": "回复 !M! 生命。 消耗 。"
+  },
+
+  "PrismaMod:IllyaAOECommonAttack": {
+    "NAME": "切片火",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害."
+  },
+
+  "PrismaMod:IllyaGrail": {
+    "NAME": "圣杯",
+    "DESCRIPTION": "抽 !M! 张牌。获得 [E] [E] 。 消耗 。"
+  },
+
+  "PrismaMod:IllyaGrailKun": {
+    "NAME": "Grail君",
+    "DESCRIPTION": "从你的牌组中选择1张攻击牌和技能牌加入你的手牌."
+  },
+
+  "PrismaMod:IllyaPartialInstallAssassin": {
+    "NAME": "梦幻召唤Assassin Partial",
+    "DESCRIPTION": "每当你本回合打出一张攻击牌，对所有敌人造成 !D! 点伤害。 NL 消耗 。"
+  },
+
+
+
+
+
+
+  "PrismaMod:IllyaMinorZwei": {
+    "NAME": "劣等双子形态",
+    "DESCRIPTION": "获得 !B! 点 格挡 。将 !M! 张 *灼伤 加入你的手牌。"
+  },
+
+  "PrismaMod:IllyaCheapDefend": {
+    "NAME": "劣等阿瓦隆",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+
+  "PrismaMod:IllyaCheapAttack": {
+    "NAME": "劣等契约胜利之剑",
+    "DESCRIPTION": "造成 !D! 点伤害。给予 !M! 层 虚弱 。"
+  },
+
+  "PrismaMod:IllyaChanneledBlock": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": " "
+  },
+
+  "PrismaMod:IllyaChanneledAttack": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": ""
+  },
+
+  "PrismaMod:IllyaCheapChannelAttack": {
+    "NAME": "劣等攻击充能球",
+    "DESCRIPTION": "生成 !M! 个 prismamod:攻击充能球 。"
+  },
+
+  "PrismaMod:IllyaCheapChannelDefend": {
+    "NAME": "劣等防御充能球",
+    "DESCRIPTION": "生成 !M! 个 prismamod:防御充能球 。"
+  },
+
+  "PrismaMod:IllyaCheapChannelPoison": {
+    "NAME": "劣等毒药充能球",
+    "DESCRIPTION": "生成 !M! 个 prismamod:毒药充能球 。"
+  },
+
+  "PrismaMod:IllyaMinorRapidFire": {
+    "NAME": "劣等连续开火",
+    "DESCRIPTION": "造成 !D! 点伤害。抽 !M! 张牌。"
+  },
+
+  "PrismaMod:IllyaMinorReinForce": {
+    "NAME": "劣等强力防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 。抽 !M! 张牌。"
+  },
+
+  "PrismaMod:IllyaUberAttackChannel": {
+    "NAME": "超级攻击生成",
+    "DESCRIPTION": "获得最大数量的 prismamod:攻击充能球 。"
+  },
+
+  "PrismaMod:IllyaUberDefendChannel": {
+    "NAME": "超级防御生成",
+    "DESCRIPTION": "获得最大数量的 prismamod:防御充能球 。"
+  },
+
+  "PrismaMod:IllyaUberPoisonChannel": {
+    "NAME": "超级毒药生成",
+    "DESCRIPTION": "获得最大数量的 prismamod:毒药充能球 。"
+  },
+
+  "PrismaMod:IllyaUberPoisonBlock": {
+    "NAME": "超级毒药格挡",
+    "DESCRIPTION": "prismamod:吸收 。 获得 !M! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "prismamod:超级吸收 。 获得 !M! 点 格挡 。"
+  },
+
+  "PrismaMod:IllyaPoisonBlock": {
+    "NAME": "毒药格挡",
+    "DESCRIPTION": "prismamod:劣等吸收 。 获得 !M! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "prismamod:吸收 。 获得 !M! 点 格挡 。"
+  },
+
+
+
+
+  "PrismaMod:IllyaInstallArcher": {
+    "NAME": "梦幻召唤Archer",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 每回合加入一张随机0费牌。 每回合获得 1 点 力量 。"
+  },
+
+  "PrismaMod:IllyaInstallAssassin": {
+    "NAME": "梦幻召唤Assassin",
+    "DESCRIPTION": " prismamod:梦幻召唤 :每回合 prismamod:闪避 第一下攻击。所有的攻击给予1层 中毒。攻击牌伤害变为 !M!% 而你额外承受 !PrismaMod:SecondMagic! %的伤害。生成1个 prismamod:刺客 充能球。攻击boss敌人造成额外的3点无视格挡伤害并给予1层 中毒 。"
+  },
+
+  "PrismaMod:IllyaInstallBerserker": {
+    "NAME": "梦幻召唤Berserker",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 受到双倍伤害，造成双倍伤害。"
+  },
+
+  "PrismaMod:IllyaInstallCaster": {
+    "NAME": "梦幻召唤Caster",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 每回合获得 [E] 。提高充能球被动和激发效果。获得1个充能球栏位。每回合生成1个随机充能球。"
+  },
+
+  "PrismaMod:IllyaInstallLancer": {
+    "NAME": "梦幻召唤Lancer",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 每 !M! 次攻击，给予 虚弱 、 脆弱 、 易伤 。"
+  },
+
+  "PrismaMod:IllyaInstallRider": {
+    "NAME": "梦幻召唤Rider",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 每回合获得  !M!  点 敏捷 。每次攻击对所有非boss敌人 NL 造成 !PrismaMod:SecondMagic! 点伤害。"
+  },
+
+  "PrismaMod:IllyaInstallSaber": {
+    "NAME": "梦幻召唤Saber",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 每回合获得 力量 。对boss额外造成 !M! 点无视格挡伤害。回复 !PrismaMod:SecondMagic! 点生命。每回合的第一张攻击牌额外造成 50% 的伤害。"
+  },
+
+  "PrismaMod:IllyaInstallForeigner": {
+    "NAME": "梦幻召唤Foreigner",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 充能球的激发效果翻倍。激发充能球造成的伤害将给予目标中毒。"
+  },
+
+  "PrismaMod:IllyaInstallAvenger": {
+    "NAME": "梦幻召唤Avenger",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 每回合从来自非boss的攻击伤害中受到 !M!% 伤害并对所有敌人造成5点伤害。"
+  },
+
+  "PrismaMod:IllyaInstallAlterEgo": {
+    "NAME": "梦幻召唤Alter Ego",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 每回合获得1个充能球栏位，激发最右侧的充能球，所有的技能牌的打出费用减少1。"
+  },
+
+  "PrismaMod:IllyaInstallMoonCancer": {
+    "NAME": "梦幻召唤Moon Cancer",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 每回合获得1张随机无色牌。充能球的被动效果翻倍。获得一个充能球栏位"
+  },
+
+  "PrismaMod:IllyaInstallRuler": {
+    "NAME": "梦幻召唤Ruler",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 每回合获得 1 点 力量 、 敏捷 。"
+  },
+
+  "PrismaMod:IllyaInstallShielder": {
+    "NAME": "梦幻召唤Shielder",
+    "DESCRIPTION": " prismamod:梦幻召唤 : 获得 !M! 点 格挡 并回复 !PrismaMod:SecondMagic! 点生命。"
+  },
+
+
+
+
+
+
+  "PrismaMod:ChloeExhaustOne": {
+    "NAME": "稍作解构",
+    "DESCRIPTION": "从你的牌堆中选择1张牌并 消耗 。每消耗一张牌，获得 !M! 张 prismamod:箭矢 。"
+  },
+
+  "PrismaMod:ChloeExhaustTwo": {
+    "NAME": "认真解构",
+    "DESCRIPTION": "从你的牌堆中选择2张牌并 消耗 。每消耗一张牌，获得 !M! 张 prismamod:箭矢 。"
+  },
+
+  "PrismaMod:ChloeExhaustThree": {
+    "NAME": "超级解构",
+    "DESCRIPTION": "从你的牌堆中选择3张牌并 消耗 。每消耗一张牌，获得 !M! 张 prismamod:箭矢 。"
+  },
+
+  "PrismaMod:ChloeChristmas": {
+    "NAME": "圣诞礼物",
+    "DESCRIPTION": "抽 !M! 张牌。"
+  },
+
+  "PrismaMod:ChloeDemonicTutor": {
+    "NAME": "魔鬼导师",
+    "DESCRIPTION": "从你的牌堆中选择 !M! 张牌加入你的手牌。",
+    "UPGRADE_DESCRIPTION": "从你的牌堆中选择 !M! 张牌加入你的手牌。"
+  },
+
+  "PrismaMod:ChloeDevil": {
+    "NAME": "魔鬼伪装",
+    "DESCRIPTION": "消耗 。造成 !D! 点伤害并回复 !M! 生命。"
+  },
+
+  "PrismaMod:ChloeDiscardRecovery": {
+    "NAME": "追踪回收",
+    "DESCRIPTION": "从你的弃牌堆中选择 !M! 张牌并加入你的手牌。",
+    "UPGRADE_DESCRIPTION": "从你的弃牌堆中选择 !M! 张牌并加入你的手牌。"
+  },
+
+  "PrismaMod:ChloeHalloween": {
+    "NAME": "不给糖就捣蛋",
+    "DESCRIPTION": "概率获得 !M! 张诅咒或 !M! 张随机牌。",
+    "UPGRADE_DESCRIPTION": "概率获得 !M! 张诅咒或 !M! 张随机牌。"
+  },
+
+  "PrismaMod:ChloeMaid": {
+    "NAME": "女仆形态",
+    "DESCRIPTION": "本回合受到三倍伤害，下一回合获得 [E] [E] [E] 。"
+  },
+
+  "PrismaMod:ChloeMordred": {
+    "NAME": "莫德雷德形态",
+    "DESCRIPTION": "消耗 。获得 !M! 点 力量 。"
+  },
+
+  "PrismaMod:ChloeReshuffleDiscard": {
+    "NAME": "再生轨迹",
+    "DESCRIPTION": "将你的弃牌堆洗入抽牌堆并抽 !M! 张牌。"
+  },
+
+  "PrismaMod:ChloeRitsuka": {
+    "NAME": "红发高手",
+    "DESCRIPTION": "消耗 。 获得 !M! 点 敏捷 。"
+  },
+
+  "PrismaMod:ChloeUnlimitedBladeWorks": {
+    "NAME": "无限剑制",
+    "DESCRIPTION": "至多选择 3 张曾经被追踪的牌，以0耗能加入手牌。",
+    "UPGRADE_DESCRIPTION": "至多选择 3 张曾经被追踪的牌，将它们 升级 并以0耗能加入手牌。"
+  },
+
+  "PrismaMod:ChloeCarnivalAOEAttack": {
+    "NAME": "嘉年华AOE攻击",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。每攻击一名敌人，至多 消耗 1 张牌。每消耗一张牌，获得 2 张 prismamod:箭矢 。"
+  },
+
+  "PrismaMod:ChloeCarnivalAttack": {
+    "NAME": "嘉年华攻击",
+    "DESCRIPTION": "造成 !D! 点伤害。获得 !M! 点 力量。"
+  },
+
+  "PrismaMod:ChloeCarnivalDefend": {
+    "NAME": "嘉年华防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 。获得 !M! 点 敏捷 。"
+  },
+
+  "PrismaMod:ChloeCheapAttack": {
+    "NAME": "隐秘攻击",
+    "DESCRIPTION": "造成 !D! 点伤害。给予 !M! 层 易伤 。"
+  },
+
+  "PrismaMod:ChloeCheapAttackTwo": {
+    "NAME": "美少女特攻队",
+    "DESCRIPTION": "造成 !D! 点伤害。 给予 !M! 层 虚弱 。"
+  },
+
+  "PrismaMod:ChloeCheapDefend": {
+    "NAME": "魔法护甲",
+    "DESCRIPTION": "获得 !B! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 消耗 1 张牌并获得 2 张 prismamod:箭矢 。"
+  },
+
+  "PrismaMod:ChloeCheapDefendTwo": {
+    "NAME": "简易护甲",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+
+  "PrismaMod:ChloeCommonAOEAttack": {
+    "NAME": "劈斩",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。"
+  },
+
+  "PrismaMod:ChloeCommonAttack": {
+    "NAME": "劈砍",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+
+  "PrismaMod:ChloeCommonDefend": {
+    "NAME": "盾构",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+
+  "PrismaMod:ChloeShiv": {
+    "NAME": "箭矢",
+    "DESCRIPTION": "消耗 。 造成 !D! 点伤害。"
+  },
+
+  "PrismaMod:ChloeUncommonAOEAttack": {
+    "NAME": "横扫",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。"
+  },
+
+  "PrismaMod:ChloeUncommonAttack": {
+    "NAME": "长矛",
+    "DESCRIPTION": "造成 !D! 点伤害。 给予 !M! 层 易伤 。"
+  },
+
+  "PrismaMod:ChloeUncommonDefend": {
+    "NAME": "封锁",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+
+  "PrismaMod:ChloeBetterTracePools": {
+    "NAME": "改善追踪",
+    "DESCRIPTION": "将追踪池中的普通牌移除。"
+  },
+
+  "PrismaMod:ChloeDoubleRelicSpeed": {
+    "NAME": "速度追踪",
+    "DESCRIPTION": "你打出的牌现在被 干将·莫邪 效果计数两次。"
+  },
+
+  "PrismaMod:ChloeGreatTracePools": {
+    "NAME": "强大追踪",
+    "DESCRIPTION": "将追踪池中的普通和罕见牌移除。"
+  },
+
+  "PrismaMod:ChloeCaladbolg": {
+    "NAME": "伪·伪·螺旋剑",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害 !M! 次。"
+  },
+
+  "PrismaMod:ChloeExcalibur": {
+    "NAME": "契约胜利之剑",
+    "DESCRIPTION": "对目标造成 !D! 点伤害。对首领造成双倍伤害。"
+  },
+
+  "PrismaMod:ChloeEyeOfTheEuryale": {
+    "NAME": "尤瑞艾莉之眼",
+    "DESCRIPTION": "造成 !D! 点伤害。 给予 1 层 prismamod:吸引 。"
+  },
+
+  "PrismaMod:ChloeGaeBolg": {
+    "NAME": "穿破的死翔之枪",
+    "DESCRIPTION": "造成 !D! 点伤害。 给予 !M! 层 虚弱 ， 易伤 和 脆弱 。"
+  },
+
+  "PrismaMod:ChloePhantasmPunishment": {
+    "NAME": "贬低",
+    "DESCRIPTION": "贬低"
+  },
+
+  "PrismaMod:ChloeRhongomyniad": {
+    "NAME": "阿尔托利亚",
+    "DESCRIPTION": "造成 !D! 点伤害并移除目标所有的 格挡 。"
+  },
+
+  "PrismaMod:ChloeRuleBreaker": {
+    "NAME": "万符必应破",
+    "DESCRIPTION": "造成 !D! 点伤害并清空目标所有的能力。"
+  },
+
+  "PrismaMod:ChloeCreateableTraceCard": {
+    "NAME": "追踪",
+    "DESCRIPTION": " 消耗 。从指定卡池选择一张牌。",
+    "UPGRADE_DESCRIPTION": "已升级",
+    "EXTENDED_DESCRIPTION": [" 消耗 。选择 1 张 "," 牌， NL 从所有的 "," "," ","牌中。"]
+  },
+
+  "PrismaMod:ChloeAnyAttackTrace": {
+    "NAME": "攻击追踪",
+    "DESCRIPTION": "prismamod:追踪 任意 1 张攻击牌。"
+  },
+
+  "PrismaMod:ChloeAnyCommonTrace": {
+    "NAME": "普通追踪",
+    "DESCRIPTION": "prismamod:追踪 任意 1 张普通牌。"
+  },
+
+  "PrismaMod:ChloeAnyPowerTrace": {
+    "NAME": "能力追踪",
+    "DESCRIPTION": "prismamod:追踪 任意 1 张能力牌。"
+  },
+
+  "PrismaMod:ChloeAnyRareTrace": {
+    "NAME": "稀有追踪",
+    "DESCRIPTION": "prismamod:追踪 任意 1 张稀有牌。"
+  },
+
+  "PrismaMod:ChloeAnySkillTrace": {
+    "NAME": "技能追踪",
+    "DESCRIPTION": "prismamod:追踪 任意 1 张技能牌。"
+  },
+
+  "PrismaMod:ChloeAnyUncommonTrace": {
+    "NAME": "罕见追踪",
+    "DESCRIPTION": "prismamod:追踪 任意 1 张罕见牌。"
+  },
+
+
+
+
+
+  "PrismaMod:MiyuBride": {
+    "NAME": "聘礼",
+    "DESCRIPTION": "消耗 。抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "保留 。 固有 。 消耗 。 抽 !M! 张牌。"
+  },
+  "PrismaMod:MiyuChristmas": {
+    "NAME": "梦幻召唤Santa",
+    "DESCRIPTION": "选择抽牌堆的 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuDevil": {
+    "NAME": "梦幻召唤Devil ",
+    "DESCRIPTION": "造成 !D! 点伤害。抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuMaid": {
+    "NAME": "梦幻召唤Maid",
+    "DESCRIPTION": "本回合造成双倍伤害。下一回合获得3 [E] 。"
+  },
+  "PrismaMod:MiyuCarnivalAOEAttack": {
+    "NAME": "嘉年华扫荡",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害 !M! 次。"
+  },
+  "PrismaMod:MiyuCarnivalAttack": {
+    "NAME": "嘉年华刺击",
+    "DESCRIPTION": "造成 !D! 点伤害3次。"
+  },
+  "PrismaMod:MiyuCarnivalDefend": {
+    "NAME": "嘉年华护盾",
+    "DESCRIPTION": "获得 !B! 点 格挡 。获得 !M! 点 敏捷 。"
+  },
+  "PrismaMod:MiyuCheapAttack1": {
+    "NAME": "收编Lancer",
+    "DESCRIPTION": "造成 !D! 点伤害。给予 !M! 层 易伤 。"
+  },
+  "PrismaMod:MiyuCheapAttack2": {
+    "NAME": "收编Archer",
+    "DESCRIPTION": "造成 !D! 点伤害。给予 !M! 层 虚弱 。"
+  },
+  "PrismaMod:MiyuCheapDefend1": {
+    "NAME": "小再生屏障",
+    "DESCRIPTION": "消耗 。获得 !B! 点 格挡 。获得 !M! [E] 。"
+  },
+  "PrismaMod:MiyuCheapDefend2": {
+    "NAME": "活动屏障",
+    "DESCRIPTION": "消耗 。获得 !B! 点 格挡 。获得 !M! 层 多层护甲 。"
+  },
+  "PrismaMod:MiyuCheapDexBuff": {
+    "NAME": "魔法步伐",
+    "DESCRIPTION": "获得 !M! 点 敏捷 。"
+  },
+  "PrismaMod:MiyuCheapPlate": {
+    "NAME": "收编Shielder",
+    "DESCRIPTION": "获得 !M! 层 荆棘 。"
+  },
+  "PrismaMod:MiyuCheapStrBuff": {
+    "NAME": "收编Berserker",
+    "DESCRIPTION": "获得 !M! 点 力量 。"
+  },
+  "PrismaMod:MiyuCommonAOEAttack": {
+    "NAME": "劈砍",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。"
+  },
+  "PrismaMod:MiyuCommonAttack": {
+    "NAME": "蓝宝石剑刃",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "PrismaMod:MiyuCommonDefend": {
+    "NAME": "护盾",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+  "PrismaMod:MiyuDefenseAbsorbMinor": {
+    "NAME": "收编Avenger",
+    "DESCRIPTION": "prismamod:格挡吸收 。"
+  },
+  "PrismaMod:MiyuDefenseAbsorbUber": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuDefenseExplosion": {
+    "NAME": "进攻护盾",
+    "DESCRIPTION": "prismamod:格挡爆破 。"
+  },
+  "PrismaMod:MiyuDefenseRemoval": {
+    "NAME": "美杜莎的凝视",
+    "DESCRIPTION": "消耗 。移除所有 格挡 并给予 prismamod:吸引 。"
+  },
+  "PrismaMod:MiyuUberAOEAttack": {
+    "NAME": "能量汲取",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。每打中敌人一次，下一回合获得 !M! [E] 。"
+  },
+  "PrismaMod:MiyuUberAttack": {
+    "NAME": "收编Saber",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 抽 !M! 张牌。"
+  },
+  "PrismaMod:MiyuUberDefend": {
+    "NAME": "大保护者",
+    "DESCRIPTION": "消耗 。给予 !M! 层 prismamod:闪避 。获得 !B! 点 格挡 。"
+  },
+  "PrismaMod:MiyuUncommonAOEAttack": {
+    "NAME": "扫射火",
+    "DESCRIPTION": "移除所有敌人的 格挡 。对所有敌人造成 !D! 点伤害。"
+  },
+  "PrismaMod:MiyuUncommonAttack": {
+    "NAME": "蓝宝石Lance",
+    "DESCRIPTION": "造成 !D! 点伤害。本场战斗将这张牌的伤害提高 !M! 。"
+  },
+  "PrismaMod:MiyuUncommonDefend": {
+    "NAME": "大能量屏障",
+    "DESCRIPTION": "获得 !B! 点 格挡 。本场战斗将这张牌的格挡获得提高 !M! "
+  },
+  "PrismaMod:MiyuUncommonDexBuff": {
+    "NAME": "魔法步伐教学",
+    "DESCRIPTION": "获得 !M! 点 敏捷 、 力量 和 集中 。"
+  },
+  "PrismaMod:MiyuUncommonPlate": {
+    "NAME": "爱德费尔特的保护",
+    "DESCRIPTION": "消耗 。获得 !M! 层 多层护甲 。"
+  },
+  "PrismaMod:MiyuUncommonStrBuff": {
+    "NAME": "大保护者",
+    "DESCRIPTION": "获得 !M! 点 集中 。"
+  },
+  "PrismaMod:MiyuAttackChannelAttack": {
+    "NAME": "成长劈砍",
+    "DESCRIPTION": "造成 !D! 点伤害。生成 !M! 个 prismamod:成长充能球 。"
+  },
+  "PrismaMod:MiyuAttackChannelVul": {
+    "NAME": "深切",
+    "DESCRIPTION": "造成 !D! 点伤害。生成 !M! 个 prismamod:易伤充能球 。"
+  },
+  "PrismaMod:MiyuAttackChannelWeak": {
+    "NAME": "精准刺击",
+    "DESCRIPTION": "造成 !D! 点伤害。生成 !M! 个 prismamod:虚弱充能球 。"
+  },
+  "PrismaMod:MiyuChannelAttackEvoke": {
+    "NAME": "魔法打击",
+    "DESCRIPTION": "获得 !M! 点 集中 。造成 !D! 点伤害 !M! 次。充能球栏位最大数减少1。"
+  },
+  "PrismaMod:MiyuChannelDefendEvoke": {
+    "NAME": "要塞",
+    "DESCRIPTION": "获得 !M! 点 集中 。获得 !B! 点 格挡 !M! 次。充能球栏位最大数减少1。"
+  },
+  "PrismaMod:MiyuChannelHealEvoke": {
+    "NAME": "DEPRECATED Regenerative Stance",
+    "DESCRIPTION": "DEPRECATED 消耗 。 激发 。Heal !M!."
+  },
+  "PrismaMod:MiyuChannelRandomEvoke": {
+    "NAME": "DEPRECATED Guessing Game",
+    "DESCRIPTION": "DEPRECATED 消耗 。 激发 。Channel !M! prismamod:随机充能球."
+  },
+  "PrismaMod:MiyuChannelVulEvoke": {
+    "NAME": "DEPRECATED Unfortunate Stance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! vulnerable."
+  },
+  "PrismaMod:MiyuChannelWeakEvoke": {
+    "NAME": "DEPRECATED Off Balance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! weak."
+  },
+  "PrismaMod:MiyuCheapChannelAttack": {
+    "NAME": "蓝宝石攻势",
+    "DESCRIPTION": "生成 !M! 个 prismamod:成长充能球 。"
+  },
+  "PrismaMod:MiyuCheapChannelDefend": {
+    "NAME": "蓝宝石防御",
+    "DESCRIPTION": "生成 !M! 个 prismamod:护盾充能球 。"
+  },
+  "PrismaMod:MiyuCheapChannelHeal": {
+    "NAME": "蓝宝石修补",
+    "DESCRIPTION": "消耗 。 生成 !M! 个 prismamod:治疗充能球 。"
+  },
+  "PrismaMod:MiyuCheapChannelRandom": {
+    "NAME": "蓝宝石随机",
+    "DESCRIPTION": "生成 !M! 个 prismamod:随机充能球 。"
+  },
+  "PrismaMod:MiyuCheapChannelVul": {
+    "NAME": "埃德菲尔德的指导",
+    "DESCRIPTION": "生成 !M! 个 prismamod:易伤充能球 。"
+  },
+  "PrismaMod:MiyuCheapChannelWeak": {
+    "NAME": "蓝宝石计划",
+    "DESCRIPTION": "生成 !M! 个 prismamod:虚弱充能球 。"
+  },
+  "PrismaMod:MiyuCheapEvoke": {
+    "NAME": "释放",
+    "DESCRIPTION": "激发 。将弃牌堆中的一张牌加入你的手牌。",
+    "UPGRADE_DESCRIPTION": "固有 。 激发 。将弃牌堆中的一张牌加入你的手牌。"
+  },
+  "PrismaMod:MiyuDefendChannelDefend": {
+    "NAME": "结晶魔法",
+    "DESCRIPTION": "获得 !B! 点 格挡 。生成 !M! 个 prismamod:护盾充能球 。"
+  },
+  "PrismaMod:MiyuEvokeAll": {
+    "NAME": "大释放",
+    "DESCRIPTION": "激发 所有的充能球。每激发一次，抽 !M! 张牌。"
+  },
+  "PrismaMod:MiyuEvokeAllAttack": {
+    "NAME": "界限突破",
+    "DESCRIPTION": "激发 所有的充能球。造成 !D! 点伤害 !M! 次。"
+  },
+  "PrismaMod:MiyuEvokeAllDefend": {
+    "NAME": "朋友的保护",
+    "DESCRIPTION": "激发 所有的充能球。获得 !B! 点 格挡 !M! 次。"
+  },
+  "PrismaMod:MiyuEvokeBuffDex": {
+    "NAME": "Rider的礼物",
+    "DESCRIPTION": "消耗 。 激发 。本回合获得 !M! 点 敏捷 。"
+  },
+  "PrismaMod:MiyuEvokeBuffStr": {
+    "NAME": "Gil的礼物",
+    "DESCRIPTION": "消耗 。消耗 所有手中的非攻击牌。获得 !M! 金币。"
+  },
+  "PrismaMod:MiyuEvokeCheapAttack": {
+    "NAME": "收编Assassin",
+    "DESCRIPTION": "激发 。造成 !D! 点伤害。给予 !M! 层 虚弱 、 脆弱 和 易伤 。"
+  },
+  "PrismaMod:MiyuEvokeCheapDefend": {
+    "NAME": "收编Ruler",
+    "DESCRIPTION": "消耗 。 激发 。下一回合受到的伤害减半。"
+  },
+  "PrismaMod:MiyuOrbIncreasePerm": {
+    "NAME": "大魔法提升",
+    "DESCRIPTION": "消耗 。获得 !M! 个充能球栏位。"
+  },
+  "PrismaMod:MiyuOrbIncreaseTemp": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuMultiEvoke": {
+    "NAME": "完全释放",
+    "DESCRIPTION": "激发 X 次。",
+    "UPGRADE_DESCRIPTION": "激发 X 次。抽 X 张牌。"
+  },
+  "PrismaMod:MiyuEvokeTwo": {
+    "NAME": "释放",
+    "DESCRIPTION": "消耗 。激发 !M! 次。",
+    "UPGRADE_DESCRIPTION": "激发 !M! 次。"
+  }
+}

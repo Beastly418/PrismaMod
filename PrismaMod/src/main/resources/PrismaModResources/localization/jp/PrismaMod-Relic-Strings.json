@@ -1,0 +1,51 @@
+{
+  "PrismaMod:AliceRelic": {
+    "NAME": "ありすのクマ",
+    "FLAVOR": "しろう…？",
+    "DESCRIPTIONS": [
+      "敵が死んだ時にカードを 2 枚引く"
+      ]
+  },
+  "PrismaMod:PrismaRuby": {
+    "NAME": "ルビー",
+    "FLAVOR": "愉快型魔術礼装、カレイドステッキに宿る人工天然精霊。",
+    "DESCRIPTIONS": [
+      "戦闘開始時ランダムなオーブを得る。"
+    ]
+  },
+  "PrismaMod:PrismaZwei": {
+    "NAME": "ツヴァイステッキ",
+    "FLAVOR": "マジカルルビーとマジカルサファイアが融合した想像を絶する力が内蔵された杖",
+    "DESCRIPTIONS": [
+      "ターンの開始時にランダムなオーブを得る。"
+    ]
+  },
+  "PrismaMod:PrismaTraceOn": {
+    "NAME": "干将・莫耶",
+    "FLAVOR": "トレースオン！",
+    "DESCRIPTIONS": [
+      "カードを25枚プレイする度にトレース・オン！を手札に加える"
+    ]
+  },
+  "PrismaMod:PrismaTraceOnUpgrade": {
+    "NAME": "干将・莫耶改",
+    "FLAVOR": "トレースオン！",
+    "DESCRIPTIONS": [
+      "カードを20枚プレイする度にアップグレードされたトレース・オン！を手札に加える"
+    ]
+  },
+  "PrismaMod:PrismaSapphire": {
+    "NAME": "サファイア",
+    "FLAVOR": "歌って踊れるカレイドステッキ",
+    "DESCRIPTIONS": [
+      "戦闘開始時にランダムなオーブを得る。"
+    ]
+  },
+  "PrismaMod:PrismaSapphireUpgrade": {
+    "NAME": "マジカルサファイア",
+    "FLAVOR": "戦闘能力を高めてくれるステッキ",
+    "DESCRIPTIONS": [
+      "戦闘開始時にランダムなオーブと２筋力を得る。"
+    ]
+  }
+}

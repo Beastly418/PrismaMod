@@ -1,0 +1,124 @@
+{
+  "PrismaMod:IllyaTestamentOrb": {
+    "NAME": "テスタメントオーブ",
+    "DESCRIPTION": [
+      "#y自動: 毎ターン #r ",
+      " のダメージを受ける。 ",
+      " NL #y解放:  #g ",
+      " #pエナジーを得る。"
+    ]
+  },
+  "PrismaMod:IllyaZweiOrb": {
+    "NAME": "ツヴァイオーブ",
+    "DESCRIPTION": [
+      "#y解放:  #r ",
+      " ダメージを与える。 "
+    ]
+  },
+  "PrismaMod:IllyaPoisonOrb": {
+    "NAME": "毒オーブ",
+    "DESCRIPTION": [
+      "#y自動:  [#1fc51f]",
+      " ランダムな敵に毒を与える。",
+      " NL #y解放:  [#1fc51f]",
+      " 敵全体に毒を与える。"
+    ]
+  },
+  "PrismaMod:IllyaDefendOrb": {
+    "NAME": "防御オーブ",
+    "DESCRIPTION": [
+      "#y自動:  #b",
+      " ブロックを得る。",
+      " NL #y解放:  #b",
+      " ブロックを得る。"
+    ]
+  },
+  "PrismaMod:IllyaAttackOrb": {
+    "NAME": "攻撃オーブ",
+    "DESCRIPTION": [
+      "#y自動:  #r",
+      " ダメージを与える。",
+      " NL #y解放: 敵全体に #r",
+      " のダメージを与える "
+    ]
+  },
+  "PrismaMod:IllyaAssassinOrb": {
+    "NAME": "アサシンオーブ",
+    "DESCRIPTION": [
+      "#y自動:  [#1fc51f]",
+      " ナイフ1を得る。 ",
+      " NL #y解放: [#1fc51f]",
+      "  ナイフ2を得る。"
+    ]
+  },
+
+
+
+
+  "PrismaMod:MiyuAttackOrb": {
+    "NAME": "グロースオーブ",
+    "DESCRIPTION": [
+      "#y自動: ランダムな敵に #r",
+      " ダメージを与える。",
+      " NL #y解放:  #r",
+      " 筋力 を得る。"
+    ]
+  },
+  "PrismaMod:MiyuDefendOrb": {
+    "NAME": "シールドオーブ",
+    "DESCRIPTION": [
+      "#y自動:  #b",
+      " ブロックを得る。",
+      " NL #y解放  #b",
+      " 敏捷性 を得る。"
+    ]
+  },
+  "PrismaMod:MiyuHealOrb": {
+    "NAME": "ヒールオーブ",
+    "DESCRIPTION": [
+      "#y自動: ランダムな敵を #r",
+      " 回復。",
+      " NL #y解放: 自分を #r",
+      " 回復。"
+    ]
+  },
+  "PrismaMod:MiyuRandomOrb": {
+    "NAME": "ランダムオーブ",
+    "DESCRIPTION": [
+      "#y自動:  #r",
+      " ランダムな効果を得る",
+      " NL #y解放:  #r",
+      " ランダムな効果を得る",
+      "Random Orb: ", " アローを加える。",
+      "Random Orb: ", " ダメージを与える。",
+      "Random Orb: ", " ブロックを得る。",
+      "Random Orb: ", " 脆弱化を与える。",
+      "Random Orb: ", " 脱力を与える。",
+      "Random Orb: ", " カードを保留。",
+      "Random Orb: ", " エネルギーを得る。",
+      "Random Orb: ", " カードを引く。",
+      "Random Orb: ", " 自分にダメージ。",
+      "Random Orb: ", " 敵を回復。",
+      "Random Orb: ", " 呪いを得る。",
+      "Random Orb: How did I break the dice?!?!?!"
+    ]
+  },
+  "PrismaMod:MiyuVulOrb": {
+    "NAME": "フライルオーブ",
+    "DESCRIPTION": [
+      "#y自動: ランダムな敵に #r",
+      " 脆弱 を与える。",
+      " NL #y解放: 敵全体に #r",
+      " 脆弱 を与える。"
+    ]
+  },
+  "PrismaMod:MiyuWeakOrb": {
+    "NAME": "パウズオーブ",
+    "DESCRIPTION": [
+      "#yPassive: ランダムな敵に #r",
+      " 弱体 を与える。",
+      " NL #y解放: 敵全体に #r",
+      " 弱体 を与える。"
+    ]
+  }
+}

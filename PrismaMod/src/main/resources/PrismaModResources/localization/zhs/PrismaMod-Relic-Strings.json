@@ -1,0 +1,51 @@
+﻿{
+  "PrismaMod:AliceRelic": {
+    "NAME": "爱丽丝的熊",
+    "FLAVOR": "士郎？",
+    "DESCRIPTIONS": [
+      "当一名敌人死亡时，抽2张牌。"
+      ]
+  },
+  "PrismaMod:PrismaRuby": {
+    "NAME": "魔法红宝石",
+    "FLAVOR": "做一些可疑事情的万花筒。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，生成 1 个随机充能球。"
+    ]
+  },
+  "PrismaMod:PrismaZwei": {
+    "NAME": "双星手杖",
+    "FLAVOR": "一个组合了万花筒手杖能力有着不可思议能力的手杖。",
+    "DESCRIPTIONS": [
+      "每回合开始时，生成 1 个随机充能球。"
+    ]
+  },
+  "PrismaMod:PrismaTraceOn": {
+    "NAME": "干将·莫邪",
+    "FLAVOR": "追踪",
+    "DESCRIPTIONS": [
+      "每打出 25 张牌， #y追踪 一张牌。"
+    ]
+  },
+  "PrismaMod:PrismaTraceOnUpgrade": {
+    "NAME": "干将·莫邪+",
+    "FLAVOR": "追踪+",
+    "DESCRIPTIONS": [
+      "每打出 20 张牌， #y追踪 一张牌并将其升级。"
+    ]
+  },
+  "PrismaMod:PrismaSapphire": {
+    "NAME": "蓝宝石",
+    "FLAVOR": "能够帮助你跳舞的魔法棒。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时生成 1 个充能球。"
+    ]
+  },
+  "PrismaMod:PrismaSapphireUpgrade": {
+    "NAME": "蓝宝石+",
+    "FLAVOR": "能够提高你的作战效率的魔法棒。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时生成 1 个充能球并获得 2 点 #y力量。"
+    ]
+  }
+}

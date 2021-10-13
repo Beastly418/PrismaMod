@@ -1,0 +1,184 @@
+﻿[
+  {
+    "NAMES": [
+      "keyword",
+      "keywords"
+    ],
+    "DESCRIPTION": "Whenever you play a card, gain 1 dexterity this turn only。"
+  },
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME。 The rest is to match keywords like the single word keyword。"
+  },
+  {
+    "NAMES": ["梦幻召唤",
+      "梦幻召唤"
+    ],
+    "DESCRIPTION": "获得能力。 打出第二张 #y梦幻召唤牌 将会覆盖第一张的效果。"
+  },
+  {
+    "NAMES": ["引爆",
+      "引爆"
+    ],
+    "DESCRIPTION": "造成等于目标拥有的中毒的伤害。移除一半的中毒层数。"
+  },
+  {
+    "NAMES": ["攻击充能球", "攻击"
+    ],
+    "DESCRIPTION": "被动：对随机敌人造成 4 点伤害。激发：对随机敌人造成 8 点伤害。"
+  },
+  {
+    "NAMES": ["刺客充能球", "刺客"
+    ],
+    "DESCRIPTION": "被动：获得1张小刀。激发：获得2张小刀。"
+  },
+  {
+    "NAMES": ["防御充能球", "防御"
+    ],
+    "DESCRIPTION": "被动：获得4点格挡。激发：获得8点格挡。"
+  },
+  {
+    "NAMES": ["毒药充能球", "毒药"
+    ],
+    "DESCRIPTION": "被动：给予随机敌人1层中毒。激发：给予所有敌人1层中毒。"
+  },
+  {
+    "NAMES": ["亡语充能球", "亡语"
+    ],
+    "DESCRIPTION": "被动：对自己造成2点伤害。激发：获得1点能量。"
+  },
+  {
+    "NAMES": ["双星充能球", "双星"
+    ],
+    "DESCRIPTION": "被动：无。激发：对随机一名敌人造成8点伤害。"
+  },
+  {
+    "NAMES": ["闪避充能球", "闪避"
+    ],
+    "DESCRIPTION": "免疫下次攻击伤害。"
+  },
+  {
+    "NAMES": ["宝具", "宝具"
+    ],
+    "DESCRIPTION": "当一名敌人死亡时，抽两张牌。本效果只能触发一次。"
+  },
+  {
+    "PROPER_NAME": "敏捷标度",
+    "NAMES": ["敏捷标度"
+    ],
+    "DESCRIPTION": "这张牌获得的格挡等于你当前的 #y敏捷 。"
+  },
+  {
+    "PROPER_NAME": "力量标度",
+    "NAMES": ["力量标度"
+    ],
+    "DESCRIPTION": "这张牌造成的伤害等于你当前的 #y力量 。"
+  },{
+  "PROPER_NAME": "完全引爆",
+  "NAMES": ["完全引爆"
+  ],
+  "DESCRIPTION": "对目标造成等同于其 #y中毒 层数的伤害并移除目标的 #y中毒 。"
+  },
+
+
+  {
+    "NAMES": ["箭矢",
+      "箭矢"
+    ],
+    "DESCRIPTION": "就是 #y小刀 （懒得写了）"
+  },
+  {
+    "NAMES": ["吸引",
+      "吸引"
+    ],
+    "DESCRIPTION": "就是下回合 #y击晕 （这个也懒）"
+  },
+  {
+    "NAMES": ["追踪",
+      "追踪"
+    ],
+    "DESCRIPTION": "将一张牌耗能降低 1 并加入手牌。"
+  },
+
+
+
+  {
+    "PROPER_NAME": "劣等吸收",
+    "NAMES": ["劣等吸收"],
+    "DESCRIPTION": "获得等于所有敌人中毒层数 #一半 的格挡"
+  },
+  {
+  "PROPER_NAME": "吸收",
+    "NAMES": ["吸收"],
+    "DESCRIPTION": "获得等于所有敌人中毒层数的格挡"
+  },
+  {
+    "PROPER_NAME": "超级吸收",
+    "NAMES": ["超级吸收"],
+    "DESCRIPTION": "获得等于所有敌人中毒层数 #y两倍 的格挡"
+  },
+
+
+
+
+  {
+    "PROPER_NAME": "格挡吸收",
+    "NAMES": ["格挡吸收"],
+    "DESCRIPTION": "将所有敌人的格挡变为自己的。"
+  },
+
+  {
+    "PROPER_NAME": "格挡爆破",
+    "NAMES": ["格挡爆破"],
+    "DESCRIPTION": "对敌人造成敌人所带格挡的伤害。"
+  },
+
+  {
+    "PROPER_NAME": "成长充能球",
+    "NAMES": ["成长充能球"
+    ],
+    "DESCRIPTION": "被动：对随机敌人造成4点伤害。激发：获得1点力量。"
+  },
+
+  {
+    "PROPER_NAME": "护盾充能球",
+    "NAMES": ["护盾充能球"
+    ],
+    "DESCRIPTION": "被动：获得4点格挡。激发：获得1点敏捷。"
+  },
+
+  {
+    "PROPER_NAME": "治疗充能球",
+    "NAMES": ["治疗充能球"
+    ],
+    "DESCRIPTION": "被动：治疗随机敌人5点生命。激发：治疗自己3点生命。"
+  },
+
+  {
+    "PROPER_NAME": "随机充能球",
+    "NAMES": ["随机充能球"
+    ],
+    "DESCRIPTION": "被动：触发随机效果。激发：使用3个随机效果。"
+  },
+
+  {
+    "PROPER_NAME": "易伤充能球",
+    "NAMES": ["易伤充能球"
+    ],
+    "DESCRIPTION": "被动： 给予随机敌人1层易伤。激发：给予所有敌人1层易伤。"
+  },
+
+  {
+    "PROPER_NAME": "虚弱充能球",
+    "NAMES": ["虚弱充能球"
+    ],
+    "DESCRIPTION": "被动：给予随机敌人1层虚弱。激发：给予所有敌人1层虚弱。"
+  }
+]

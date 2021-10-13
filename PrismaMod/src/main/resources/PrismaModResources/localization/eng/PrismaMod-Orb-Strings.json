@@ -1,0 +1,125 @@
+{
+  "PrismaMod:IllyaTestamentOrb": {
+    "NAME": "Testament Orb",
+    "DESCRIPTION": [
+      "#yPassive: Deal ",
+      " damage to self each turn",
+      " NL #yEvoke: Gain ",
+      " Energy"
+    ]
+  },
+  "PrismaMod:IllyaZweiOrb": {
+    "NAME": "Zwei Orb",
+    "DESCRIPTION": [
+      "#yEvoke: Deal ",
+      " damage to single enemy."
+    ]
+  },
+  "PrismaMod:IllyaPoisonOrb": {
+    "NAME": "Poison Orb",
+    "DESCRIPTION": [
+      "#yPassive: Apply ",
+      " poison to random enemy.",
+      " NL #yEvoke: Apply ",
+      " poison to all enemies."
+    ]
+  },
+  "PrismaMod:IllyaDefendOrb": {
+    "NAME": "Defend Orb",
+    "DESCRIPTION": [
+      "#yPassive: Gain ",
+      " block.",
+      " NL #yEvoke: Gain ",
+      " block."
+    ]
+  },
+  "PrismaMod:IllyaAttackOrb": {
+    "NAME": "Attack Orb",
+    "DESCRIPTION": [
+      "#yPassive: Deal ",
+      " damage to random enemy.",
+      " NL #yEvoke: Deal ",
+      " damage to all enemies."
+    ]
+  },
+  "PrismaMod:IllyaAssassinOrb": {
+    "NAME": "Assassin Orb",
+    "DESCRIPTION": [
+      "#yPassive: Gain ",
+      " shiv.",
+      " NL #yEvoke: Gain ",
+      " shivs."
+    ]
+  },
+
+
+
+
+
+  "PrismaMod:MiyuAttackOrb": {
+    "NAME": "Growth Orb",
+    "DESCRIPTION": [
+      "#yPassive: Deal ",
+      " damage to random enemy.",
+      " NL #yEvoke: Gain ",
+      " strength."
+    ]
+  },
+  "PrismaMod:MiyuDefendOrb": {
+    "NAME": "Shield Orb",
+    "DESCRIPTION": [
+      "#yPassive: Gain ",
+      " block.",
+      " NL #yEvoke: Gain ",
+      " dexterity."
+    ]
+  },
+  "PrismaMod:MiyuHealOrb": {
+    "NAME": "Heal Orb",
+    "DESCRIPTION": [
+      "#yPassive: Heal ",
+      " to random enemy.",
+      " NL #yEvoke: Heal ",
+      " to self."
+    ]
+  },
+  "PrismaMod:MiyuRandomOrb": {
+    "NAME": "Random Orb",
+    "DESCRIPTION": [
+      "#yPassive: Unleash ",
+      " random effect.",
+      " NL #yEvoke: Unleash ",
+      " random effects.",
+      "Random Orb: ", " Arrow constructed",
+      "Random Orb: ", " Damage dealt to enemy",
+      "Random Orb: ", " Block gained",
+      "Random Orb: ", " Vulnerable applied",
+      "Random Orb: ", " Weak applied",
+      "Random Orb: ", " Card temporary protection complete",
+      "Random Orb: ", " Energy gained",
+      "Random Orb: ", " Cards drawn",
+      "Random Orb: ", " You hurt yourself in confusion",
+      "Random Orb: ", " Enemy healed",
+      "Random Orb: ", " Curse obtained",
+      "Random Orb: How did I break the dice?!?!?!"
+    ]
+  },
+  "PrismaMod:MiyuVulOrb": {
+    "NAME": "Vulnerable Orb",
+    "DESCRIPTION": [
+      "#yPassive: Apply ",
+      " vulnerable to random enemy.",
+      " NL #yEvoke: Apply ",
+      " vulnerable to all enemies."
+    ]
+  },
+  "PrismaMod:MiyuWeakOrb": {
+    "NAME": "Weak Orb",
+    "DESCRIPTION": [
+      "#yPassive: Apply ",
+      " weak to random enemy.",
+      " NL #yEvoke: Apply ",
+      " weak to all enemies."
+    ]
+  }
+}

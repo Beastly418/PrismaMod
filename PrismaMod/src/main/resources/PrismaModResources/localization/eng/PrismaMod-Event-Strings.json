@@ -1,0 +1,11 @@
+{
+  "PrismaMod:IdentityCrisisEvent": {
+    "NAME": "TEST EVENT STRINGS",
+    "DESCRIPTIONS": [
+      "TEMP DONT TRANSLATE"
+    ],
+    "OPTIONS": [
+      "TEST"
+    ]
+  }
+}

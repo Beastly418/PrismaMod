@@ -1,0 +1,192 @@
+[
+  {
+    "NAMES": [
+      "keyword",
+      "keywords"
+    ],
+    "DESCRIPTION": "Whenever you play a card, gain 1 dexterity this turn only."
+  },
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest is to match keywords like the single word keyword."
+  },
+  {
+    "NAMES": ["install",
+      "Install"
+    ],
+    "DESCRIPTION": "Applies power. Playing a second install card will override the first."
+  },
+  {
+    "PROPER_NAME": "poison expansion",
+    "NAMES": ["poison expansion",
+      "poison_expansion",
+      "Poison Expansion",
+      "Poison_Expansion"
+    ],
+    "DESCRIPTION": "Spreads 25% of target's poison to all enemies"
+  },
+  {
+    "NAMES": ["attack", "Attack"
+    ],
+    "DESCRIPTION": "Passive: Deal 4 damage to random enemy. Evoke: Deal 8 damage to random enemy."
+  },
+  {
+    "NAMES": ["assassin", "Assassin"
+    ],
+    "DESCRIPTION": "Passive: Gain 1 shiv. Evoke: Gain 2 shivs."
+  },
+  {
+    "NAMES": ["defend", "Defend"
+    ],
+    "DESCRIPTION": "Passive: Gain 2 block. Evoke: Gain 4 block."
+  },
+  {
+    "NAMES": ["poison", "Poison"
+    ],
+    "DESCRIPTION": "Passive: Apply 1 poison to random enemy. Evoke: Apply 1 poison to all enemies."
+  },
+  {
+    "NAMES": ["testament", "Testament"
+    ],
+    "DESCRIPTION": "Passive: Deals 2 damage to self. Evoke: Gain 1 energy."
+  },
+  {
+    "NAMES": ["zwei", "Zwei"
+    ],
+    "DESCRIPTION": "Passive: none. Evoke: Deal 8 damage to a random enemy."
+  },
+  {
+    "NAMES": ["evade", "Evade"
+    ],
+    "DESCRIPTION": "Avoids all damage from the next attack."
+  },
+  {
+    "NAMES": ["relic", "Relic"
+    ],
+    "DESCRIPTION": "Draw 2 when a monster dies. This can only be obtained once."
+  },
+  {
+    "PROPER_NAME": "dexterity scaling",
+    "NAMES": ["dexterity scaling", "dexterity_scaling"
+    ],
+    "DESCRIPTION": "This card's block is equal to your current dexterity"
+  },
+  {
+    "PROPER_NAME": "strength scaling",
+    "NAMES": ["strength scaling", "strength_scaling"
+    ],
+    "DESCRIPTION": "This card's damage is equal to your current strength"
+  },
+  {
+  "PROPER_NAME": "complete detonate",
+  "NAMES": ["complete detonate", "complete_detonate"
+  ],
+  "DESCRIPTION": "Deal damage equal to the number of poison stacks the target has.  Remove all poison on target."
+  },
+  {
+    "NAMES": ["arrow",
+      "Arrow",
+      "arrows",
+      "Arrows"
+    ],
+    "DESCRIPTION": "Arrows are #b0 cost Attack cards which Exhaust."
+  },
+  {
+    "NAMES": ["attract",
+      "Attract"
+    ],
+    "DESCRIPTION": "The creature can do nothing for its next action."
+  },
+  {
+    "NAMES": ["trace",
+      "Trace"
+    ],
+    "DESCRIPTION": "Add a card to your hand at 1 less cost"
+  },
+  {
+    "PROPER_NAME": "minor absorb",
+    "NAMES": ["minor absorb", "minor_absorb"
+    ],
+    "DESCRIPTION": "Gain block equal to half of all enemies poison."
+  },
+  {
+    "NAMES": ["absorb", "Absorb"
+    ],
+    "DESCRIPTION": "Gain block equal to all enemies poison."
+    },
+  {
+    "PROPER_NAME": "uber absorb",
+    "NAMES": ["uber absorb", "uber_absorb"
+    ],
+    "DESCRIPTION": "Gain block equal to double all enemies poison."
+  },
+
+
+
+
+  {
+    "PROPER_NAME": "block absorb",
+    "NAMES": ["block absorb","block_absorb"
+    ],
+    "DESCRIPTION": "Drain all enemies block and add it to yourself."
+  },
+
+  {
+    "PROPER_NAME": "block explosion",
+    "NAMES": ["block explosion","block_explosion"
+    ],
+    "DESCRIPTION": "Deal damage equal to the amount of block on each enemy"
+  },
+
+  {
+    "PROPER_NAME": "growth orb",
+    "NAMES": ["growth orb","growth_orb"
+    ],
+    "DESCRIPTION": "Passive: Deal 4 damage to random enemy. Evoke: Gain 1 strength."
+  },
+
+  {
+    "PROPER_NAME": "shield orb",
+    "NAMES": ["shield orb","shield_orb"
+    ],
+    "DESCRIPTION": "Passive: Gain 4 block. Evoke: Gain 1 dexterity."
+  },
+
+  {
+    "PROPER_NAME": "heal orb",
+    "NAMES": ["heal orb","heal_orb"
+    ],
+    "DESCRIPTION": "Passive: Heal random enemy 5. Evoke: Heal self 3."
+  },
+
+  {
+    "PROPER_NAME": "random orb",
+    "NAMES": ["random orb","random_orb"
+    ],
+    "DESCRIPTION": "Passive: Do a random effect. Evoke: Use 3 random effects."
+  },
+
+  {
+    "PROPER_NAME": "vulnerable orb",
+    "NAMES": ["vulnerable orb","vulnerable_orb"
+    ],
+    "DESCRIPTION": "Passive: Give 1 vulnerable to a random enemy. Evoke: Give 1 vulnerable to all enemies."
+  },
+
+  {
+    "PROPER_NAME": "weak orb",
+    "NAMES": ["weak orb","weak_orb"
+    ],
+    "DESCRIPTION": "Passive: Give 1 weak to a random enemy. Evoke: Give 1 weak to all enemies."
+  }
+
+
+
+]

@@ -1,0 +1,35 @@
+{
+  "PrismaMod:Illya": {
+    "NAMES": [
+      "Illya",
+      "Illya"
+    ],
+    "TEXT": [
+      "UBER KAWAII DESU!!!",
+      "You feel the magic flow through your magic circuits as you blast the tower heart in your powerful zwei form.",
+      "You stumble across a group of shady lolicons.  They ask you to join in their ritual..."
+    ]
+  },
+  "PrismaMod:Chloe": {
+    "NAMES": [
+      "Chloe",
+      "Chloe"
+    ],
+    "TEXT": [
+      "Illya but not as cute.",
+      "You feel the magic emanate from within as you unleash the strongest Unlimited Blade Works you can muster onto the tower heart.",
+      "You stumble across a group of shady lolicons.  They ask you to join in their ritual..."
+    ]
+  },
+  "PrismaMod:Miyu": {
+    "NAMES": [
+      "Miyu",
+      "Miyu"
+    ],
+    "TEXT": [
+      "The serious one",
+      "You feel the magic grow inside you as you blast the tower heart with all you've got.",
+      "You stumble across a group of shady lolicons.  They ask you to join in their ritual..."
+    ]
+  }
+}

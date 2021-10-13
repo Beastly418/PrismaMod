@@ -1,0 +1,51 @@
+{
+  "PrismaMod:AliceRelic": {
+    "NAME": "앨리스의 곰",
+    "FLAVOR": "시로?",
+    "DESCRIPTIONS": [
+      "적을 처치하면 카드를 2장 뽑습니다."
+      ]
+  },
+  "PrismaMod:PrismaRuby": {
+    "NAME": "루비",
+    "FLAVOR": "몇몇 수상한 행동을 하는 만화경.",
+    "DESCRIPTIONS": [
+      "매 전투 시작시 무작위 구체를 1개 영창 합니다."
+    ]
+  },
+  "PrismaMod:PrismaZwei": {
+    "NAME": "쯔바이 막대",
+    "FLAVOR": "상상할 수 없는 힘을 사용하게 해주는 섞인 만화경.",
+    "DESCRIPTIONS": [
+      "각 턴 시작시 마다 무작위 구체를 1개 영창 합니다."
+    ]
+  },
+  "PrismaMod:PrismaTraceOn": {
+    "NAME": "간장·막야",
+    "FLAVOR": "추적중",
+    "DESCRIPTIONS": [
+      "카드를 25장 사용할때마다 무작위 추적 카드를 생성합니다."
+    ]
+  },
+  "PrismaMod:PrismaTraceOnUpgrade": {
+    "NAME": "간장·막야+",
+    "FLAVOR": "추적중+",
+    "DESCRIPTIONS": [
+      "카드를 20장 사용할때마다 강화된 무작위 추적 카드를 생성합니다."
+    ]
+  },
+  "PrismaMod:PrismaSapphire": {
+    "NAME": "Sapphire",
+    "FLAVOR": "A Kaleidostick that can magically help you to dance.",
+    "DESCRIPTIONS": [
+      "Channel 1 orb at the start of each combat."
+    ]
+  },
+  "PrismaMod:PrismaSapphireUpgrade": {
+    "NAME": "Sapphire+",
+    "FLAVOR": "A Kaleidostick that increases your combat effectiveness.",
+    "DESCRIPTIONS": [
+      "Channel 1 orb and gain 2 strength at the start of each combat."
+    ]
+  }
+}

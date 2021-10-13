@@ -1,0 +1,193 @@
+[
+  {
+    "NAMES": [
+      "keyword",
+      "keywords"
+    ],
+    "DESCRIPTION": "Whenever you play a card, gain 1 dexterity this turn only."
+  },
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest is to match keywords like the single word keyword."
+  },
+  {
+    "NAMES": ["インストール",
+      "インストール"
+    ],
+    "DESCRIPTION": "英霊の力を具現化させる。 ２度使用すると最初に使用した英霊の力は解除される。"
+  },
+  {
+    "NAMES": ["毒の拡散",
+      "毒の拡散",
+      "迸発",
+      "迸発"
+    ],
+    "DESCRIPTION": "対象が持つ毒の２５％を敵全体に拡散させる。"
+  },
+  {
+    "NAMES": ["攻撃オーブ", "攻撃オーブ"
+    ],
+    "DESCRIPTION": "自動: ランダムな敵に 4 ダメージを与える。 解放: ランダムな敵に 8 ダメージを与える"
+  },
+  {
+    "NAMES": ["アサシンオーブ", "アサシンオーブ"
+    ],
+    "DESCRIPTION": "自動: 1 ナイフ を授かる。 解放: 2 ナイフ を授かる。"
+  },
+  {
+    "NAMES": ["防御オーブ", "防御オーブ"
+    ],
+    "DESCRIPTION": "自動:  4 ブロック を付与する。 解放: 自身に 8 ブロック を付与する"
+  },
+  {
+    "NAMES": ["毒オーブ", "毒オーブ"
+    ],
+    "DESCRIPTION": "自動:  毒 1 をランダムな敵に与える。 解放:  毒 1 を全ての敵に与える"
+  },
+  {
+    "NAMES": ["テスタメントオーブ", "テスタメントオーブ"
+    ],
+    "DESCRIPTION": "自動: ２ ダメージを受ける。 解放: 1 エナジーを授かる"
+  },
+  {
+    "NAMES": ["ツヴァイオーブ", "ツヴァイオーブ"
+    ],
+    "DESCRIPTION": "自動: 無し。 消費: ８ ダメージをランダムな敵に与える"
+  },
+  {
+    "NAMES": ["回避", "回避"
+    ],
+    "DESCRIPTION": "次の攻撃を回避"
+  },
+  {
+    "NAMES": ["レリック", "レリック"
+    ],
+    "DESCRIPTION": "一度だけ敵が死亡した時2枚カードを引く。"
+  },
+  {
+    "PROPER_NAME": "自然の嬰児",
+    "NAMES": ["自然の嬰児", "自然の嬰児"
+    ],
+    "DESCRIPTION": "このカードの効果は 敏捷性 によって変化する"
+  },
+  {
+    "PROPER_NAME": "無限の魔力",
+    "NAMES": ["無限の魔力", "無限の魔力"
+    ],
+    "DESCRIPTION": "このカードの効果は 筋力 によって変化する"
+  },{
+  "PROPER_NAME": "収縮",
+  "NAMES": ["収縮", "収縮"
+  ],
+  "DESCRIPTION": "ターゲットが持っている 毒 のスタックの数に等しいダメージを与えます。 ターゲットのすべての 毒 を取り除く。"
+},
+
+
+  {
+    "NAMES": ["アロー",
+      "アロー",
+      "arrows",
+      "Arrows"
+    ],
+    "DESCRIPTION": "アローはコスト #b0 の「アタック」カード"
+  },
+  {
+    "NAMES": ["魅了",
+      "魅了"
+    ],
+    "DESCRIPTION": "次の行動をスキップさせる。"
+  },
+  {
+    "NAMES": ["トレース",
+      "トレース"
+    ],
+    "DESCRIPTION": "コストを１下げて手札に加える。"
+  },
+
+
+
+
+  {
+    "PROPER_NAME": "魔力吸収",
+    "NAMES": ["魔力吸収", "minor_absorb"
+    ],
+    "DESCRIPTION": "全ての敵に付与されている 毒 の半分の値をブロックとして得る。"
+  },
+  {
+    "NAMES": ["白い巨人", "Absorb"
+    ],
+    "DESCRIPTION": "全ての敵に付与されている 毒 の値をブロックとして得る。"
+  },
+  {
+    "PROPER_NAME": "捕食遊星",
+    "NAMES": ["捕食遊星", "uber_absorb"
+    ],
+    "DESCRIPTION": "全ての敵に付与されている 毒 の２倍の値をブロックとして得る。"
+  },
+
+
+
+  {
+    "PROPER_NAME": "復讐者",
+    "NAMES": ["復讐者","block_absorb"
+    ],
+    "DESCRIPTION": "全ての敵のブロックを自分のブロックへ変換する。"
+  },
+
+  {
+    "PROPER_NAME": "雲散霧消",
+    "NAMES": ["雲散霧消","雲散霧消"
+    ],
+    "DESCRIPTION": "敵のブロック値と同等なダメージを与える。"
+  },
+
+  {
+    "PROPER_NAME": "グロースオーブ",
+    "NAMES": ["グロースオーブ","グロースオーブ"
+    ],
+    "DESCRIPTION": "自動: ランダムな敵に 4 ダメージを与える。 解放:  1 筋力 得る。"
+  },
+
+  {
+    "PROPER_NAME": "シールドオーブ",
+    "NAMES": ["シールドオーブ","シールドオーブ"
+    ],
+    "DESCRIPTION": "自動:  4 ブロックを得る。 解放:  1 敏捷性を得る。"
+  },
+
+  {
+    "PROPER_NAME": "ヒールオーブ",
+    "NAMES": ["ヒールオーブ","heal_orb"
+    ],
+    "DESCRIPTION": "自動: ランダムな敵を 5 回復。 解放: 自分を 3 回復。"
+  },
+
+  {
+    "PROPER_NAME": "ランダムオーブ",
+    "NAMES": ["ランダムオーブ","random_orb"
+    ],
+    "DESCRIPTION": "自動: ランダムな効果を得る。 解放: ランダムな３つの効果を得る。"
+  },
+
+  {
+    "PROPER_NAME": "フライルオーブ",
+    "NAMES": ["フライルオーブ","フライルオーブ"
+    ],
+    "DESCRIPTION": "自動: ランダムな敵に 1 脆弱 を与える。 解放:敵全体に 1 脆弱 を与える。"
+  },
+
+  {
+    "PROPER_NAME": "パウズオーブ",
+    "NAMES": [パウズオーブ","パウズオーブ"
+    ],
+    "DESCRIPTION": "自動: ランダムな敵に 1 弱体 を与える。 解放:敵全体に 1 弱体 を与える。"
+  }
+
+]

@@ -1,0 +1,159 @@
+{
+        "PrismaMod:IllyaArcherPower": {
+                "NAME": "설치 : 아처",
+                "DESCRIPTIONS": ["각 턴마다 3장의 무작위 카드중 ","장을 선택해 가져옵니다. 그 카드는 이번 턴 동안 비용이 0이 됩니다. NL 각 턴마다 #y힘 을 "," 얻습니다."]
+        },
+        "PrismaMod:IllyaAssassinPower": {
+                "NAME": "설치 : 어쌔신",
+                "DESCRIPTIONS": ["각 턴마다 첫 공격을 prismamod:회피 합니다. NL 모든 공격은 보스가 아닌 적에게 #g독성 을 "," 부여합니다. NL 입히는 피해량이 ","%가 되고 받는 피해량이 ","% 증가합니다. NL prismamod:암살 구체 를 "," 번 영창합니다. NL 보스에게는 ","의 추가 피해와 중독을 "," 부여합니다."]
+        },
+        "PrismaMod:IllyaAvengerPower": {
+                "NAME": "설치 : 어벤저",
+                "DESCRIPTIONS": ["보스가 아닌 적에게 받는 피해를 25% 감소시킵니다. NL 매 턴마다 모든 적에게 피해를 "," 줍니다."]
+        },
+        "PrismaMod:IllyaBerserkerPower": {
+                "NAME": "설치 : 버서커",
+                "DESCRIPTIONS": ["받는 피해와 입히는 피해가 두배가 됩니다."]
+        },
+        "PrismaMod:IllyaCasterPower": {
+                "NAME": "설치 : 캐스터",
+                "DESCRIPTIONS": ["구체 슬롯을 ","개 얻습니다. NL 구체의 지속 과 발현 효과를 1.5배 강화합니다."]
+        },
+        "PrismaMod:IllyaForeignerPower": {
+                "NAME": "설치 : 포리너",
+                "DESCRIPTIONS": ["구체의 #p발현 효과를 두배로 증가시킵니다. NL 발현으로 인한 피해는 피해량만큼 독성 을 부여합니다."]
+        },
+        "PrismaMod:IllyaLancerPower": {
+                "NAME": "설치 : 랜서",
+                "DESCRIPTIONS": ["적을 "," 번 공격 시 약화 , 손상 , 취약 을 "," 부여합니다."]
+        },
+        "PrismaMod:IllyaRiderPower": {
+                "NAME": "설치 : 라이더",
+                "DESCRIPTIONS": ["각 턴마다 민첩 을 "," 얻습니다. 공격시 보스를 제외한 모든 적에게 ","의 피해를 줍니다."]
+        },
+        "PrismaMod:IllyaSaberPower": {
+                "NAME": "설치 : 세이버",
+                "DESCRIPTIONS": ["각 턴마다 힘 을 "," 얻습니다. NL 보스에게 피해를 추가로 입힙니다."]
+        },
+        "PrismaMod:IllyaAlterEgoPower": {
+                "NAME": "설치 : 얼터 에고",
+                "DESCRIPTIONS": ["구체 슬롯을 ","개 얻습니다. 매 턴마다 구체 "," 개를 발현 합니다.. NL 모든 #y스킬 카드는 비용이 "," 감소합니다."]
+        },
+        "PrismaMod:IllyaRulerPower": {
+                "NAME": "설치 : 룰러",
+                "DESCRIPTIONS": ["매 턴마다 민첩, 힘 을 "," 얻습니다."]
+        },
+        "PrismaMod:IllyaMoonCancerPower": {
+                "NAME": "설치 : 문 캔서",
+                "DESCRIPTIONS": ["구체 슬롯을 1개 얻습니다. NL 구체의 #p지속 효과를 두배로 증가시킵니다."]
+        },
+        "PrismaMod:IllyaShielderPower": {
+                "NAME": "설치 : 실더",
+                "DESCRIPTIONS": ["각 턴마다 방어도 를 "," 얻습니다."]
+        },
+        "PrismaMod:AssassinRevengePower": {
+                "NAME": "복수",
+                "DESCRIPTIONS": ["모든 공격은 ","의 독성을 부여하고 독성 구체를 ","번 영창합니다."]
+        },
+        "PrismaMod:IllyaZweiPower": {
+                "NAME": "쯔바이 폼",
+                "DESCRIPTIONS": ["너의 마법 회로가 곧 꺼질거야."]
+        },
+        "PrismaMod:MaidPower": {
+                "NAME": "메이드 폼",
+                "DESCRIPTIONS": ["Take double damage. Gain "," energy and draw "," next turn."]
+        },
+        "PrismaMod:UpgradeOrbsPower": {
+                "NAME": "구체 강화",
+                "DESCRIPTIONS": ["모든 구체는 강화되었습니다."]
+        },
+        "PrismaMod:HalfDamagePower": {
+                "NAME": "어벤저의 눈빛",
+                "DESCRIPTIONS": ["이 적의 피해량은 25% 감소했습니다."]
+        },
+        "PrismaMod:EvadePower": {
+                "NAME": "회피",
+                "DESCRIPTIONS": ["적의 첫 공격은 피해를 입지 않습니다."]
+        },
+        "PrismaMod:PartialInstallAssassinPower": {
+                "NAME": "불완전한 어쌔신",
+                "DESCRIPTIONS": ["공격 카드를 사용할때마다 모든 적에게 피해를 "," 줍니다."]
+        },
+        "PrismaMod:SaberDamageIncreasePower": {
+                "NAME": "세이버 공격력 증가",
+                "DESCRIPTIONS": ["매 턴마다 처음 입히는 피해량은 ","% 증가합니다."]
+        },
+        "PrismaMod:IllyaZweiDebuffPower": {
+                "NAME": "쯔바이 폼",
+                "DESCRIPTIONS": ["두번째 사용하는 쯔바이 폼은 당신을 죽음에 이르게 할 것입니다.."]
+        },
+        "PrismaMod:BridleOfChivalryPower": {
+                "NAME": "기사도의 굴레",
+                "DESCRIPTIONS": ["고귀한 환상"]
+        },
+        "PrismaMod:ChannelPower": {
+                "NAME": "영창",
+                "DESCRIPTIONS": ["이 하수인은 강력한 공격을 준비중입니다."]
+        },
+        "PrismaMod:CharismaPower": {
+                "NAME": "카리스마",
+                "DESCRIPTIONS": ["턴이 끝날 때 힘 을 4 얻습니다."]
+        },
+        "PrismaMod:CursedEyesPower": {
+                "NAME": "저주받은 눈",
+                "DESCRIPTIONS": [""]
+        },
+        "PrismaMod:DivintyPower": {
+                "NAME": "신성",
+                "DESCRIPTIONS": ["뽑은 모든 카드는 비용이 1 증가합니다."]
+        },
+        "PrismaMod:InstinctPower": {
+                "NAME": "본능",
+                "DESCRIPTIONS": ["다음 입히는 피해량은 3배 증가합니다."]
+        },
+        "PrismaMod:MagicResistancePower": {
+                "NAME": "마법 저항",
+                "DESCRIPTIONS": ["이 하수인은 다음 턴에 방어도 를 10 얻습니다."]
+        },
+        "PrismaMod:ManaBurstPower": {
+                "NAME": "마나 폭발",
+                "DESCRIPTIONS": ["다음번의 공격은 피해를 두번 입힙니다."]
+        },
+        "PrismaMod:MemoriesOfTheDragonPower": {
+                "NAME": "드래곤의 기억",
+                "DESCRIPTIONS": ["심장은 용의 것을 본따 만들어졌습니다. NL 마법의 힘은 지구의 핵과도 비견 할 만 합니다. NL 용의 고동치는 포효와 함께 왕의 검을 이 행성에 내릴 것입니다. NL 신성한 검은 사용자에 의해 가장 강력한 검으로 인정받았습니다."]
+        },
+        "PrismaMod:MonstrousStrengthPower": {
+                "NAME": "괴물같은 힘",
+                "DESCRIPTIONS": ["턴이 끝날 때 힘 을 4 얻습니다."]
+        },
+        "PrismaMod:MysticEyesPower": {
+                "NAME": "신비한 눈",
+                "DESCRIPTIONS": ["네 마법 회로가 곧 꺼질거야."]
+        },
+        "PrismaMod:ShapelessIslandPower": {
+                "NAME": "형상 없는 땅",
+                "DESCRIPTIONS": ["박해를 당한 세 자매는 이 땅으로 도망쳤습니다."]
+        },
+
+
+
+
+
+        "PrismaMod:ChloeBetterTracePoolsPower": {
+                "NAME": "추적+",
+                "DESCRIPTIONS": ["희귀도가 낮은 카드는 추적 선택창에서 제거되었습니다."]
+        },
+        "PrismaMod:ChloeDoubleRelicSpeedPower": {
+                "NAME": "신속한 추적",
+                "DESCRIPTIONS": ["간장·막야의 효과는 두배의 효과를 가집니다."]
+        },
+        "PrismaMod:ChloeGreatTracePoolsPower": {
+                "NAME": "추적++",
+                "DESCRIPTIONS": ["희귀노가 낮은 카드와 언커먼 카드는 추적 선택창에서 제거되었습니다."]
+        },
+        "PrismaMod:ChloeStunPower": {
+                "NAME": "도발",
+                "DESCRIPTIONS": ["이 적은 다음 턴에 기절합니다."]
+        }
+}

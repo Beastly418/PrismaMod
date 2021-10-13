@@ -1,0 +1,50 @@
+﻿{
+  "SaberAlter": {
+    "MOVES": [
+      "Explosão de Mana",
+      "Instinto",
+      "Carisma",
+      "Resistência Mágica",
+      "Excalibur Morgan",
+      "Ataque Básico",
+      "Memórias do Dragão",
+      "Canalizar"
+    ],
+    "NAME": "SaberAlter",
+    "DIALOG": [
+      "EXCALIBUUUUUUU NL UUUUUUUUUUUUUURR!!!!"
+    ]
+  },
+  "Rider": {
+    "MOVES": [
+      "Olhos Místicos",
+      "Força Monstruosa",
+      "Ataque Básico",
+      "Reprimir Cavalheirismo",
+      "Investida do Pégaso",
+      "Ilha Sem Forma",
+      "Olhos Amaldiçoados",
+      "Montaria Herética"
+    ],
+    "NAME": "Rider",
+    "DIALOG": [
+      "Venha, meu pégaso."
+    ]
+  },
+  "Gilgamesh": {
+    "MOVES": [
+      "Carisma",
+      "Regra de Ouro",
+      "Tesouro da Babilônia",
+      "Resistência Mágica",
+      "Ataque Básico",
+      "Divindade",
+      "Enuma Elis",
+      "Chave das Leis Reais"
+    ],
+    "NAME": "Gilgamesh",
+    "DIALOG": [
+      "Plebeus..."
+    ]
+  }
+}

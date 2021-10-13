@@ -1,0 +1,160 @@
+{
+        "PrismaMod:IllyaArcherPower": {
+                "NAME": "夢幻召喚・アーチャー",
+                "DESCRIPTIONS": [" 毎ターン #y筋力 ","を得る。 3枚のランダムなカードから","枚選び、手札に加える。このターン、そのコストは0。"]
+        },
+        "PrismaMod:IllyaAssassinPower": {
+                "NAME": "夢幻召喚・アサシン",
+                "DESCRIPTIONS": [" 毎ターン  回避 を得る","。  「アタック」をプレイするたびの "," #g毒 を与える。 NL  与えるダメージは ","% になり、受けるダメージは ","% 増える。 NL #yアサシオーブ を消費し、ボスへ攻撃時ブロック を "," 無視してダメージを与え ","  #g毒 を与える。"]
+        },
+        "PrismaMod:IllyaAvengerPower": {
+                "NAME": "夢幻召喚・アヴェンジャー",
+                "DESCRIPTIONS": ["ボス以外から受けるダメージを25%減らす。 ターン終了時敵全体に "," のダメージを与える。 "]
+        },
+        "PrismaMod:IllyaBerserkerPower": {
+                "NAME": "夢幻召喚・バーサーカー",
+                "DESCRIPTIONS": ["与えるダメージと受けるダメージが #r2倍 になる。"]
+        },
+        "PrismaMod:IllyaCasterPower": {
+                "NAME": "夢幻召喚・キャスター",
+                "DESCRIPTIONS": ["ターン毎 "," エナジーを得る。ターン開始時 ","ランダムなオーブを生成する。 NL   スロットを "," 追加する "]
+        },
+        "PrismaMod:IllyaForeignerPower": {
+                "NAME": "夢幻召喚・フォーリナー",
+                "DESCRIPTIONS": ["オーブの #p解放 効果を２倍にする。解放したオーブで与えたダメージ分の #g毒 を与える。 "]
+        },
+        "PrismaMod:IllyaLancerPower": {
+                "NAME": "夢幻召喚・ランサー",
+                "DESCRIPTIONS": [" ","「アタック」をプレイす","るたび  弱体 、脆弱化、 脱力 を与える。"]
+        },
+        "PrismaMod:IllyaRiderPower": {
+                "NAME": "夢幻召喚・ライダー",
+                "DESCRIPTIONS": [" 毎ターン "," #y敏捷性 を得る。ボス以外の敵に攻撃する場合 "," ブロック を無視してダメージを与える。"]
+        },
+        "PrismaMod:IllyaSaberPower": {
+                "NAME": "夢幻召喚・セイバー",
+                "DESCRIPTIONS": ["ターン開始時 "," #y筋力 を得る。  #rボス に攻撃する場合一定量のブロックを無視する。"]
+        },
+        "PrismaMod:IllyaAlterEgoPower": {
+                "NAME": "夢幻召喚・アルターエゴ",
+                "DESCRIPTIONS": ["オーブスロットを "," 増やす。 NL  毎ターン先頭のオーブを"," #p解放 する。 NL 全ての #y「スキル」 のコストが "," 減少する。 "]
+        },
+        "PrismaMod:IllyaRulerPower": {
+                "NAME": "夢幻召喚・ルーラー",
+                "DESCRIPTIONS": ["毎ターン "," #y筋力 と  #y敏捷性 を得る。"]
+        },
+        "PrismaMod:IllyaMoonCancerPower": {
+                "NAME": "夢幻召喚・ムーンキャンサー",
+                "DESCRIPTIONS": ["毎ターンランダムな無色のカードを1枚手札に加える。 NL オーブの自動効果を２倍にする。 "]
+        },
+        "PrismaMod:IllyaShielderPower": {
+                "NAME": "夢幻召喚・シールダー",
+                "DESCRIPTIONS": ["ターン開始時 "," ブロック を得る。"]
+        },
+        "PrismaMod:AssassinRevengePower": {
+                "NAME": "復讐",
+                "DESCRIPTIONS": ["攻撃された時 "," 毒オーブを生成する。"," #g毒 を与える"]
+        },
+        "PrismaMod:IllyaZweiPower": {
+                "NAME": "ツヴァイフォーム",
+                "DESCRIPTIONS": ["魔術回路に限界を感じる。"]
+        },
+        "PrismaMod:MaidPower": {
+                "NAME": "メイドフォーム",
+                "DESCRIPTIONS": ["２倍のダメージを受ける。次のターン "," エネルギーを得て、 "," 枚ドローする。"]
+        },
+        "PrismaMod:UpgradeOrbsPower": {
+                "NAME": "強化オーブ",
+                "DESCRIPTIONS": ["全てのオーブが強化された状態。"]
+        },
+        "PrismaMod:HalfDamagePower": {
+                "NAME": "復讐者の瞳",
+                "DESCRIPTIONS": ["与えるダメージが25%減少。"]
+        },
+        "PrismaMod:EvadePower": {
+                "NAME": "回避",
+                "DESCRIPTIONS": ["次に受けるダメージを無効化する。"]
+        },
+        "PrismaMod:PartialInstallAssassinPower": {
+                "NAME": "限定展開・アサシン",
+                "DESCRIPTIONS": ["「アタック」をプレイするたび敵全体に "," ダメージを与える。"]
+        },
+        "PrismaMod:SaberDamageIncreasePower": {
+                "NAME": "セイバーの一撃",
+                "DESCRIPTIONS": ["次に与えるダメージが ","% 増加"]
+        },
+        "PrismaMod:IllyaZweiDebuffPower": {
+                "NAME": "ツヴァイフォーム",
+                "DESCRIPTIONS": ["体力に限界を感じる…"]
+        },
+
+
+        "PrismaMod:BridleOfChivalryPower": {
+                "NAME": "騎英の手綱",
+                "DESCRIPTIONS": ["宝具"]
+        },
+        "PrismaMod:ChannelPower": {
+                "NAME": "詠唱",
+                "DESCRIPTIONS": ["強力な攻撃"]
+        },
+        "PrismaMod:CharismaPower": {
+                "NAME": "カリスマ",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:CursedEyesPower": {
+                "NAME": "呪眼",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:DivinityPower": {
+                "NAME": "神性",
+                "DESCRIPTIONS": ["コストを１増加する。"]
+        },
+        "PrismaMod:InstinctPower": {
+                "NAME": "本能",
+                "DESCRIPTIONS": ["3倍のダメージを与える。"]
+        },
+        "PrismaMod:MagicResistancePower": {
+                "NAME": "対魔力",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:ManaBurstPower": {
+                "NAME": "魔力放出",
+                "DESCRIPTIONS": ["二回攻撃。"]
+        },
+        "PrismaMod:MemoriesOfTheDragonPower": {
+                "NAME": "竜の記憶",
+                "DESCRIPTIONS": ["その心臓は竜の概念で出来ている。 NL 大地の熱に匹敵する魔力量。 NL 竜の咆吼を鼓動にして、王は星の剣を一閃する。 NL 聖剣を最強たらしめているのは、その担い手の力あってこそだ。 "]
+        },
+        "PrismaMod:MonstrousStrengthPower": {
+                "NAME": "怪力",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:MysticEyesPower": {
+                "NAME": "魔眼",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:ShapelessIslandPower": {
+                "NAME": "カタチのない島",
+                "DESCRIPTIONS": ["いわれなき迫害の末、姉妹はその島に辿り着いた。"]
+        },
+
+
+
+
+        "PrismaMod:ChloeBetterTracePoolsPower": {
+                "NAME": "トレース+",
+                "DESCRIPTIONS": ["トレースによってコモンカードは出現しない状態。"]
+        },
+        "PrismaMod:ChloeDoubleRelicSpeedPower": {
+                "NAME": "スピードトレース",
+                "DESCRIPTIONS": ["カードのプレイによって得られる干将・莫耶のカウントが２倍。"]
+        },
+        "PrismaMod:ChloeGreatTracePoolsPower": {
+                "NAME": "トレース++",
+                "DESCRIPTIONS": ["トレースによってコモン・アンコモンカードは出現しない状態。"]
+        },
+        "PrismaMod:ChloeStunPower": {
+                "NAME": "魅了",
+                "DESCRIPTIONS": ["次のターンをスキップする状態。"]
+        }
+}

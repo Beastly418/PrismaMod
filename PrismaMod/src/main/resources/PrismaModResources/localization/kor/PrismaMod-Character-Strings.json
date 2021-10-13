@@ -1,0 +1,35 @@
+{
+  "PrismaMod:Illya": {
+    "NAMES": [
+      "이리야",
+      "이리야"
+    ],
+    "TEXT": [
+      "짱 기엽다 데스!!!!",
+      "당신은 첨탑의 심장을 파괴할때 당신의 마법 회로가 폭발하는것을 느낍니다.",
+      "당신은 음습한 로리콘 무리를 발견하고 그들의 의식에 동참해달라고 부탁을 받았습니다."
+    ]
+  },
+  "PrismaMod:Chloe": {
+    "NAMES": [
+      "쿠로",
+      "쿠로"
+    ],
+    "TEXT": [
+      "이리야는 귀엽지 않다.",
+      "첨탑의 심장에 가장 강력한 언리미티트 블레이드 워크스를 발휘할 때 마법이 내부에서부터 발산되는 것을 느낍니다.",
+      "당신은 그늘진 로리콘 무리를 발견하고 그들의 의식에 동참해달라고 부탁받습니다..."
+    ]
+  },
+  "PrismaMod:Miyu": {
+    "NAMES": [
+      "Miyu",
+      "Miyu"
+    ],
+    "TEXT": [
+      "The serious one.",
+      "You feel the magic grow inside you as you blast the tower heart with all you've got.",
+      "You stumble across a group of shady lolicons.  They ask you to join in their ritual..."
+    ]
+  }
+}

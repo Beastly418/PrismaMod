@@ -1,0 +1,853 @@
+{
+  "PrismaMod:IllyaCarnivalPrismaAstolfo": {
+    "NAME": "Carnival Prisma Astolfo",
+    "DESCRIPTION": "Exhaust. Randomly gain one of the following: heal !M!, !M! strength, !M! dexterity, !M! max health, 20 gold.",
+    "UPGRADE_DESCRIPTION": "Exhaust. Randomly gain one of the following: heal !M!, !M! strength, !M! dexterity, !M! max health, [#3ddf3d]30[] gold."
+  },
+
+  "PrismaMod:IllyaBerserCAR": {
+    "NAME": "BerserCAR",
+    "DESCRIPTION": "Deal !D! damage and gain 1 energized."
+  },
+
+  "PrismaMod:IllyaCarnivalAttack": {
+    "NAME": "Carnival Attack",
+    "DESCRIPTION": "Deal !D! damage. Channel !M! prismamod:attack orb."
+  },
+
+  "PrismaMod:IllyaCarnivalDefend": {
+    "NAME": "Carnival Defend",
+    "DESCRIPTION": "Gain !B! block and channel !M! prismamod:defend orb."
+  },
+
+  "PrismaMod:IllyaUncommonAOEAttack": {
+    "NAME": "Slicing Blaze",
+    "DESCRIPTION": "Deal !D! damage to all enemies and apply !M! weak."
+  },
+
+  "PrismaMod:IllyaAssassinRevenge": {
+    "NAME": "Assassin's Reflex",
+    "DESCRIPTION": "When you are attacked channel 1 prismamod:poison orb and inflict !M! poison onto attacker for this turn."
+  },
+
+  "PrismaMod:IllyaCarnivalOrbs": {
+    "NAME": "Carnival Orbs",
+    "DESCRIPTION": "Channel 1 of each prismamod:attack orb, prismamod:defend orb, prismamod:poison orb, prismamod:zwei orb, prismamod:testament orb and prismamod:assassin orb."
+  },
+
+  "PrismaMod:IllyaCommonEvoke": {
+    "NAME": "Evoke",
+    "DESCRIPTION": "Evoke the next orb.",
+    "UPGRADE_DESCRIPTION": "Evoke the next 2 orbs."
+  },
+
+  "PrismaMod:IllyaDualEvoke": {
+    "NAME": "Dual Evoke",
+    "DESCRIPTION": "Evoke the next !M! orbs 2 times."
+  },
+
+  "PrismaMod:IllyaEvokeAll": {
+    "NAME": "Evoke All",
+    "DESCRIPTION": "Evoke all orbs"
+  },
+
+  "PrismaMod:IllyaHassanGift": {
+    "NAME": "Assassin's Gift",
+    "DESCRIPTION": "Channel !M! prismamod:poison orb."
+  },
+
+  "PrismaMod:IllyaMultiEvoke": {
+    "NAME": "Multi Evoke",
+    "DESCRIPTION": "Evoke the next X orbs.",
+    "UPGRADE_DESCRIPTION" : "Evoke the next orb X times without removing it."
+  },
+
+  "PrismaMod:IllyaRapidFire": {
+    "NAME": "Rapid Fire",
+    "DESCRIPTION": " prismamod:strength_scaling . Deal !D! damage !M! times. Number of times is determined by the number of current orb slots."
+  },
+
+  "PrismaMod:IllyaReinForce": {
+    "NAME": "Rein Force",
+    "DESCRIPTION": " prismamod:dexterity_scaling . Gain !B! block !M! times. Number of times is determined by the number of current orb slots."
+  },
+
+  "PrismaMod:IllyaSaphire": {
+    "NAME": "Sapphire",
+    "DESCRIPTION": "Exhaust. Gain !M! more orb slot. Draw !PrismaMod:SecondMagic! cards."
+  },
+
+  "PrismaMod:IllyaUberChannel": {
+    "NAME": "Uber Channel",
+    "DESCRIPTION": "Randomly channel maximum number of orbs."
+  },
+
+  "PrismaMod:IllyaUncommonEvoke": {
+    "NAME": "Quick Evoke",
+    "DESCRIPTION": "Evoke and channel the first orb."
+  },
+
+  "PrismaMod:IllyaUpgradeOrbs": {
+    "NAME": "Upgrade Orbs",
+    "DESCRIPTION": "Double evoke and passive effects for the turn."
+  },
+
+  "PrismaMod:IllyaBlindPoisonToss": {
+    "NAME": "Blind Poison Toss",
+    "DESCRIPTION": "Randomly apply !PrismaMod:SecondMagic! poison to !M! random enemies."
+  },
+
+  "PrismaMod:IllyaFeed": {
+    "NAME": "Feed",
+    "DESCRIPTION": "Exhaust. Deal !D! damage. Heal for the amount of poison target has (max 15.)"
+  },
+
+  "PrismaMod:IllyaFriendMaker": {
+    "NAME": "Friend Maker",
+    "DESCRIPTION": "Deal !D! Damage to target enemy. Inflict !M! poison."
+  },
+
+  "PrismaMod:IllyaPoisonBomb": {
+    "NAME": "Poison Bomb",
+    "DESCRIPTION": "Apply !M! poison to all enemies."
+  },
+
+  "PrismaMod:IllyaPoisoningPhantasm": {
+    "NAME": "Poisoning Phantasm",
+    "DESCRIPTION": "prismamod:poison_expansion all enemy poison."
+  },
+
+  "PrismaMod:IllyaPoisonTippedWeapons": {
+    "NAME": "Poison Tips",
+    "DESCRIPTION": "All attacks add !M! poison.",
+    "UPGRADE_DESCRIPTION": "Retain. All attacks add !M! poison."
+  },
+
+  "PrismaMod:IllyaRussianRoulette": {
+    "NAME": "Russian Roulette",
+    "DESCRIPTION": "Randomly apply !M! poison to anything in the room."
+  },
+
+  "PrismaMod:IllyaStunPoison": {
+    "NAME": "Stun Poison",
+    "DESCRIPTION": "Deal !D! damage. If that target is poisoned deal !D! more."
+  },
+
+  "PrismaMod:IllyaCommonAttack": {
+    "NAME": "Fire",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+
+  "PrismaMod:IllyaBoysLove": {
+    "NAME": "Boys Love",
+    "DESCRIPTION": "Apply !M! poison to all enemies."
+  },
+
+  "PrismaMod:IllyaDetonatingBlow": {
+    "NAME": "Detonating Blow",
+    "DESCRIPTION": "Deal !D! damage. prismamod:poison_expansion poison on the target."
+  },
+
+  "PrismaMod:IllyaCommonDefend": {
+    "NAME": "Shield",
+    "DESCRIPTION": "Gain !B! block."
+  },
+
+  "PrismaMod:IllyaUncommonAttack": {
+    "NAME": "True Fire",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! Vulnerable."
+  },
+
+  "PrismaMod:IllyaUncommonDefend": {
+    "NAME": "True Shield",
+    "DESCRIPTION": "Gain !B! block and gain !M! plated armor."
+  },
+
+  "PrismaMod:IllyaBride": {
+    "NAME": "Wedding Gifts",
+    "DESCRIPTION": "Exhaust. Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Retain. Innate. Exhaust. Draw !M! cards."
+  },
+
+  "PrismaMod:IllyaDevil": {
+    "NAME": "Devil Girl",
+    "DESCRIPTION": "Deal !D! damage and draw !M!."
+  },
+
+  "PrismaMod:IllyaGun": {
+    "NAME": "Gun",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+
+  "PrismaMod:IllyaMaid": {
+    "NAME": "Maid",
+    "DESCRIPTION": "Take double damage for this turn.  Gain [E] [E] [E] energy next turn."
+  },
+
+  "PrismaMod:IllyaZwei": {
+    "NAME": "Zwei Form",
+    "DESCRIPTION": "Clear all installs. Gain !M! strength, Gain 13 [E] , draw !PrismaMod:SecondMagic! cards, channel all prismamod:Zwei Orbs, and prismamod:complete_detonate all poison at the end of the turn. Next turn get -99 Strength and 99 Vulnerable. Lose all [E] every turn."
+  },
+
+  "PrismaMod:IllyaAlice": {
+    "NAME": "Alice Form",
+    "DESCRIPTION": "Exhaust. Gain !M! vulnerable. Chance to spawn a special prismamod:relic or heal !PrismaMod:SecondMagic!.",
+    "UPGRADE_DESCRIPTION": "Exhaust. Gain !M! vulnerable. Heal !PrismaMod:SecondMagic!."
+  },
+
+  "PrismaMod:IllyaTestament": {
+    "NAME": "Testament",
+    "DESCRIPTION": "Evoke all orbs. Channel maximum number of prismamod:Testament Orbs."
+  },
+
+  "PrismaMod:IllyaCommandSeal": {
+    "NAME": "Command Seal",
+    "DESCRIPTION": "Exhaust. Heal !M! and apply !PrismaMod:SecondMagic! Intangible."
+  },
+
+  "PrismaMod:IllyaRubysPotion": {
+    "NAME": "Ruby's Potion",
+    "DESCRIPTION": "Exhaust. Heal !M!."
+  },
+
+  "PrismaMod:IllyaAOECommonAttack": {
+    "NAME": "Slicing Fire",
+    "DESCRIPTION": "Deal !D! damage to all enemies."
+  },
+
+  "PrismaMod:IllyaGrail": {
+    "NAME": "The Grail",
+    "DESCRIPTION": "Exhaust. Draw !M! Cards. Gain [E] [E]."
+  },
+
+  "PrismaMod:IllyaGrailKun": {
+    "NAME": "Grail-Kun",
+    "DESCRIPTION": "Choose 1 attack and 1 skill card from your deck and add it to your hand."
+  },
+
+  "PrismaMod:IllyaPartialInstallAssassin": {
+    "NAME": "Assassin Partial Install",
+    "DESCRIPTION": "Exhaust. Deal !D! damage to all enemies every time you play an attack this turn.",
+    "UPGRADE_DESCRIPTION": "Exhaust. Retain. Deal !D! damage to all enemies every time you play an attack this turn."
+  },
+
+  "PrismaMod:IllyaMinorZwei": {
+    "NAME": "Minor Zwei Form",
+    "DESCRIPTION": "Gain !B! block.  Add !M! burns to your hand."
+  },
+
+  "PrismaMod:IllyaCheapDefend": {
+    "NAME": "Minor Avalon",
+    "DESCRIPTION": "Gain !B! block."
+  },
+
+  "PrismaMod:IllyaCheapAttack": {
+    "NAME": "Minor Excalibur",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! weak."
+  },
+
+  "PrismaMod:IllyaChanneledBlock": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": " "
+  },
+
+  "PrismaMod:IllyaChanneledAttack": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": ""
+  },
+
+  "PrismaMod:IllyaCheapChannelAttack": {
+    "NAME": "Minor Attack Orb",
+    "DESCRIPTION": "Channel !M! prismamod:attack orb."
+  },
+
+  "PrismaMod:IllyaCheapChannelDefend": {
+    "NAME": "Minor Defend Orb",
+    "DESCRIPTION": "Channel !M! prismamod:defend orb."
+  },
+
+  "PrismaMod:IllyaCheapChannelPoison": {
+    "NAME": "Minor Poison Orb",
+    "DESCRIPTION": "Channel !M! prismamod:poison orb."
+  },
+
+  "PrismaMod:IllyaMinorRapidFire": {
+    "NAME": "Minor RapidFire",
+    "DESCRIPTION": "Deal !D! damage. Draw !M! card."
+  },
+
+  "PrismaMod:IllyaMinorReinForce": {
+    "NAME": "Minor ReinForce",
+    "DESCRIPTION": "Gain !B! block. Draw !M! card."
+  },
+
+  "PrismaMod:IllyaUberAttackChannel": {
+    "NAME": "Uber Attack Channel",
+    "DESCRIPTION": "Channel max number of prismamod:attack orbs."
+  },
+
+  "PrismaMod:IllyaUberDefendChannel": {
+    "NAME": "Uber Defend Channel",
+    "DESCRIPTION": "Channel max number of prismamod:defend orbs."
+  },
+
+  "PrismaMod:IllyaUberPoisonChannel": {
+    "NAME": "Uber Poison Channel",
+    "DESCRIPTION": "Channel max number of prismamod:poison orbs."
+  },
+
+  "PrismaMod:IllyaUberPoisonBlock": {
+    "NAME": "Uber Poison Block",
+    "DESCRIPTION": "Exhaust. prismamod:absorb. Gain !M! block.",
+    "UPGRADE_DESCRIPTION": "Exhaust. prismamod:uber_absorb. Gain !M! block."
+  },
+
+  "PrismaMod:IllyaPoisonBlock": {
+    "NAME": "Poison Block",
+    "DESCRIPTION": "Exhaust. prismamod:minor_absorb. Gain !M! block.",
+    "UPGRADE_DESCRIPTION": "Exhaust. prismamod:absorb. Gain !M! block."
+  },
+
+
+
+
+
+  "PrismaMod:IllyaInstallArcher": {
+    "NAME": "Install Archer",
+    "DESCRIPTION": " prismamod:Install : Grants you 1 random 0 cost card each turn. Gain 1 strength each turn"
+  },
+
+  "PrismaMod:IllyaInstallAssassin": {
+    "NAME": "Install Assassin",
+    "DESCRIPTION": " prismamod:Install : prismamod:Evade the first attack for each turn.  All Attacks apply 1 poison.  Attacks deal !M!% of their damage and you take !PrismaMod:SecondMagic!% more damage from attacks, channel 1 prismamod:Assassin orb. Attacks to bosses deal an extra 3 block ignoring damage and apply 1 extra poison."
+  },
+
+  "PrismaMod:IllyaInstallBerserker": {
+    "NAME": "Install Berserker",
+    "DESCRIPTION": " prismamod:Install : Take double damage and deal double damage."
+  },
+
+  "PrismaMod:IllyaInstallCaster": {
+    "NAME": "Install Caster",
+    "DESCRIPTION": " prismamod:Install : Gain 1 energized per turn. Increase passive and evoke effects on orbs. Gain 1 more orb slot. Channel 1 random orb each turn."
+  },
+
+  "PrismaMod:IllyaInstallLancer": {
+    "NAME": "Install Lancer",
+    "DESCRIPTION": " prismamod:Install : Apply weak, frail, and vulnerable every !M! attacks."
+  },
+
+  "PrismaMod:IllyaInstallRider": {
+    "NAME": "Install Rider",
+    "DESCRIPTION": " prismamod:Install : Gain !M! dexterity every turn. Deal !PrismaMod:SecondMagic! block ignoring damage to all non-bosses every attack."
+  },
+
+  "PrismaMod:IllyaInstallSaber": {
+    "NAME": "Install Saber",
+    "DESCRIPTION": " prismamod:Install : Gain strength every turn. Deal !M! extra block ignoring damage to bosses. Heal !PrismaMod:SecondMagic!. First attack each turn deals 50% more damage."
+  },
+
+  "PrismaMod:IllyaInstallForeigner": {
+    "NAME": "Install Foreigner",
+    "DESCRIPTION": " prismamod:Install : Double effect of evoked orbs. Evoked orb damage applies poison to the target."
+  },
+
+  "PrismaMod:IllyaInstallAvenger": {
+    "NAME": "Install Avenger",
+    "DESCRIPTION": " prismamod:Install : Halve all non-boss damage and deal !M! damage to all enemies per turn."
+  },
+
+  "PrismaMod:IllyaInstallAlterEgo": {
+    "NAME": "Install Alter Ego",
+    "DESCRIPTION": " prismamod:Install : Gain 1 orb slot, evoke first orb each turn, and all skill cards cost 1 less [E] to cast."
+  },
+
+  "PrismaMod:IllyaInstallMoonCancer": {
+    "NAME": "Install Moon Cancer",
+    "DESCRIPTION": " prismamod:Install : Grants 1 random colorless card per turn.  Doubles the passive effects of orbs. Gain 1 orb slot."
+  },
+
+  "PrismaMod:IllyaInstallRuler": {
+    "NAME": "Install Ruler",
+    "DESCRIPTION": " prismamod:Install : Gain 1 strength and dexterity each turn."
+  },
+
+  "PrismaMod:IllyaInstallShielder": {
+    "NAME": "Install Shielder",
+    "DESCRIPTION": " prismamod:Install : Gain !M! block and heal !PrismaMod:SecondMagic!."
+  },
+
+
+
+
+  "PrismaMod:ChloeExhaustOne": {
+    "NAME": "Minor Deconstruction",
+    "DESCRIPTION": "Select 1 card from your deck and exhaust it.  Gain !M! prismamod:arrows per card exhausted."
+  },
+
+  "PrismaMod:ChloeExhaustTwo": {
+    "NAME": "Major Deconstruction",
+    "DESCRIPTION": "Select 2 cards from your deck and exhaust it.  Gain !M! prismamod:arrows per card exhausted."
+  },
+
+  "PrismaMod:ChloeExhaustThree": {
+    "NAME": "Uber Deconstruction",
+    "DESCRIPTION": "Select 3 card from your deck and exhaust it.  Gain !M! prismamod:arrows per card exhausted."
+  },
+
+  "PrismaMod:ChloeChristmas": {
+    "NAME": "Christmas Presents",
+    "DESCRIPTION": "Draw !M! cards."
+  },
+
+  "PrismaMod:ChloeDemonicTutor": {
+    "NAME": "Demonic Tutor",
+    "DESCRIPTION": "Select !M! card from your deck and add it to your hand.",
+    "UPGRADE_DESCRIPTION": "Select !M! cards from your deck and add it to your hand."
+  },
+
+  "PrismaMod:ChloeDevil": {
+    "NAME": "Demonic Guise",
+    "DESCRIPTION": "Exhaust. Deal !D! damage and heal !M!."
+  },
+
+  "PrismaMod:ChloeDiscardRecovery": {
+    "NAME": "Trace Recovery",
+    "DESCRIPTION": "Select !M! card from your discard pile and add it to your hand.",
+    "UPGRADE_DESCRIPTION": "Select !M! cards from your discard pile and add it to your hand."
+  },
+
+  "PrismaMod:ChloeHalloween": {
+    "NAME": "Trick or Treat",
+    "DESCRIPTION": "Chance to get !M! curse card or !M! random card.",
+    "UPGRADE_DESCRIPTION": "Chance to get !M! curse cards or !M! random cards."
+  },
+
+  "PrismaMod:ChloeMaid": {
+    "NAME": "Maid Form",
+    "DESCRIPTION": "Take double damage for this turn.  Gain [E] [E] [E] energy next turn."
+  },
+
+  "PrismaMod:ChloeMordred": {
+    "NAME": "Mordred Form",
+    "DESCRIPTION": "Exhaust. Gain !M! strength."
+  },
+
+  "PrismaMod:ChloeReshuffleDiscard": {
+    "NAME": "Regenerative Trace",
+    "DESCRIPTION": "Shuffle your discard pile into your deck and draw !M! cards."
+  },
+
+  "PrismaMod:ChloeRitsuka": {
+    "NAME": "Red Headed Master",
+    "DESCRIPTION": "Exhaust. Gain !M! dexterity."
+  },
+
+  "PrismaMod:ChloeUnlimitedBladeWorks": {
+    "NAME": "Unlimited Blade Works",
+    "DESCRIPTION": "Select up to 3 cards that you've traced before and add them to your hand at 0 cost.",
+    "UPGRADE_DESCRIPTION": "Select up to 3 cards that you've traced before and add them upgraded to your hand at 0 cost."
+  },
+
+  "PrismaMod:ChloeCarnivalAOEAttack": {
+    "NAME": "Carnival AOE Attack",
+    "DESCRIPTION": "Deal !D! damage to all enemies. Exhaust up to 1 card for each enemy hit.  Gain 2 prismamod:arrows for each card exhausted."
+  },
+
+  "PrismaMod:ChloeCarnivalAttack": {
+    "NAME": "Carnival Attack",
+    "DESCRIPTION": "Deal !D! damage. Gain !M! strength."
+  },
+
+  "PrismaMod:ChloeCarnivalDefend": {
+    "NAME": "Carnival Defend",
+    "DESCRIPTION": "Gain !B! block. Gain !M! dexterity."
+  },
+
+  "PrismaMod:ChloeCheapAttack": {
+    "NAME": "Sneak Attack",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! vulnerable."
+  },
+
+  "PrismaMod:ChloeCheapAttackTwo": {
+    "NAME": "Sucker Punch",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! weak."
+  },
+
+  "PrismaMod:ChloeCheapDefend": {
+    "NAME": "Magic Armor",
+    "DESCRIPTION": "Gain !B! block.",
+    "UPGRADE_DESCRIPTION": "Gain !B! block. Exhaust 1 card and gain 2 prismamod:arrows."
+  },
+
+  "PrismaMod:ChloeCheapDefendTwo": {
+    "NAME": "Improvised Armor",
+    "DESCRIPTION": "Gain !B! block."
+  },
+
+  "PrismaMod:ChloeCommonAOEAttack": {
+    "NAME": "Wide Slash",
+    "DESCRIPTION": "Deal !D! damage to all enemies."
+  },
+
+  "PrismaMod:ChloeCommonAttack": {
+    "NAME": "Slash",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+
+  "PrismaMod:ChloeCommonDefend": {
+    "NAME": "Shield",
+    "DESCRIPTION": "Gain !B! block."
+  },
+
+  "PrismaMod:ChloeShiv": {
+    "NAME": "Arrow",
+    "DESCRIPTION": "Exhaust. Deal !D! damage."
+  },
+
+  "PrismaMod:ChloeUncommonAOEAttack": {
+    "NAME": "Wide Sweep",
+    "DESCRIPTION": "Deal !D! damage to all enemies."
+  },
+
+  "PrismaMod:ChloeUncommonAttack": {
+    "NAME": "Spear",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! vulnerable."
+  },
+
+  "PrismaMod:ChloeUncommonDefend": {
+    "NAME": "Blockade",
+    "DESCRIPTION": "Gain !B! block."
+  },
+
+  "PrismaMod:ChloeBetterTracePools": {
+    "NAME": "Improve Trace",
+    "DESCRIPTION": "Removes common cards from trace pool."
+  },
+
+  "PrismaMod:ChloeDoubleRelicSpeed": {
+    "NAME": "Speed Trace",
+    "DESCRIPTION": "All cards played now count double for Kanshou and Bakuya effects."
+  },
+
+  "PrismaMod:ChloeGreatTracePools": {
+    "NAME": "Greater Trace",
+    "DESCRIPTION": "Removes common and uncommon cards from the trace pool."
+  },
+
+  "PrismaMod:ChloeCaladbolg": {
+    "NAME": "Caladbolg",
+      "DESCRIPTION": "Deal !D! damage to all enemies !M! times."
+  },
+
+  "PrismaMod:ChloeExcalibur": {
+    "NAME": "Excalibur",
+    "DESCRIPTION": "Deal !D! damage. Deals double damage to bosses."
+  },
+
+  "PrismaMod:ChloeEyeOfTheEuryale": {
+    "NAME": "Eye of the Euryale",
+    "DESCRIPTION": "Deal !D! damage. Apply 1 prismamod:attract."
+  },
+
+  "PrismaMod:ChloeGaeBolg": {
+    "NAME": "Gae Bolg",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! weak, vulnerable, and frail."
+  },
+
+  "PrismaMod:ChloePhantasmPunishment": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+
+  "PrismaMod:ChloeRhongomyniad": {
+    "NAME": "Rhongomyniad",
+    "DESCRIPTION": "Deal !D! damage and remove all target's block."
+  },
+
+  "PrismaMod:ChloeRuleBreaker": {
+    "NAME": "Rule Breaker",
+    "DESCRIPTION": "Deal !D! damage and clear all powers from target."
+  },
+
+  "PrismaMod:ChloeCreateableTraceCard": {
+    "NAME": "Trace On",
+    "DESCRIPTION": " Exhaust. Select 1 card from a specified pool.",
+    "UPGRADE_DESCRIPTION": "upgraded",
+    "EXTENDED_DESCRIPTION": [" Exhaust. Select 1 "," card from all of the "," "," ","."]
+  },
+
+  "PrismaMod:ChloeAnyAttackTrace": {
+    "NAME": "Attack Trace",
+    "DESCRIPTION": "prismamod:Trace 1 card from any Attack card."
+  },
+
+  "PrismaMod:ChloeAnyCommonTrace": {
+    "NAME": "Common Trace",
+    "DESCRIPTION": "prismamod:Trace 1 card from any Common card."
+  },
+
+  "PrismaMod:ChloeAnyPowerTrace": {
+    "NAME": "Power Trace",
+    "DESCRIPTION": "prismamod:Trace 1 card from any Power card."
+  },
+
+  "PrismaMod:ChloeAnyRareTrace": {
+    "NAME": "Rare Trace",
+    "DESCRIPTION": "prismamod:Trace 1 card from any Rare card."
+  },
+
+  "PrismaMod:ChloeAnySkillTrace": {
+    "NAME": "Skill Trace",
+    "DESCRIPTION": "prismamod:Trace 1 card from any Skill card."
+  },
+
+  "PrismaMod:ChloeAnyUncommonTrace": {
+    "NAME": "Uncommon Trace",
+    "DESCRIPTION": "prismamod:Trace 1 card from any Uncommon card."
+  },
+
+
+
+
+
+
+  "PrismaMod:MiyuBride": {
+    "NAME": "Wedding Gifts",
+    "DESCRIPTION": "Exhaust. Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Retain. Innate. Exhaust. Draw !M! cards."
+  },
+  "PrismaMod:MiyuChristmas": {
+    "NAME": "Santa Install",
+    "DESCRIPTION": "Select !M! cards from your deck and add them to your hand.",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuDevil": {
+    "NAME": "Devil Install",
+    "DESCRIPTION": "Deal !D! damage. Draw !M!.",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuMaid": {
+    "NAME": "Maid Install",
+    "DESCRIPTION": "Take double damage for this turn.  Gain [E] [E] [E] energy next turn."
+  },
+  "PrismaMod:MiyuCarnivalAOEAttack": {
+    "NAME": "Carnival Sweep",
+    "DESCRIPTION": "Deal !D! damage to all enemies !M! times."
+  },
+  "PrismaMod:MiyuCarnivalAttack": {
+    "NAME": "Carnival Stab",
+    "DESCRIPTION": "Deal !D! damage 3 times."
+  },
+  "PrismaMod:MiyuCarnivalDefend": {
+    "NAME": "Carnival Shield",
+    "DESCRIPTION": "Gain !B! block. Gain !M! dexterity."
+  },
+  "PrismaMod:MiyuCheapAttack1": {
+    "NAME": "Include Lancer",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! vulnerable."
+  },
+  "PrismaMod:MiyuCheapAttack2": {
+    "NAME": "Include Archer",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! weak."
+  },
+  "PrismaMod:MiyuCheapDefend1": {
+    "NAME": "Minor Regeneration Barrier",
+    "DESCRIPTION": "Exhaust. Gain !B! block. Gain !M! [E]."
+  },
+  "PrismaMod:MiyuCheapDefend2": {
+    "NAME": "Living Barrier",
+    "DESCRIPTION": "Exhaust. Gain !B! block. Gain !M! plated armor."
+  },
+  "PrismaMod:MiyuCheapDexBuff": {
+    "NAME": "Magic Steps",
+    "DESCRIPTION": "Gain !M! dexterity."
+  },
+  "PrismaMod:MiyuCheapPlate": {
+    "NAME": "Include Shielder",
+    "DESCRIPTION": "Gain !M! thorns."
+  },
+  "PrismaMod:MiyuCheapStrBuff": {
+    "NAME": "Include Berserker",
+    "DESCRIPTION": "Gain !M! strength."
+  },
+  "PrismaMod:MiyuCommonAOEAttack": {
+    "NAME": "Wide Slash",
+    "DESCRIPTION": "Deal !D! damage to all enemies."
+  },
+  "PrismaMod:MiyuCommonAttack": {
+    "NAME": "Sapphire Blade",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "PrismaMod:MiyuCommonDefend": {
+    "NAME": "Shield",
+    "DESCRIPTION": "Gain !B! block."
+  },
+  "PrismaMod:MiyuDefenseAbsorbMinor": {
+    "NAME": "Include Avenger",
+    "DESCRIPTION": "prismamod:block_absorb."
+  },
+  "PrismaMod:MiyuDefenseAbsorbUber": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuDefenseExplosion": {
+    "NAME": "Offensive Barrier",
+    "DESCRIPTION": "prismamod:block_explosion."
+  },
+  "PrismaMod:MiyuDefenseRemoval": {
+    "NAME": "Medusa's Gaze",
+    "DESCRIPTION": "Exhaust. Remove all block and apply prismamod:attract."
+  },
+  "PrismaMod:MiyuUberAOEAttack": {
+    "NAME": "Energy Drain",
+    "DESCRIPTION": "Deal !D! damage to all enemies. Gain !M! [E] next turn for each enemy hit."
+  },
+  "PrismaMod:MiyuUberAttack": {
+    "NAME": "Saber Include",
+    "DESCRIPTION": "Deal !D! damage. Heal !M! health."
+  },
+  "PrismaMod:MiyuUberDefend": {
+    "NAME": "Grand Protector",
+    "DESCRIPTION": "Exhaust. Apply !M! prismamod:Evade. Gain !B! block."
+  },
+  "PrismaMod:MiyuUncommonAOEAttack": {
+    "NAME": "Sweeping Fire",
+    "DESCRIPTION": "Remove all block from enemies. Deal !D! damage to all enemies."
+  },
+  "PrismaMod:MiyuUncommonAttack": {
+    "NAME": "Sapphire Lance",
+    "DESCRIPTION": "Deal !D! damage. Increase the damage of this card by !M! for the rest of combat."
+  },
+  "PrismaMod:MiyuUncommonDefend": {
+    "NAME": "Greater Energy Barrier",
+    "DESCRIPTION": "Gain !B! block.  Increase the block of this card by !M! for the rest of combat."
+  },
+  "PrismaMod:MiyuUncommonDexBuff": {
+    "NAME": "Magic Dancing Lessons",
+    "DESCRIPTION": "Gain !M! dexterity, strength and focus."
+  },
+  "PrismaMod:MiyuUncommonPlate": {
+    "NAME": "Edelfelt's Protection",
+    "DESCRIPTION": "Exhaust. Gain !M! plated armor."
+  },
+  "PrismaMod:MiyuUncommonStrBuff": {
+    "NAME": "Magic Circuit Growth",
+    "DESCRIPTION": "Gain !M! focus."
+  },
+  "PrismaMod:MiyuAttackChannelAttack": {
+    "NAME": "Growing Slash",
+    "DESCRIPTION": "Deal !D! damage. Channel !M! prismamod:growth_orb."
+  },
+  "PrismaMod:MiyuAttackChannelVul": {
+    "NAME": "Deep Cut",
+    "DESCRIPTION": "Deal !D! damage. Channel !M! prismamod:vulnerable_orb."
+  },
+  "PrismaMod:MiyuAttackChannelWeak": {
+    "NAME": "Precise Stab",
+    "DESCRIPTION": "Deal !D! damage. Channel !M! prismamod:weak_orb."
+  },
+  "PrismaMod:MiyuChannelAttackEvoke": {
+    "NAME": "Magical Strike",
+    "DESCRIPTION": "Gain !M! focus. Deal !D! damage !M! times. Decrease max orb slots by 1."
+  },
+  "PrismaMod:MiyuChannelDefendEvoke": {
+    "NAME": "Fortification",
+    "DESCRIPTION": "Gain !M! focus. Gain !B! block !M! times. Decrease max orb slots by 1."
+  },
+  "PrismaMod:MiyuChannelHealEvoke": {
+    "NAME": "DEPRECATED Regenerative Stance",
+    "DESCRIPTION": "DEPRECATED Exhaust. Evoke. Heal !M!."
+  },
+  "PrismaMod:MiyuChannelRandomEvoke": {
+    "NAME": "DEPRECATED Guessing Game",
+    "DESCRIPTION": "DEPRECATED Exhaust. Evoke. Channel !M! prismamod:random_orb."
+  },
+  "PrismaMod:MiyuChannelVulEvoke": {
+    "NAME": "DEPRECATED Unfortunate Stance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! vulnerable."
+  },
+  "PrismaMod:MiyuChannelWeakEvoke": {
+    "NAME": "DEPRECATED Off Balance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! weak."
+  },
+  "PrismaMod:MiyuCheapChannelAttack": {
+    "NAME": "Sapphire Offensive",
+    "DESCRIPTION": "Channel !M! prismamod:growth_orb."
+  },
+  "PrismaMod:MiyuCheapChannelDefend": {
+    "NAME": "Sapphire Defensive",
+    "DESCRIPTION": "Channel !M! prismamod:shield_orb."
+  },
+  "PrismaMod:MiyuCheapChannelHeal": {
+    "NAME": "Sapphire Repair",
+    "DESCRIPTION": "Exhaust. Channel !M! prismamod:heal_orb."
+  },
+  "PrismaMod:MiyuCheapChannelRandom": {
+    "NAME": "Gatcha Pull",
+    "DESCRIPTION": "Channel !M! prismamod:random_orb."
+  },
+  "PrismaMod:MiyuCheapChannelVul": {
+    "NAME": "Edelfelt's Guidance",
+    "DESCRIPTION": "Channel !M! prismamod:vulnerable_orb."
+  },
+  "PrismaMod:MiyuCheapChannelWeak": {
+    "NAME": "Sapphire's Plan",
+    "DESCRIPTION": "Channel !M! prismamod:weak_orb."
+  },
+  "PrismaMod:MiyuCheapEvoke": {
+    "NAME": "Release",
+    "DESCRIPTION": "Evoke. Return a card from the discard pile to your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. Evoke. Return a card from the discard pile to your hand."
+  },
+  "PrismaMod:MiyuDefendChannelDefend": {
+    "NAME": "Crystallized Magic",
+    "DESCRIPTION": "Gain !B! block. Channel !M! prismamod:shield_orb."
+  },
+  "PrismaMod:MiyuEvokeAll": {
+    "NAME": "Grand Release",
+    "DESCRIPTION": "Evoke all orbs. Draw !M! card for each orb evoked."
+  },
+  "PrismaMod:MiyuEvokeAllAttack": {
+    "NAME": "Limit Breaker",
+    "DESCRIPTION": "Evoke all orbs. Deal !D! damage !M! times."
+  },
+  "PrismaMod:MiyuEvokeAllDefend": {
+    "NAME": "Friend's Protection",
+    "DESCRIPTION": "Evoke all orbs. Gain !B! block !M! times."
+  },
+  "PrismaMod:MiyuEvokeBuffDex": {
+    "NAME": "Rider's Gift",
+    "DESCRIPTION": "Exhaust. Evoke. Gain !M! dexterity for one turn."
+  },
+  "PrismaMod:MiyuEvokeBuffStr": {
+    "NAME": "Gil's Gift",
+    "DESCRIPTION": "Exhaust. Exhaust all non attack cards in hand. Gain !M! gold."
+  },
+  "PrismaMod:MiyuEvokeCheapAttack": {
+    "NAME": "Assassin Include",
+    "DESCRIPTION": "Evoke. Deal !D! damage. Apply !M! weak, frail, and vulnerable."
+  },
+  "PrismaMod:MiyuEvokeCheapDefend": {
+    "NAME": "Ruler Include",
+    "DESCRIPTION": "Exhaust. Evoke. Take half damage for the next turn."
+  },
+  "PrismaMod:MiyuOrbIncreasePerm": {
+    "NAME": "Major Magic Expansion",
+    "DESCRIPTION": "Exhaust. Gain !M! orb slots for the rest of combat."
+  },
+  "PrismaMod:MiyuOrbIncreaseTemp": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuMultiEvoke": {
+    "NAME": "Complete Release",
+    "DESCRIPTION": "Evoke X times.",
+    "UPGRADE_DESCRIPTION": "Evoke X times. Draw X cards."
+  },
+  "PrismaMod:MiyuEvokeTwo": {
+    "NAME": "Release",
+    "DESCRIPTION": "Exhaust. Evoke !M! times.",
+    "UPGRADE_DESCRIPTION": "Evoke !M! times."
+  }
+}

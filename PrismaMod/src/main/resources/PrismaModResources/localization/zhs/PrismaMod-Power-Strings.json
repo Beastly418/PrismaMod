@@ -1,0 +1,159 @@
+﻿{
+        "PrismaMod:IllyaArcherPower": {
+                "NAME": "Archer梦幻召唤",
+                "DESCRIPTIONS": ["每回合获得 "," 张随机牌。 NL 每回合获得 "," 点 #y力量 。"]
+        },
+        "PrismaMod:IllyaAssassinPower": {
+                "NAME": "Assassin梦幻召唤",
+                "DESCRIPTIONS": ["#r回避 每回合受到的第一次攻击。 NL 所有攻击附加 "," 层 #g中毒 。 NL 每回合获得 "," 张 #p小刀 。 获得 "," 个 #y刺客充能球 。 NL 造成 "," 点真实伤害。 受到的伤害增加 "," 。"]
+        },
+        "PrismaMod:IllyaAvengerPower": {
+                "NAME": "Avenger梦幻召唤",
+                "DESCRIPTIONS": ["从所有敌人中受到的伤害减少。 NL 每回合对所有敌人造成 "," 点伤害。"]
+        },
+        "PrismaMod:IllyaBerserkerPower": {
+                "NAME": "Berserker梦幻召唤",
+                "DESCRIPTIONS": ["造成 #r双倍伤害 并受到 #r双倍伤害。"]
+        },
+        "PrismaMod:IllyaCasterPower": {
+                "NAME": "Caster梦幻召唤",
+                "DESCRIPTIONS": ["获得 "," 点能量和充能球栏位。  NL 强化充能球效果。 随机生成 "," 个充能球。"]
+        },
+        "PrismaMod:IllyaForeignerPower": {
+                "NAME": "Foreigner梦幻召唤",
+                "DESCRIPTIONS": ["翻倍充能球的 #p激发效果 。 NL 由充能球激发造成的效果给予 #g中毒 。"]
+        },
+        "PrismaMod:IllyaLancerPower": {
+                "NAME": "Lancer梦幻召唤",
+                "DESCRIPTIONS": ["每","次攻击，给予 "," 层 #y虚弱 ， #y脆弱 和 #y易伤 状态。"]
+        },
+        "PrismaMod:IllyaRiderPower": {
+                "NAME": "Rider梦幻召唤",
+                "DESCRIPTIONS": ["每回合获得 "," 点  #y敏捷 。 对非Boss敌人的攻击额外造成 "," 点伤害。"]
+        },
+        "PrismaMod:IllyaSaberPower": {
+                "NAME": "Saber梦幻召唤",
+                "DESCRIPTIONS": ["每回合获得 "," 点 #y力量。 NL 对 #rBoss 额外造成伤害。"]
+        },
+        "PrismaMod:IllyaAlterEgoPower": {
+                "NAME": "Alter Ego 梦幻召唤",
+                "DESCRIPTIONS": ["获得","个充能球栏位。 每回合激发最右侧的充能球。 NL 所有的 #y技能牌 减少","点耗能 。"]
+        },
+        "PrismaMod:IllyaRulerPower": {
+                "NAME": "Ruler梦幻召唤",
+                "DESCRIPTIONS": ["每回合获得 "," 点 #y力量 和 #y敏捷 。"]
+        },
+        "PrismaMod:IllyaMoonCancerPower": {
+                "NAME": "Moon Cancer梦幻召唤",
+                "DESCRIPTIONS": ["每回合获得 0 张无色卡。 NL 双倍充能球的 #p被动效果 。"]
+        },
+        "PrismaMod:IllyaShielderPower": {
+                "NAME": "Shielder梦幻召唤",
+                "DESCRIPTIONS": ["每回合获得 "," 点格挡。"]
+        },
+        "PrismaMod:AssassinRevengePower": {
+                "NAME": "复仇",
+                "DESCRIPTIONS": ["对自身的攻击会给予攻击者 "," 层 #y中毒 并且生成"," 个 #g毒药充能球 。"]
+        },
+        "PrismaMod:IllyaZweiPower": {
+                "NAME": "双子形态",
+                "DESCRIPTIONS": ["你的魔术回路快要坚持不住了。"]
+        },
+        "PrismaMod:MaidPower": {
+                "NAME": "女仆形态",
+                "DESCRIPTIONS": ["受到双倍的伤害。下个回合获得 "," 点能量并抽 "," 张牌。"]
+        },
+        "PrismaMod:UpgradeOrbsPower": {
+                "NAME": "充能球升级",
+                "DESCRIPTIONS": ["所有的充能球都被升级了"]
+        },
+        "PrismaMod:HalfDamagePower": {
+                "NAME": "复仇者的目光",
+                "DESCRIPTIONS": ["这个敌人造成的伤害减半。"]
+        },
+        "PrismaMod:EvadePower": {
+                "NAME": "回避",
+                "DESCRIPTIONS": ["使受到的第一次攻击的伤害降为0。"]
+        },
+        "PrismaMod:PartialInstallAssassinPower": {
+                "NAME": "不完全的Assassin梦幻召唤",
+                "DESCRIPTIONS": ["当你打出一张攻击牌时，对所有敌人造成"," 点伤害。"]
+        },
+		"PrismaMod:SaberDamageIncreasePower": {
+                "NAME": "Saber伤害增加",
+                "DESCRIPTIONS": ["第一次攻击造成额外","%伤害。"]
+        },
+        "PrismaMod:IllyaZweiDebuffPower": {
+                "NAME": "双子形态",
+                "DESCRIPTIONS": ["打出第二张双子形态将会杀死你。"]
+        },
+        "PrismaMod:BridleOfChivalryPower": {
+                "NAME": "骑英之缰绳",
+                "DESCRIPTIONS": ["尊贵的幻想"]
+        },
+        "PrismaMod:ChannelPower": {
+                "NAME": "引导",
+                "DESCRIPTIONS": ["这名英灵正在准备一个强力攻击。"]
+        },
+        "PrismaMod:CharismaPower": {
+                "NAME": "领导力",
+                "DESCRIPTIONS": ["本回合结束时，获得 4 点 #y力量 。"]
+        },
+        "PrismaMod:CursedEyesPower": {
+                "NAME": "诅咒之眼",
+                "DESCRIPTIONS": [""]
+        },
+        "PrismaMod:DivinityPower": {
+                "NAME": "神性",
+                "DESCRIPTIONS": ["将所有抽到的牌耗能将增加1。"]
+        },
+        "PrismaMod:InstinctPower": {
+                "NAME": "直感",
+                "DESCRIPTIONS": ["下一次攻击将造成三倍伤害。"]
+        },
+        "PrismaMod:MagicResistancePower": {
+                "NAME": "对魔力",
+                "DESCRIPTIONS": ["这名英灵将在下一回合获得10点 #y格挡 。"]
+        },
+        "PrismaMod:ManaBurstPower": {
+                "NAME": "魔力放出",
+                "DESCRIPTIONS": ["下一次攻击将会攻击两次。"]
+        },
+        "PrismaMod:MemoriesOfTheDragonPower": {
+                "NAME": "龙之记忆",
+                "DESCRIPTIONS": ["这个心脏是由龙的概念所形成的。 NL 能与地热所匹敌的魔力量。 NL 鼓动着龙的咆哮、王者的星辰之剑一闪而没。 NL 让圣剑成为最强的、正是紧握它的那双手中的力量。 "]
+        },
+        "PrismaMod:MonstrousStrengthPower": {
+                "NAME": "怪力",
+                "DESCRIPTIONS": ["本回合结束时，获得4点 #y力量 。"]
+        },
+        "PrismaMod:MysticEyesPower": {
+                "NAME": "魔眼",
+                "DESCRIPTIONS": ["你的魔术回路快要用完了。"]
+        },
+        "PrismaMod:ShapelessIslandPower": {
+                "NAME": "无形之岛",
+                "DESCRIPTIONS": [""]
+        },
+
+
+
+
+
+        "PrismaMod:ChloeBetterTracePoolsPower": {
+                "NAME": "追踪+",
+                "DESCRIPTIONS": ["将追踪池中的普通牌移除"]
+        },
+        "PrismaMod:ChloeDoubleRelicSpeedPower": {
+                "NAME": "速度追踪",
+                "DESCRIPTIONS": ["你打出的牌现在被 #y干将·莫邪 效果计数两次。"]
+        },
+        "PrismaMod:ChloeGreatTracePoolsPower": {
+                "NAME": "追踪++",
+                "DESCRIPTIONS": ["将追踪池中的普通和罕见牌移除。"]
+        },
+        "PrismaMod:ChloeStunPower": {
+                "NAME": "吸引",
+                "DESCRIPTIONS": ["这个单位下一回合将被击晕。"]
+        }
+}

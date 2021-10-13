@@ -1,0 +1,159 @@
+{
+        "PrismaMod:IllyaArcherPower": {
+                "NAME": "Archer Install",
+                "DESCRIPTIONS": ["Gain "," random card each turn. NL Gain "," #yStrength each turn"]
+        },
+        "PrismaMod:IllyaAssassinPower": {
+                "NAME": "Assassin Install",
+                "DESCRIPTIONS": ["#yEvade the first attack each turn. NL Attacks to non-bosses apply "," #gpoison. NL Gain "," Assassin orb. NL Deal ","% damage. Take ","% more damage. NL Deal an extra "," damage and apply "," extra poison to bosses"]
+        },
+        "PrismaMod:IllyaAvengerPower": {
+                "NAME": "Avenger Install",
+                "DESCRIPTIONS": ["Reduce all incoming damage from non-bosses by 25%. NL Deal "," damage to all enemies every turn."]
+        },
+        "PrismaMod:IllyaBerserkerPower": {
+                "NAME": "Berserker Install",
+                "DESCRIPTIONS": ["Deal #rDouble damage and take #rDouble damage."]
+        },
+        "PrismaMod:IllyaCasterPower": {
+                "NAME": "Caster Install",
+                "DESCRIPTIONS": ["Gain "," energized per turn. Increase passive and evoke effects on orbs. Gain "," more orb slot. Channel "," random orb each turn."]
+        },
+        "PrismaMod:IllyaForeignerPower": {
+                "NAME": "Foreigner Install",
+                "DESCRIPTIONS": ["Double the #pEvoke effect of orbs. NL Damage dealt from evokes apply poison."]
+        },
+        "PrismaMod:IllyaLancerPower": {
+                "NAME": "Lancer Install",
+                "DESCRIPTIONS": ["Apply "," Weak, Frail, and Vulnerable every "," attacks."]
+        },
+        "PrismaMod:IllyaRiderPower": {
+                "NAME": "Rider Install",
+                "DESCRIPTIONS": ["Gain "," Dexterity per turn. Deal "," to all non-bosses every attack."]
+        },
+        "PrismaMod:IllyaSaberPower": {
+                "NAME": "Saber Install",
+                "DESCRIPTIONS": ["Gain "," Strength each turn. NL Deal bonus damage to #rBosses."]
+        },
+        "PrismaMod:IllyaAlterEgoPower": {
+                "NAME": "Alter Ego Install",
+                "DESCRIPTIONS": ["Gain "," Orb slot. Evoke "," orb every turn. NL All #ySkills cost "," less to cast."]
+        },
+        "PrismaMod:IllyaRulerPower": {
+                "NAME": "Ruler Install",
+                "DESCRIPTIONS": ["Gain "," strength and dexterity every turn."]
+        },
+        "PrismaMod:IllyaMoonCancerPower": {
+                "NAME": "Moon Cancer Install",
+                "DESCRIPTIONS": ["Grants you a 0 cost colorless card each turn. NL Double #ppassive effects of orbs."]
+        },
+        "PrismaMod:IllyaShielderPower": {
+                "NAME": "Shielder Install",
+                "DESCRIPTIONS": ["Gain "," Block per turn."]
+        },
+        "PrismaMod:AssassinRevengePower": {
+                "NAME": "Vengeance",
+                "DESCRIPTIONS": ["Attacks on self apply"," poison and channel"," poison orb"]
+        },
+        "PrismaMod:IllyaZweiPower": {
+                "NAME": "Zwei Form",
+                "DESCRIPTIONS": ["Your magic circuits are about to give out."]
+        },
+        "PrismaMod:MaidPower": {
+                "NAME": "Maid Form",
+                "DESCRIPTIONS": ["Take double damage. Gain "," energy and draw "," next turn."]
+        },
+        "PrismaMod:UpgradeOrbsPower": {
+                "NAME": "Upgrade Orbs",
+                "DESCRIPTIONS": ["All orbs are upgraded"]
+        },
+        "PrismaMod:HalfDamagePower": {
+                "NAME": "Avenger's Gaze",
+                "DESCRIPTIONS": ["This enemy deals half damage."]
+        },
+        "PrismaMod:EvadePower": {
+                "NAME": "Evade",
+                "DESCRIPTIONS": ["Enemies first attack deals no damage."]
+        },
+        "PrismaMod:PartialInstallAssassinPower": {
+                "NAME": "Partial Assassin Install",
+                "DESCRIPTIONS": ["Deal "," damage to all enemies whenever you play an attack."]
+        },
+        "PrismaMod:SaberDamageIncreasePower": {
+                "NAME": "Saber Damage Increase",
+                "DESCRIPTIONS": ["First attack deals ","% more damage."]
+        },
+        "PrismaMod:IllyaZweiDebuffPower": {
+                "NAME": "Zwei Form",
+                "DESCRIPTIONS": ["Playing a second Zwei form will kill you."]
+        },
+
+
+        "PrismaMod:BridleOfChivalryPower": {
+                "NAME": "Bridle of Chivalry",
+                "DESCRIPTIONS": ["Noble Phantasm"]
+        },
+        "PrismaMod:ChannelPower": {
+                "NAME": "Channel",
+                "DESCRIPTIONS": ["This servant is charging a powerful attack."]
+        },
+        "PrismaMod:CharismaPower": {
+                "NAME": "Charisma",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:CursedEyesPower": {
+                "NAME": "Cursed Eyes",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:DivinityPower": {
+                "NAME": "Divinity",
+                "DESCRIPTIONS": ["All cards drawn will cost 1 more"]
+        },
+        "PrismaMod:InstinctPower": {
+                "NAME": "Instinct",
+                "DESCRIPTIONS": ["The next attack will deal triple damage."]
+        },
+        "PrismaMod:MagicResistancePower": {
+                "NAME": "Magic Resistance",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:ManaBurstPower": {
+                "NAME": "Mana Burst",
+                "DESCRIPTIONS": ["The next attack will attack twice."]
+        },
+        "PrismaMod:MemoriesOfTheDragonPower": {
+                "NAME": "Memories of the Dragon",
+                "DESCRIPTIONS": ["The heart is forged from the concept of dragons. NL Its magical energy can rival that of Earth's own core. NL Pulsing with the dragon's roar, the king shall bring down the Sword of the Planet. NL The Sacred Sword is crowned the strongest, because of the power of its wielder. "]
+        },
+        "PrismaMod:MonstrousStrengthPower": {
+                "NAME": "Monstrous Strength",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:MysticEyesPower": {
+                "NAME": "Mystic Eyes",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:ShapelessIslandPower": {
+                "NAME": "Shapeless Island",
+                "DESCRIPTIONS": ["After suffering persecution, the three sisters escaped to this island."]
+        },
+
+
+
+        "PrismaMod:ChloeBetterTracePoolsPower": {
+                "NAME": "Trace+",
+                "DESCRIPTIONS": ["Common cards are removed from the trace pool."]
+        },
+        "PrismaMod:ChloeDoubleRelicSpeedPower": {
+                "NAME": "Speed Trace",
+                "DESCRIPTIONS": ["Cards played count as double for Kanshou and Bakuya"]
+        },
+        "PrismaMod:ChloeGreatTracePoolsPower": {
+                "NAME": "Trace++",
+                "DESCRIPTIONS": ["Common and uncommon cards are removed from the trace pool."]
+        },
+        "PrismaMod:ChloeStunPower": {
+                "NAME": "Attract",
+                "DESCRIPTIONS": ["This creature is stunned for the next turn."]
+        }
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "NAMES": [
+      "keyword",
+      "keywords"
+    ],
+    "DESCRIPTION": "Whenever you play a card, gain 1 dexterity this turn only."
+  },
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest is to match keywords like the single word keyword."
+  },
+  {
+    "NAMES": ["설치",
+      "설치"
+    ],
+    "DESCRIPTION": "효과를 적용합니다. 두번 사용하면 처음 사용한 설치는 무효화합니다."
+  },
+  {
+    "NAMES": ["확장",
+      "확장",
+      "확장",
+      "확장"
+    ],
+    "DESCRIPTION": "대상의 현재 중독 만큼의 25%를 모든 적에게 나누어 입힙니다."
+  },
+  {
+    "PROPER_NAME":"공격 구체",
+    "NAMES": ["공격 구체", "공격_구체"
+    ],
+    "DESCRIPTION": "지속: 무작위 적에게 피해를 4 줍니다. NL 발현: 무작위 적에게 피해를 8 줍니다."
+  },
+  {
+    "PROPER_NAME":"암살 구체",
+    "NAMES": ["암살 구체", "암살_구체"
+    ],
+    "DESCRIPTION": "지속: 단도 카드를 1 장 얻습니다. NL 발현: 단도 카드를 2 장 얻습니다."
+  },
+  {
+    "PROPER_NAME":"수비 구체",
+    "NAMES": ["수비 구체", "수비_구체"
+    ],
+    "DESCRIPTION": "지속: 방어도를 4 얻습니다. NL 발현: 방어도를 8 얻습니다."
+  },
+  {
+    "PROPER_NAME":"독성 구체",
+    "NAMES": ["독성 구체", "독성_구체"
+    ],
+    "DESCRIPTION": "지속: 무작위 적에게 중독을 1 부여합니다. NL 발현: 모든 적에게 중독을 1 부여합니다."
+  },
+  {
+    "PROPER_NAME":"성서 구체",
+    "NAMES": ["성서 구체", "성서_구체"
+    ],
+    "DESCRIPTION": "지속: 자신에게 피해를 2 줍니다. NL 발현: 에너지를 1 얻습니다."
+  },
+  {
+    "PROPER_NAME":"쯔바이 구체",
+    "NAMES": ["쯔바이 구체", "쯔바이_구체"
+    ],
+    "DESCRIPTION": "지속: 없음. NL 발현: 무작위 적에게 피해를 8 줍니다."
+  },
+  {
+    "NAMES": ["회피", "회피"
+    ],
+    "DESCRIPTION": "다음 받는 모든 피해를 회피합니다."
+  },
+  {
+    "PROPER_NAME":"앨리스의 곰",
+    "NAMES": ["앨리스의 곰", "앨리스의_곰"
+    ],
+    "DESCRIPTION": "적을 처치하면 카드를 2 장 뽑습니다. 한번만 획득할 수 있습니다."
+  },
+  {
+    "PROPER_NAME": "완전한 폭발",
+    "NAMES": ["완전한 폭발", "완전한_폭발"
+    ],
+    "DESCRIPTION": "대상의 현재 중독 만큼의 피해량을 입히고 중독 을 전부 제거합니다."
+  },
+
+
+
+  {
+    "NAMES": ["화살",
+      "화살",
+      "화살",
+      "화살"
+    ],
+    "DESCRIPTION": "화살 은 비용이 #b0 인 소멸 공격 카드 입니다."
+  },
+  {
+    "NAMES": ["도발",
+      "도발"
+    ],
+    "DESCRIPTION": "적은 다음 턴에 아무것도 하지 않습니다."
+  },
+  {
+    "NAMES": ["추적",
+      "추적"
+    ],
+    "DESCRIPTION": "비용을 1 낮추고 손으로 가져옵니다."
+  },
+
+
+
+
+  {
+    "PROPER_NAME": "minor absorb",
+    "NAMES": ["minor absorb", "minor_absorb"
+    ],
+    "DESCRIPTION": "Gain block equal to half of all enemies poison."
+  },
+  {
+    "NAMES": ["absorb", "Absorb"
+    ],
+    "DESCRIPTION": "Gain block equal to all enemies poison."
+  },
+  {
+    "PROPER_NAME": "uber absorb",
+    "NAMES": ["uber absorb", "uber_absorb"
+    ],
+    "DESCRIPTION": "Gain block equal to double all enemies poison."
+  },
+
+
+
+
+  {
+    "PROPER_NAME": "block absorb",
+    "NAMES": ["block absorb","block_absorb"
+    ],
+    "DESCRIPTION": "Drain all enemies block and add it to yourself."
+  },
+
+  {
+    "PROPER_NAME": "block explosion",
+    "NAMES": ["block explosion","block_explosion"
+    ],
+    "DESCRIPTION": "Deal damage equal to the amount of block on each enemy"
+  },
+
+  {
+    "PROPER_NAME": "growth orb",
+    "NAMES": ["growth orb","growth_orb"
+    ],
+    "DESCRIPTION": "Passive: Deal 4 damage to random enemy. Evoke: Gain 1 strength."
+  },
+
+  {
+    "PROPER_NAME": "shield orb",
+    "NAMES": ["shield orb","shield_orb"
+    ],
+    "DESCRIPTION": "Passive: Gain 4 block. Evoke: Gain 1 dexterity."
+  },
+
+  {
+    "PROPER_NAME": "heal orb",
+    "NAMES": ["heal orb","heal_orb"
+    ],
+    "DESCRIPTION": "Passive: Heal random enemy 5. Evoke: Heal self 3."
+  },
+
+  {
+    "PROPER_NAME": "random orb",
+    "NAMES": ["random orb","random_orb"
+    ],
+    "DESCRIPTION": "Passive: Do a random effect. Evoke: Use 3 random effects."
+  },
+
+  {
+    "PROPER_NAME": "vulnerable orb",
+    "NAMES": ["vulnerable orb","vulnerable_orb"
+    ],
+    "DESCRIPTION": "Passive: Give 1 vulnerable to a random enemy. Evoke: Give 1 vulnerable to all enemies."
+  },
+
+  {
+    "PROPER_NAME": "weak orb",
+    "NAMES": ["weak orb","weak_orb"
+    ],
+    "DESCRIPTION": "Passive: Give 1 weak to a random enemy. Evoke: Give 1 weak to all enemies."
+  }
+]

@@ -1,0 +1,159 @@
+﻿{
+        "PrismaMod:IllyaArcherPower": {
+                "NAME": "Instalar Arqueiro",
+                "DESCRIPTIONS": ["Ganhe "," carta(s) aleatórias todo turno. NL Ganhe "," #yForça todo turno."]
+        },
+        "PrismaMod:IllyaAssassinPower": {
+                "NAME": "Instalar Assassino",
+                "DESCRIPTIONS": ["#yEsquive o primeiro ataque a cada turno. NL Ataques a não-chefes causam "," #gVeneno. NL Ganhe "," Orbe do Assassino. NL Cause ","% dano. Tome ","% mais dano. NL Cause "," dano extra e aplique "," Veneno extra a chefes."]
+        },
+        "PrismaMod:IllyaAvengerPower": {
+                "NAME": "Instalar Vingador",
+                "DESCRIPTIONS": ["Reduza todo dano recebido de não-chefes em  ","%. NL Cause "," dano a todos inimigos todo turno."]
+        },
+        "PrismaMod:IllyaBerserkerPower": {
+                "NAME": "Instalar Berserker",
+                "DESCRIPTIONS": ["Cause o #rDobro de dano e tome o #rDobro de dano."]
+        },
+        "PrismaMod:IllyaCasterPower": {
+                "NAME": "Instalar Conjurador",
+                "DESCRIPTIONS": ["Ganhe "," Energizado por turno. Aumente o efeito passivo e de evocação dos orbes. Ganhe "," espaços de orbe adicionais. Canalize "," orbe aleatório a cada turno."]
+        },
+        "PrismaMod:IllyaForeignerPower": {
+                "NAME": "Instalar Estrangeiro",
+                "DESCRIPTIONS": ["Dobre o efeito de #pEvocar dos orbes. NL O dano causado por evocações aplicam Veneno."]
+        },
+        "PrismaMod:IllyaLancerPower": {
+                "NAME": "Instalar Lanceiro",
+                "DESCRIPTIONS": ["Aplique "," Fraco, Frágil e Vulnerável a cada "," ataques."]
+        },
+        "PrismaMod:IllyaRiderPower": {
+                "NAME": "Instalar Cavaleiro",
+                "DESCRIPTIONS": ["Ganhe "," Destreza por turno. Cause "," para todos não-chefes a cada ataque."]
+        },
+        "PrismaMod:IllyaSaberPower": {
+                "NAME": "Instalar Sabre",
+                "DESCRIPTIONS": ["Ganhe "," Força a cada turno. NL Causa dano bônus a #rChefes."]
+        },
+        "PrismaMod:IllyaAlterEgoPower": {
+                "NAME": "Instalar Alter Ego",
+                "DESCRIPTIONS": ["Ganhe "," espaço para Orbe. Evoque "," orbe todo turno. NL Todas #yHabilidades custam "," menos para serem usadas."]
+        },
+        "PrismaMod:IllyaRulerPower": {
+                "NAME": "Instalar Governante",
+                "DESCRIPTIONS": ["Ganhe "," Força e Destreza todo turno."]
+        },
+        "PrismaMod:IllyaMoonCancerPower": {
+                "NAME": "Instalar Câncer da Lua",
+                "DESCRIPTIONS": ["Concede "," carta incolor de custo 0 a cada turno.. NL Dobre o efeito #ppassivo dos orbes."]
+        },
+        "PrismaMod:IllyaShielderPower": {
+                "NAME": "Instalar Defensor",
+                "DESCRIPTIONS": ["Ganhe "," Bloqueio por turno."]
+        },
+        "PrismaMod:AssassinRevengePower": {
+                "NAME": "Vingança",
+                "DESCRIPTIONS": ["Ataques em você causam "," veneno e canalizam"," orbes de veneno"]
+        },
+        "PrismaMod:IllyaZweiPower": {
+                "NAME": "Forma Zwei",
+                "DESCRIPTIONS": ["Seus circuitos mágicos estão prestes a ceder."]
+        },
+        "PrismaMod:MaidPower": {
+                "NAME": "Forma de Empregada",
+                "DESCRIPTIONS": ["Take double damage. Gain "," energy and draw "," next turn."]
+        },
+        "PrismaMod:UpgradeOrbsPower": {
+                "NAME": "Aprimorar Orbes",
+                "DESCRIPTIONS": ["Todos orbes são aprimorados"]
+        },
+        "PrismaMod:HalfDamagePower": {
+                "NAME": "Olhar do Vingador",
+                "DESCRIPTIONS": ["Este inimigo causa metade do dano."]
+        },
+        "PrismaMod:EvadePower": {
+                "NAME": "Esquivar",
+                "DESCRIPTIONS": ["O primeiro ataque dos inimigos não causa dano."]
+        },
+        "PrismaMod:PartialInstallAssassinPower": {
+                "NAME": "Instalação Parcial de Assassino",
+                "DESCRIPTIONS": ["Cause "," de dano a todos inimigos sempre que usar um Ataque."]
+        },
+        "PrismaMod:SaberDamageIncreasePower": {
+                "NAME": "Aumentar dano de Sabra",
+                "DESCRIPTIONS": ["O primeiro ataque causa ","% mais dano."]
+        },
+        "PrismaMod:IllyaZweiDebuffPower": {
+                "NAME": "Forma Zwei",
+                "DESCRIPTIONS": ["Jogar uma segunda forma Zwei irá te matar."]
+        },
+
+
+        "PrismaMod:BridleOfChivalryPower": {
+                "NAME": "Reprimir Cavalheirismo",
+                "DESCRIPTIONS": ["Fantasma Nobre"]
+        },
+        "PrismaMod:ChannelPower": {
+                "NAME": "Canalizar",
+                "DESCRIPTIONS": ["Este servo está carregando um ataque poderoso."]
+        },
+        "PrismaMod:CharismaPower": {
+                "NAME": "Carisma",
+                "DESCRIPTIONS": ["DESCONTINUADO"]
+        },
+        "PrismaMod:CursedEyesPower": {
+                "NAME": "Cursed Eyes",
+                "DESCRIPTIONS": ["DESCONTINUADO"]
+        },
+        "PrismaMod:DivinityPower": {
+                "NAME": "Divindade",
+                "DESCRIPTIONS": ["Todas cartas compradas custarão 1 a mais."]
+        },
+        "PrismaMod:InstinctPower": {
+                "NAME": "Instinto",
+                "DESCRIPTIONS": ["O próximo ataque causará o triplo de dano."]
+        },
+        "PrismaMod:MagicResistancePower": {
+                "NAME": "Resistência Mágica",
+                "DESCRIPTIONS": ["DESCONTINUADO"]
+        },
+        "PrismaMod:ManaBurstPower": {
+                "NAME": "Explosão de Mana",
+                "DESCRIPTIONS": ["O próximo ataque será jogado duas vezes."]
+        },
+        "PrismaMod:MemoriesOfTheDragonPower": {
+                "NAME": "Memórias do Dragão",
+                "DESCRIPTIONS": ["O coração é forjado do coneito dos dragões. NL Sua energia mágica rivaliza com o do próprio núcleo da Terra. NL Pulsando com o rugido do dragão, o Rei trará a Espada do Planeta. NL A Espada Sagrada é consagrada a mais poderosa devido ao poder de seu usuário. "]
+        },
+        "PrismaMod:MonstrousStrengthPower": {
+                "NAME": "Força Monstruosa",
+                "DESCRIPTIONS": ["DESCONTINUADO"]
+        },
+        "PrismaMod:MysticEyesPower": {
+                "NAME": "Olhos Místicos",
+                "DESCRIPTIONS": ["DESCONTINUADO"]
+        },
+        "PrismaMod:ShapelessIslandPower": {
+                "NAME": "Ilha Sem Forma",
+                "DESCRIPTIONS": ["Após sofrer perseguição, as três irmãs fugiram para esta ilha."]
+        },
+
+
+
+        "PrismaMod:ChloeBetterTracePoolsPower": {
+                "NAME": "Traçar+",
+                "DESCRIPTIONS": ["Cartas comuns são removidas da lista de traçado."]
+        },
+        "PrismaMod:ChloeDoubleRelicSpeedPower": {
+                "NAME": "Traçado Rápido",
+                "DESCRIPTIONS": ["Todas cartas jogadas a partir de agora contam o dobro para os efeitos de Kanshou e Bakuya"]
+        },
+        "PrismaMod:ChloeGreatTracePoolsPower": {
+                "NAME": "Traçar++",
+                "DESCRIPTIONS": ["Remove cartas comuns e incomuns da lista de traçado."]
+        },
+        "PrismaMod:ChloeStunPower": {
+                "NAME": "Atrair",
+                "DESCRIPTIONS": ["Esta criatura fica atordoada durante o próximo turno."]
+        }
+}

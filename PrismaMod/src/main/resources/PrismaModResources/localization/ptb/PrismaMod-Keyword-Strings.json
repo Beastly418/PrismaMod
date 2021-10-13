@@ -1,0 +1,196 @@
+﻿[
+  {
+    "NAMES": [
+      "keyword",
+      "keywords"
+    ],
+    "DESCRIPTION": "Quando jogar uma carta, ganhe 1 Destreza durante este turno."
+  },
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION": "Se certifique que o primeiro elemento em NAMES é o mesmo que em PROPER_NAME. O resto é para se igualar palavras-chave como a palavra-chave única."
+  },
+  {
+    "NAMES": ["install",
+      "Install"
+    ],
+    "DESCRIPTION": "Aplica um poder. Jogar uma segunda carta Instalar irá apagar a primeira."
+  },
+  {
+    "PROPER_NAME": "Espalhar Veneno",
+    "NAMES": ["poison expansion",
+      "espalhar_veneno",
+      "Espalhar veneno",
+      "Espalhar_veneno"
+    ],
+    "DESCRIPTION": "Espalha 25% do veneno do alvo para todos inimigos."
+  },
+  {
+    "NAMES": ["ataque", "Ataque"
+    ],
+    "DESCRIPTION": "Passiva: Causa 4 de dano a um inimigo aleatório. Evocar: Causa 8 de dano a um inimigo aleatório."
+  },
+  {
+    "NAMES": ["assassino", "Assassino"
+    ],
+    "DESCRIPTION": "Passiva: Ganhe 1 lâmina. Evocar: Ganhe 2 lâminas."
+  },
+  {
+    "NAMES": ["defesa", "Defesa"
+    ],
+    "DESCRIPTION": "Passiva: Ganhe 2 Bloqueio. Evocar: Ganhe 4 Bloqueio."
+  },
+  {
+    "NAMES": ["veneno", "Veneno"
+    ],
+    "DESCRIPTION": "Passiva: Aplique 1 veneno a um inimigo aleatório. Evocar: Aplique 1 veneno a todos inimigos."
+  },
+  {
+    "NAMES": ["testamento", "Testamento"
+    ],
+    "DESCRIPTION": "Passiva: Cause 2 de dano a si mesma. Evocar: Ganhe 1 Energia."
+  },
+  {
+    "NAMES": ["zwei", "Zwei"
+    ],
+    "DESCRIPTION": "Passiva: Nada. Evocar: Cause 8 dano a um inimigo aleatório."
+  },
+  {
+    "NAMES": ["esquiva", "Esquiva"
+    ],
+    "DESCRIPTION": "Evita todo dano do próximo ataque;."
+  },
+  {
+    "NAMES": ["relíquia", "Relíquia"
+    ],
+    "DESCRIPTION": "Compre 2 cartas quando um monstro morrer. Isso só ocorre uma vez."
+  },
+  {
+    "PROPER_NAME": "aumenta_com_destreza",
+    "NAMES": ["aumenta_com_destreza", "aumenta com destreza"
+    ],
+    "DESCRIPTION": "O Bloqueio desta carta é igual à sua destreza atual."
+  },
+  {
+    "PROPER_NAME": "aumenta_com_força",
+    "NAMES": ["aumenta_com_força", "aumenta com força"
+    ],
+    "DESCRIPTION": "O dano desta carta é igual à sua Força atual."
+  },
+  {
+  "PROPER_NAME": "detonar_completamente",
+  "NAMES": ["detonar_completamente", "detonar completamente"
+  ],
+  "DESCRIPTION": "Cause dano igual ao número de Veneno no alvo. Remove todo Veneno do alvo."
+  },
+
+
+
+  {
+    "NAMES": ["flecha",
+      "Flecha",
+      "flechas",
+      "Flechas"
+    ],
+    "DESCRIPTION": "Flechas são cartas de ataque de custo #b0 que Esgotam."
+  },
+  {
+    "NAMES": ["atrair",
+      "Atrair"
+    ],
+    "DESCRIPTION": "A criatura não faz nada na sua próxima ação."
+  },
+  {
+    "NAMES": ["traçar",
+      "Traçar"
+    ],
+    "DESCRIPTION": "Adicione uma carta à sua mão com 1 de custo a menos."
+  },
+
+
+
+
+  {
+    "PROPER_NAME": "minor absorb",
+    "NAMES": ["absorver menor", "absorver_menor"
+    ],
+    "DESCRIPTION": "Ganhe Bloqueio igual a metade do veneno em todos inimigos."
+  },
+  {
+    "NAMES": ["absorver", "Absorver"
+    ],
+    "DESCRIPTION": "Ganhe Bloqueio igual ao veneno em todos inimigos."
+  },
+  {
+    "PROPER_NAME": "uber absorb",
+    "NAMES": ["absorver maior", "absorver_maior"
+    ],
+    "DESCRIPTION": "Ganhe Bloqueio igual ao dobro do veneno em todos inimigos."
+  },
+
+
+
+
+  {
+    "PROPER_NAME": "block absorb",
+    "NAMES": ["absorção de bloqueio","absorção_de_bloqueio"
+    ],
+    "DESCRIPTION": "Drene o Bloqueio de todos inimigos e adicione ao seu."
+  },
+
+  {
+    "PROPER_NAME": "block explosion",
+    "NAMES": ["explosão_de_bloqueio","explosão de bloqueio"
+    ],
+    "DESCRIPTION": "Cause dano igual Bloqueio de cada inimigo no próprio."
+  },
+
+  {
+    "PROPER_NAME": "growth orb",
+    "NAMES": ["orbe_do_crescimento","orbe do crescimento"
+    ],
+    "DESCRIPTION": "Passiva: Cause 4 Dano a um inimigo aleatório. Evocar: Ganhe 1 Força."
+  },
+
+  {
+    "PROPER_NAME": "shield orb",
+    "NAMES": ["orbe_escudo","orbe escudo"
+    ],
+    "DESCRIPTION": "Passiva: Ganhe 4 Bloqueio. Evocar: Ganhe 1 Destreza."
+  },
+
+  {
+    "PROPER_NAME": "heal orb",
+    "NAMES": ["orbe_da_cura","orbe da cura"
+    ],
+    "DESCRIPTION": "Passiva: Cure em 5 a vida de um inimigo aleatório. Evocar: Cure em 3 sua vida."
+  },
+
+  {
+    "PROPER_NAME": "random orb",
+    "NAMES": ["orbe_aleatório","orbe aleatório"
+    ],
+    "DESCRIPTION": "Passiva: Causa um efeito aleatório. Evocar: Causa 3 efeitos aleatórios."
+  },
+
+  {
+    "PROPER_NAME": "vulnerable orb",
+    "NAMES": ["orbe_da_vulnerabilidade","orbe da vulnerabilidade"
+    ],
+    "DESCRIPTION": "Passiva: Cause 1 Vulnerável em um inimigo aleatório. Evocar: Cause 1 Vulnerável em todos inimigos."
+  },
+
+  {
+    "PROPER_NAME": "weak orb",
+    "NAMES": ["orbe_da_fraqueza","orbe da fraqueza"
+    ],
+    "DESCRIPTION": "Passiva: Aplique 1 Fraqueza a um inimigo aleatório. Evocar: Aplique 1 Fraqueza em todos inimigos."
+  }
+]

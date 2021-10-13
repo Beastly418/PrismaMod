@@ -1,0 +1,51 @@
+{
+  "PrismaMod:AliceRelic": {
+    "NAME": "Alice's Bear",
+    "FLAVOR": "Shirou?",
+    "DESCRIPTIONS": [
+      "When a monster dies draw 2 cards"
+      ]
+  },
+  "PrismaMod:PrismaRuby": {
+    "NAME": "Ruby",
+    "FLAVOR": "A Kaleidostick that does some questionable things.",
+    "DESCRIPTIONS": [
+      "Channel 1 random orb at the start of each combat."
+    ]
+  },
+  "PrismaMod:PrismaZwei": {
+    "NAME": "Zwei Stick",
+    "FLAVOR": "A combined Kaleidostick capable of unimaginable power.",
+    "DESCRIPTIONS": [
+      "Channel 1 random orb at the start of each turn."
+    ]
+  },
+  "PrismaMod:PrismaTraceOn": {
+    "NAME": "Kanshou and Bakuya",
+    "FLAVOR": "Trace on",
+    "DESCRIPTIONS": [
+      "Every 25 cards played generate a trace card."
+    ]
+  },
+  "PrismaMod:PrismaTraceOnUpgrade": {
+    "NAME": "Kanshou and Bakuya+",
+    "FLAVOR": "Trace on+",
+    "DESCRIPTIONS": [
+      "Every 20 cards played generate an upgraded trace card."
+    ]
+  },
+  "PrismaMod:PrismaSapphire": {
+    "NAME": "Sapphire",
+    "FLAVOR": "A Kaleidostick that can magically help you to dance.",
+    "DESCRIPTIONS": [
+      "Channel 1 orb at the start of each combat."
+    ]
+  },
+  "PrismaMod:PrismaSapphireUpgrade": {
+    "NAME": "Sapphire+",
+    "FLAVOR": "A Kaleidostick that increases your combat effectiveness.",
+    "DESCRIPTIONS": [
+      "Channel 1 orb and gain 2 strength at the start of each combat."
+    ]
+  }
+}

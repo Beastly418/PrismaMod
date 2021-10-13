@@ -1,0 +1,854 @@
+{
+  "PrismaMod:IllyaCarnivalPrismaAstolfo": {
+    "NAME": "プリズマ☆アストルフォ",
+    "DESCRIPTION": "  廃棄  。 次のいずれかをランダムに獲得: 回復 !M!, 筋力 !M!, 敏捷性 !M!, 最大体力 !M! , 20 ゴールド",
+    "UPGRADE_DESCRIPTION": "  廃棄  。 次のいずれかをランダムに獲得: 回復 !M!,  筋力 !M!,  敏捷性 !M!,  最大体力 !M! , 30 ゴールド"
+  },
+
+  "PrismaMod:IllyaBerserCAR": {
+    "NAME": "バーサーCAR",
+    "DESCRIPTION": "!D! のダメージを与える。次のターン [E] を得る"
+  },
+
+  "PrismaMod:IllyaCarnivalAttack": {
+    "NAME": "アタック・カーニバル",
+    "DESCRIPTION": "!D! のダメージを与える。 !M! prismamod:攻撃オーブ を生成する。"
+  },
+
+  "PrismaMod:IllyaCarnivalDefend": {
+    "NAME": "シールド・カーニバル",
+    "DESCRIPTION": "!B! の ブロック を得る。 !M! prismamod:防御オーブ を生成する。"
+  },
+
+  "PrismaMod:IllyaUncommonAOEAttack": {
+    "NAME": "ブレンシュナイデン",
+    "DESCRIPTION": "敵全体に !D! のダメージと 脱力 !M! を与える。"
+  },
+
+  "PrismaMod:IllyaAssassinRevenge": {
+    "NAME": "アサシンの報復",
+    "DESCRIPTION": "このターン攻撃された時１ prismamod:毒オーブ を生成し、 !M! 毒 を与える"
+  },
+
+  "PrismaMod:IllyaCarnivalOrbs": {
+    "NAME": "オーブ・カーニバル",
+    "DESCRIPTION": "全てのオーブを１得る。 prismamod:攻撃オーブ , prismamod:防御オーブ , prismamod:毒オーブ , prismamod:ツヴァイオーブ , prismamod:テスタメントオーブ , prismamod:アサシンオーブ "
+  },
+
+  "PrismaMod:IllyaCommonEvoke": {
+    "NAME": "解放",
+    "DESCRIPTION": "先頭のオーブを解放する。",
+    "UPGRADE_DESCRIPTION": "先頭のオーブを２回解放する。"
+  },
+
+  "PrismaMod:IllyaDualEvoke": {
+    "NAME": "二重解放",
+    "DESCRIPTION": " 先頭から!M!つのオーブを2回解放する。"
+  },
+
+  "PrismaMod:IllyaEvokeAll": {
+    "NAME": "全解放",
+    "DESCRIPTION": "全てのオーブを解放する。"
+  },
+
+  "PrismaMod:IllyaHassanGift": {
+    "NAME": "アサシンの贈り物",
+    "DESCRIPTION": " !M! prismamod:毒オーブ を生成する。"
+  },
+
+  "PrismaMod:IllyaMultiEvoke": {
+    "NAME": "多重解放",
+    "DESCRIPTION": "先頭からオーブをX回解放する。",
+    "UPGRADE_DESCRIPTION" : "先頭からオーブをX回解放する。解放したオーブは消滅しない。"
+  },
+
+  "PrismaMod:IllyaRapidFire": {
+    "NAME": "シュネレスフォイア",
+    "DESCRIPTION": " prismamod:無限の魔力 。 !D! ダメージを !M! 回与える。回数はオーブスロットの数に依存。"
+  },
+
+  "PrismaMod:IllyaReinForce": {
+    "NAME": "レインフォース",
+    "DESCRIPTION": " prismamod:自然の嬰児 。!B!の ブロック を!M!回得る。回数はオーブスロットに依存。"
+  },
+
+  "PrismaMod:IllyaSaphire": {
+    "NAME": "サファイア",
+    "DESCRIPTION": " 廃棄 。 オーブスロットを !M! つ増やす。カードを  !PrismaMod:SecondMagic!  枚引く。"
+  },
+
+  "PrismaMod:IllyaUberChannel": {
+    "NAME": "無限の魔力供給",
+    "DESCRIPTION": "全てのオーブを解放する。全てのスロットにオーブをランダムに生成する。"
+  },
+
+  "PrismaMod:IllyaUncommonEvoke": {
+    "NAME": "急速解放",
+    "DESCRIPTION": "先頭のオーブを解放する。解放したオーブと同じオーブを得る。"
+  },
+
+  "PrismaMod:IllyaUpgradeOrbs": {
+    "NAME": "オーブ強化",
+    "DESCRIPTION": "このターン、オーブの消費と効果が2倍になる。"
+  },
+
+  "PrismaMod:IllyaBlindPoisonToss": {
+    "NAME": "猛毒の雨",
+    "DESCRIPTION": "ランダムな敵に !PrismaMod:SecondMagic! 毒 を !M! 回与える。"
+  },
+
+  "PrismaMod:IllyaFeed": {
+    "NAME": "苦悩の還元",
+    "DESCRIPTION": " 廃棄 。 !D! のダメージを与える。対象の 毒 の分だけHPを回復する（最大１５まで） "
+  },
+
+  "PrismaMod:IllyaFriendMaker": {
+    "NAME": "おともだち",
+    "DESCRIPTION": " !D! のダメージを与える。 !M! の 毒 を与える。"
+  },
+
+  "PrismaMod:IllyaPoisonBomb": {
+    "NAME": "ポイズン・ボム",
+    "DESCRIPTION": "敵全体に !M! の 毒 を与える。"
+  },
+
+  "PrismaMod:IllyaPoisoningPhantasm": {
+    "NAME": "ポイズン・ファンタズム",
+    "DESCRIPTION": "prismamod:毒の拡散 。 敵全体に 毒 を与える。"
+  },
+
+  "PrismaMod:IllyaPoisonTippedWeapons": {
+    "NAME": "毒の活用法",
+    "DESCRIPTION": "このターン「アタック」をプレイするたび !M! の 毒 を与える。",
+    "UPGRADE_DESCRIPTION": " 保留 。このターン「アタック」をプレイするたび !M! の 毒 を与える。"
+  },
+
+  "PrismaMod:IllyaRussianRoulette": {
+    "NAME": "ロシアンルーレット",
+    "DESCRIPTION": "自分を含めランダムな対象に !M! の 毒 を与える"
+  },
+
+  "PrismaMod:IllyaStunPoison": {
+    "NAME": "毒の挟撃",
+    "DESCRIPTION": " !D! のダメージを与える。対象が 毒 だった場合 !D! の追加ダメージ。"
+  },
+
+  "PrismaMod:IllyaCommonAttack": {
+    "NAME": "フォイア",
+    "DESCRIPTION": " !D! のダメージを与える。"
+  },
+
+  "PrismaMod:IllyaBoysLove": {
+    "NAME": "ボーイズ・ラブ",
+    "DESCRIPTION": "敵全体に !M! の 毒 を与える。"
+  },
+
+  "PrismaMod:IllyaDetonatingBlow": {
+    "NAME": "残焔",
+    "DESCRIPTION": "敵のブロックを !D! 無視してダメージを与える。対象の 毒 を prismamod:毒の拡散 させる。"
+  },
+
+  "PrismaMod:IllyaCommonDefend": {
+    "NAME": "シールド",
+    "DESCRIPTION": "ブロック !B! を得る。"
+  },
+
+  "PrismaMod:IllyaUncommonAttack": {
+    "NAME": "多元重奏飽和砲撃",
+    "DESCRIPTION": " !D! のダメージを与える。 弱体 !M! を与える。"
+  },
+
+  "PrismaMod:IllyaUncommonDefend": {
+    "NAME": "多元重奏飽和障壁",
+    "DESCRIPTION": " !B! ブロック を得る。 !M! プレートアーマー を得る。"
+  },
+
+  "PrismaMod:IllyaBride": {
+    "NAME": "花嫁のブーケ",
+    "DESCRIPTION": " 廃棄 。カードを !M! 枚引く",
+    "UPGRADE_DESCRIPTION": " 天賦 。 廃棄 。 保留 。 カードを !M! 枚引く"
+  },
+
+  "PrismaMod:IllyaDevil": {
+    "NAME": "小悪魔の贈り物",
+    "DESCRIPTION": " !D! のダメージを与える。カードを !M! 枚引く。"
+  },
+
+  "PrismaMod:IllyaGun": {
+    "NAME": "最高の愛銃",
+    "DESCRIPTION": " !D! のダメージを与える。"
+  },
+
+  "PrismaMod:IllyaMaid": {
+    "NAME": "冥土の土産",
+    "DESCRIPTION": "このターン受けるダメージが二倍になる。次のターン [E] [E] [E] を得る。"
+  },
+
+  "PrismaMod:IllyaZwei": {
+    "NAME": "ツヴァイフォーム",
+    "DESCRIPTION": "全てのオーブを 解放 する。オーブスロット分 prismamod:ツヴァイオーブ を 解放 する。 筋力 !M! ,  13 [E]  を得る。カードを !PrismaMod:SecondMagic! 枚引く  ,  prismamod:収縮 。次のターンから99 筋力 を失い、 99 弱体 を得て、 [E]  を全て失う。"
+  },
+
+  "PrismaMod:IllyaAlice": {
+    "NAME": "アリスフォーム",
+    "DESCRIPTION": "廃棄 。  !M! 弱体を得る。 prismamod:レリック を得るか !PrismaMod:SecondMagic! 回復する。",
+    "UPGRADE_DESCRIPTION": "廃棄 。  !M! 弱体を得る。 prismamod:レリック を得るか !PrismaMod:SecondMagic! 回復する。"
+  },
+
+  "PrismaMod:IllyaTestament": {
+    "NAME": "テスタメント",
+    "DESCRIPTION": "全てのオーブを 解放 する。すべてのスロットに prismamod:テスタメントオーブ を生成する。"
+  },
+
+  "PrismaMod:IllyaCommandSeal": {
+    "NAME": "令呪",
+    "DESCRIPTION": "廃棄。 !M! 回復する。 無形 !PrismaMod:SecondMagic! を得る。"
+  },
+
+  "PrismaMod:IllyaRubysPotion": {
+    "NAME": "あやしい薬",
+    "DESCRIPTION": " 廃棄 。 !M! 体力を回復する。"
+  },
+
+  "PrismaMod:IllyaAOECommonAttack": {
+    "NAME": "シュナイデン",
+    "DESCRIPTION": "敵全体に !D! のダメージを与える。"
+  },
+
+  "PrismaMod:IllyaGrail": {
+    "NAME": "聖杯",
+    "DESCRIPTION": "廃棄 。 !M! 枚カードを引く。 [E] [E] を得る。"
+  },
+
+  "PrismaMod:IllyaGrailKun": {
+    "NAME": "聖杯くん",
+    "DESCRIPTION": "山札から「アタック」と「スキル」を1枚選び、手札に加える。"
+  },
+
+  "PrismaMod:IllyaPartialInstallAssassin": {
+    "NAME": "限定展開・アサシン",
+    "DESCRIPTION": " 廃棄 。このターン「アタック」をプレイするたび敵全体に !D! のダメージを与える。"
+  },
+
+
+
+
+
+
+  "PrismaMod:IllyaMinorZwei": {
+    "NAME": "アインスフォーム",
+    "DESCRIPTION": " !B! ブロックを得る。火傷を !M! 枚手札に加える。"
+  },
+
+  "PrismaMod:IllyaCheapDefend": {
+    "NAME": "全て近き理想郷",
+    "DESCRIPTION": " !B! ブロックを得る。"
+  },
+
+  "PrismaMod:IllyaCheapAttack": {
+    "NAME": "エクスカリパー",
+    "DESCRIPTION": " !D! ダメージを与える。 !M! 脱力 を与える。"
+  },
+
+  "PrismaMod:IllyaChanneledBlock": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": " "
+  },
+
+  "PrismaMod:IllyaChanneledAttack": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": ""
+  },
+
+  "PrismaMod:IllyaCheapChannelAttack": {
+    "NAME": "装填:攻撃",
+    "DESCRIPTION": " !M! prismamod:攻撃オーブ を生成する。"
+  },
+
+  "PrismaMod:IllyaCheapChannelDefend": {
+    "NAME": "装填:防御",
+    "DESCRIPTION": " !M! prismamod:防御オーブ を生成する。"
+  },
+
+  "PrismaMod:IllyaCheapChannelPoison": {
+    "NAME": "装填:毒",
+    "DESCRIPTION": " !M! prismamod:毒オーブ を生成する。"
+  },
+
+  "PrismaMod:IllyaMinorRapidFire": {
+    "NAME": "クライン・フォイエ",
+    "DESCRIPTION": " !D! ダメージを。カードを !M! 枚引く。"
+  },
+
+  "PrismaMod:IllyaMinorReinForce": {
+    "NAME": "クライン・レインフォース",
+    "DESCRIPTION": " !B! ブロックを。カードを !M! 枚引く。"
+  },
+
+  "PrismaMod:IllyaUberAttackChannel": {
+    "NAME": "魔力暴走:攻撃",
+    "DESCRIPTION": "全てのスロットに prismamod:攻撃オーブ を生成する。"
+  },
+
+  "PrismaMod:IllyaUberDefendChannel": {
+    "NAME": "魔力暴走:防御",
+    "DESCRIPTION": "全てのスロットに prismamod:防御オーブ を生成する。"
+  },
+
+  "PrismaMod:IllyaUberPoisonChannel": {
+    "NAME": " 魔力暴走:毒 ",
+    "DESCRIPTION": "全てのスロットに prismamod:毒オーブ を生成する。"
+  },
+
+  "PrismaMod:IllyaUberPoisonBlock": {
+    "NAME": "ドレイン",
+    "DESCRIPTION": " 廃棄 。 prismamod:白い巨人 。 !M! ブロックを得る。",
+    "UPGRADE_DESCRIPTION":  " 廃棄 。 prismamod:捕食遊星 。  !M! ブロックを得る。"
+  },
+
+  "PrismaMod:IllyaPoisonBlock": {
+    "NAME": "エナジードレイン",
+    "DESCRIPTION":" 廃棄 。 prismamod:魔力吸収 。 !M! ブロックを得る。",
+    "UPGRADE_DESCRIPTION":" 廃棄 。 prismamod:白い巨人 。 !M! ブロックを得る。"
+  },
+
+
+
+
+  "PrismaMod:IllyaInstallArcher": {
+    "NAME": "夢幻召喚・アーチャー",
+    "DESCRIPTION": " prismamod:インストール : 毎ターン 筋力 1を得る。3枚のランダムなカードから1枚選び、手札に加える。このターン、そのコストは0。"
+  },
+
+  "PrismaMod:IllyaInstallAssassin": {
+    "NAME": "夢幻召喚・アサシン",
+    "DESCRIPTION": " prismamod:インストール : 毎ターン prismamod:回避 を得る。「アタック」をプレイするたび !M! の 毒 を与える。 与えるダメージは !M! % になり、 受けるダメージは !PrismaMod:SecondMagic! % 増える。 ボスに攻撃する場合 1 prismamod:アサシンオーブ を解放し、ブロック を3無視してダメージを与え 1 毒 を与える。"
+  },
+
+  "PrismaMod:IllyaInstallBerserker": {
+    "NAME": "夢幻召喚・バーサーカー",
+    "DESCRIPTION": " prismamod:インストール : 与えるダメージと受けるダメージが2倍になる"
+  },
+
+  "PrismaMod:IllyaInstallCaster": {
+    "NAME": "夢幻召喚・キャスター",
+    "DESCRIPTION": " prismamod:インストール : オーブスロットを１つ増やす。 ターン開始時先頭のオーブを解放する。ランダムなオーブを生成する。 活性化 を得る。"
+  },
+
+  "PrismaMod:IllyaInstallLancer": {
+    "NAME": "夢幻召喚・ランサー",
+    "DESCRIPTION": " prismamod:インストール : 「アタック」をプレイするたび 1  弱体 、 脆弱化 脱力 を与える。 "
+  },
+
+  "PrismaMod:IllyaInstallRider": {
+    "NAME": "夢幻召喚・ライダー",
+    "DESCRIPTION": " prismamod:インストール : 毎ターン !M! 敏捷性 を得る。ボス以外の敵に攻撃する場合 !PrismaMod:SecondMagic! ブロック を無視してダメージを与える。"
+  },
+
+  "PrismaMod:IllyaInstallSaber": {
+    "NAME": "夢幻召喚・セイバー",
+    "DESCRIPTION": " prismamod:インストール : !PrismaMod:SecondMagic! 回復する。 ターン開始時 1 筋力 を得る。 ボスに攻撃する場合 !M! ブロックを無視してダメージを与える。ターン毎最初の攻撃は 50% の追加ダメージを与える。"
+  },
+
+  "PrismaMod:IllyaInstallForeigner": {
+    "NAME": "夢幻召喚・フォーリナー",
+    "DESCRIPTION": " prismamod:インストール : オーブの解放効果を２倍にする。解放したオーブで与えたダメージ分の 毒 を与える。"
+  },
+
+  "PrismaMod:IllyaInstallAvenger": {
+    "NAME": "夢幻召喚・アヴェンジャー",
+    "DESCRIPTION": " prismamod:インストール : ボス以外から受けるダメージを2 !M! %減らす。 毎ターン敵全体に !M! のダメージを与える。"
+  },
+
+  "PrismaMod:IllyaInstallAlterEgo": {
+    "NAME": "夢幻召喚・アルターエゴ",
+    "DESCRIPTION": " prismamod:インストール : オーブスロットを 1 つ増やす。毎ターン先頭のオーブを解放する。全ての「スキル」のコストが 1 [E] 減少する。"
+  },
+
+  "PrismaMod:IllyaInstallMoonCancer": {
+    "NAME": "夢幻召喚・ムーンキャンサー",
+    "DESCRIPTION": " prismamod:インストール : 毎ターンランダムな無色のカードを1枚手札に加える。 オーブスロットを 1 つ増やす。オーブの自動効果を２倍にする。 "
+  },
+
+  "PrismaMod:IllyaInstallRuler": {
+    "NAME": "夢幻召喚・ルーラー",
+    "DESCRIPTION": " prismamod:インストール : 毎ターン 1 筋力 と 1 敏捷性 を得る。"
+  },
+
+  "PrismaMod:IllyaInstallShielder": {
+    "NAME": "夢幻召喚・シールダー",
+    "DESCRIPTION": " prismamod:インストール : !PrismaMod:SecondMagic! 回復する。 ターン開始時 !M! ブロック を得る。 "
+  },
+
+
+
+  "PrismaMod:ChloeExhaustOne": {
+    "NAME": "創造理念、鑑定",
+    "DESCRIPTION": "山札からカードを１枚 廃棄 。廃棄した枚数分 !M! 枚 prismamod:アロー を得る。"
+  },
+
+  "PrismaMod:ChloeExhaustTwo": {
+    "NAME": "基本骨子、想定",
+    "DESCRIPTION": "山札からカードを２枚 廃棄 。廃棄した枚数分 !M! 枚 prismamod:アロー を得る。"
+  },
+
+  "PrismaMod:ChloeExhaustThree": {
+    "NAME": "制作技術、模倣",
+    "DESCRIPTION": "山札からカードを３枚 廃棄 。廃棄した枚数分 !M! 枚 prismamod:アロー を得る。"
+  },
+
+  "PrismaMod:ChloeChristmas": {
+    "NAME": "クリスマスプレゼント",
+    "DESCRIPTION": "カードを !M! 枚引く。"
+  },
+
+  "PrismaMod:ChloeDemonicTutor": {
+    "NAME": "小悪魔的思考",
+    "DESCRIPTION": "山札からカードを !M! 枚選び、手札に加える。",
+    "UPGRADE_DESCRIPTION": "山札からカードを !M! 枚選び、手札に加える。"
+  },
+
+  "PrismaMod:ChloeDevil": {
+    "NAME": "小悪魔の誘惑",
+    "DESCRIPTION": " 廃棄 。  !D! ダメージを与える。 !M! 回復する。"
+  },
+
+  "PrismaMod:ChloeDiscardRecovery": {
+    "NAME": "凍結、解除",
+    "DESCRIPTION": "捨て札からカードを !M! 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "捨て札からカードを !M! 枚手札に加える。"
+  },
+
+  "PrismaMod:ChloeHalloween": {
+    "NAME": "トリック・オア・トリート",
+    "DESCRIPTION": "アンコモンカードを１枚選び０コストで手札に加える。",
+    "UPGRADE_DESCRIPTION": "ランダムな呪い、またはランダムなカードを !M! 枚手札に加える。"
+  },
+
+  "PrismaMod:ChloeMaid": {
+    "NAME": "冥土の土産",
+    "DESCRIPTION": "このターン受けるダメージが二倍になる。次のターン [E] [E] [E] を得る。"
+  },
+
+  "PrismaMod:ChloeMordred": {
+    "NAME": "夢幻召喚・モードレット",
+    "DESCRIPTION": " 廃棄 。 筋力 !M! を得る。"
+  },
+
+  "PrismaMod:ChloeReshuffleDiscard": {
+    "NAME": "構成材質、複製",
+    "DESCRIPTION": "捨て札を山札に加える。カードを !M! 枚引く。"
+  },
+
+  "PrismaMod:ChloeRitsuka": {
+    "NAME": "緋色の契約者",
+    "DESCRIPTION": " 廃棄 。 !M! 敏捷性 を得る"
+  },
+
+  "PrismaMod:ChloeUnlimitedBladeWorks": {
+    "NAME": "無限の剣製",
+    "DESCRIPTION": "これまでにトレースしたカードを3枚まで選択し、0コストで手札に加える。",
+    "UPGRADE_DESCRIPTION": "これまでにトレースしたカードを3枚まで選択し、 upgraded し、0コストで手札に加える。"
+  },
+
+  "PrismaMod:ChloeCarnivalAOEAttack": {
+    "NAME": "全投影連続層写",
+    "DESCRIPTION": "敵全体に !D! のダメージを与える。敵１体につき手札を１枚 廃棄 。廃棄したカード１枚につき prismamod:アロー を得る。"
+  },
+
+  "PrismaMod:ChloeCarnivalAttack": {
+    "NAME": "鶴翼三連",
+    "DESCRIPTION": " !D! ダメージを与える。 !M! 筋力 を得る。"
+  },
+
+  "PrismaMod:ChloeCarnivalDefend": {
+    "NAME": "熾天覆う七つの円環",
+    "DESCRIPTION": " !B! ブロック を得る。  !M! 敏捷性 を得る。"
+  },
+
+  "PrismaMod:ChloeCheapAttack": {
+    "NAME": "赤原猟犬・弱体",
+    "DESCRIPTION": " !D! ダメージを与える。 !M! 弱体 を与える。"
+  },
+
+  "PrismaMod:ChloeCheapAttackTwo": {
+    "NAME": "赤原猟犬・脱力",
+    "DESCRIPTION": " !D! ダメージを与える。 !M! 脱力 を与える。"
+  },
+
+  "PrismaMod:ChloeCheapDefend": {
+    "NAME": "自己強化",
+    "DESCRIPTION": " !B! ブロックを得る。",
+    "UPGRADE_DESCRIPTION": " !B! ブロックを得る。  カードを１枚 廃棄 し、2 prismamod:アロー を得る。"
+  },
+
+  "PrismaMod:ChloeCheapDefendTwo": {
+    "NAME": "即興の防壁",
+    "DESCRIPTION": " !B! ブロック を得る。"
+  },
+
+  "PrismaMod:ChloeCommonAOEAttack": {
+    "NAME": "ワイドスラッシュ",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。"
+  },
+
+  "PrismaMod:ChloeCommonAttack": {
+    "NAME": "スラッシュ",
+    "DESCRIPTION": " !D! ダメージを与える。"
+  },
+
+  "PrismaMod:ChloeCommonDefend": {
+    "NAME": "シールド",
+    "DESCRIPTION": " !B! ブロック を得る。"
+  },
+
+  "PrismaMod:ChloeShiv": {
+    "NAME": "アロー",
+    "DESCRIPTION": " 廃棄 。  !D! ダメージを与える。"
+  },
+
+  "PrismaMod:ChloeUncommonAOEAttack": {
+    "NAME": "ワイドスイープ",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。"
+  },
+
+  "PrismaMod:ChloeUncommonAttack": {
+    "NAME": "スピア",
+    "DESCRIPTION": " !D! ダメージを与える。 !M! 弱体 を与える。"
+  },
+
+  "PrismaMod:ChloeUncommonDefend": {
+    "NAME": "吟雪の氷壁",
+    "DESCRIPTION": " !B! ブロックを得る。"
+  },
+
+  "PrismaMod:ChloeBetterTracePools": {
+    "NAME": "投影、装填",
+    "DESCRIPTION": "トレースを発動した場合、コモンカードが出現しなくなる。"
+  },
+
+  "PrismaMod:ChloeDoubleRelicSpeed": {
+    "NAME": "全工程、凌駕",
+    "DESCRIPTION": "干将・莫耶のカウントを２倍にする。"
+  },
+
+  "PrismaMod:ChloeGreatTracePools": {
+    "NAME": "全工程投影完了",
+    "DESCRIPTION": "トレースを発動した場合、コモン・アンコモンカードが出現しなくなる。"
+  },
+
+  "PrismaMod:ChloeCaladbolg": {
+    "NAME": "偽・螺旋剣",
+    "DESCRIPTION": "敵全体に !D! ダメージを !M! 回与える。"
+  },
+
+  "PrismaMod:ChloeExcalibur": {
+    "NAME": "約束された勝利の剣",
+    "DESCRIPTION": " !D! ダメージを与える。ボスには２倍のダメージ。"
+  },
+
+  "PrismaMod:ChloeEyeOfTheEuryale": {
+    "NAME": "女神の視線",
+    "DESCRIPTION": " !D! ダメージを与える。  1 prismamod:魅了 を与える。。"
+  },
+
+  "PrismaMod:ChloeGaeBolg": {
+    "NAME": "刺し穿つ死棘の槍",
+    "DESCRIPTION": " !D! ダメージを与える。  !M! 弱体 、 脆弱化 、 脱力 を与える。"
+  },
+
+  "PrismaMod:ChloePhantasmPunishment": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+
+  "PrismaMod:ChloeRhongomyniad": {
+    "NAME": "最果てにて輝ける槍",
+    "DESCRIPTION": " !D! ダメージを与える。 ブロック を全て取り除く。"
+  },
+
+  "PrismaMod:ChloeRuleBreaker": {
+    "NAME": "破戒すべき全ての符",
+    "DESCRIPTION": " !D! ダメージを与える。強化を全て取り除く"
+  },
+
+  "PrismaMod:ChloeCreateableTraceCard": {
+    "NAME": "投影、開始",
+    "DESCRIPTION": " 廃棄 。 選ばれたカードの中から 1 枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "upgraded",
+    "EXTENDED_DESCRIPTION": [" 廃棄 。  "," 全てのカードから ","でレア度が"," で種類が","なカードを手札に加える。"  ]
+  },
+
+  "PrismaMod:ChloeAnyAttackTrace": {
+    "NAME": "アタック・トレース",
+    "DESCRIPTION": "「アタック」を１枚選び prismamod:トレース "
+  },
+
+  "PrismaMod:ChloeAnyCommonTrace": {
+    "NAME": "コモン・トレース",
+    "DESCRIPTION": "コモンカードを１枚選び prismamod:トレース "
+  },
+
+  "PrismaMod:ChloeAnyPowerTrace": {
+    "NAME": "パワー・トレース",
+    "DESCRIPTION": "「パワー」を１枚選び prismamod:トレース "
+  },
+
+  "PrismaMod:ChloeAnyRareTrace": {
+    "NAME": "レア・トレース",
+    "DESCRIPTION": "レアカードを１枚選び prismamod:トレース "
+  },
+
+  "PrismaMod:ChloeAnySkillTrace": {
+    "NAME": "スキル・トレース",
+    "DESCRIPTION": " 「スキル」を１枚選び prismamod:トレース "
+  },
+
+  "PrismaMod:ChloeAnyUncommonTrace": {
+    "NAME": "アンコモン・トレース",
+    "DESCRIPTION": "アンコモンカードを１枚選び prismamod:トレース "
+  },
+
+
+
+
+
+  "PrismaMod:MiyuBride": {
+    "NAME": "ウェデング・ギフト",
+    "DESCRIPTION": " 廃棄 。 カードを !M! 枚引く",
+    "UPGRADE_DESCRIPTION": " 保留 。 天賦。  廃棄 。 カードを !M! 枚引く"
+  },
+  "PrismaMod:MiyuChristmas": {
+    "NAME": "夢幻召喚・サンタ",
+    "DESCRIPTION": "捨て札を !M! 毎選び山札の一番上に置く。",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuDevil": {
+    "NAME": "夢幻召喚・デビル",
+    "DESCRIPTION": " !D! ダメージを与える。カードを !M! 枚引く。",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuMaid": {
+    "NAME": "夢幻召喚・メイド",
+    "DESCRIPTION": "このターン受けるダメージが二倍になる。次のターン [E] [E] [E] を得る。"
+  },
+  "PrismaMod:MiyuCarnivalAOEAttack": {
+    "NAME": "カーニバル・スイープ",
+    "DESCRIPTION": "敵全体に !D! ダメージを !M! 回与える。"
+  },
+  "PrismaMod:MiyuCarnivalAttack": {
+    "NAME": "カーニバル・スタブ",
+    "DESCRIPTION": " !D! ダメージを3回与える。"
+  },
+  "PrismaMod:MiyuCarnivalDefend": {
+    "NAME": "カーニバル・シールド",
+    "DESCRIPTION": " !B! ブロックを得る。  !M! 敏捷性 を得る。"
+  },
+  "PrismaMod:MiyuCheapAttack1": {
+    "NAME": "限定展開・ランサー",
+    "DESCRIPTION": " !D! ダメージを与える。  !M! 弱体 を与える。"
+  },
+  "PrismaMod:MiyuCheapAttack2": {
+    "NAME": "限定展開・アーチャー",
+    "DESCRIPTION": " !D! ダメージを与える。  !M! 脱力 を与える。"
+  },
+  "PrismaMod:MiyuCheapDefend1": {
+    "NAME": "ルベルソ・シールド",
+    "DESCRIPTION": " 廃棄 。  !B! ブロックを得る。 [E]  !M! を得る。"
+  },
+  "PrismaMod:MiyuCheapDefend2": {
+    "NAME": "ルーベン・シールド",
+    "DESCRIPTION": " 廃棄 。  !B! ブロックを得る。  !M! プレートアーマー を得る。"
+  },
+  "PrismaMod:MiyuCheapDexBuff": {
+    "NAME": "マジック・ステップ",
+    "DESCRIPTION": " !M! 敏捷性 を得る。"
+  },
+  "PrismaMod:MiyuCheapPlate": {
+    "NAME": "限定展開・シールダー",
+    "DESCRIPTION": " !M! トゲ を得る。"
+  },
+  "PrismaMod:MiyuCheapStrBuff": {
+    "NAME": "限定展開・バーサーカーr",
+    "DESCRIPTION": " !M! 筋力 を得る。"
+  },
+  "PrismaMod:MiyuCommonAOEAttack": {
+    "NAME": "ワイドスラッシュ",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。"
+  },
+  "PrismaMod:MiyuCommonAttack": {
+    "NAME": "碧玉の剣",
+    "DESCRIPTION": " !D! ダメージを与える。"
+  },
+  "PrismaMod:MiyuCommonDefend": {
+    "NAME": "シールド",
+    "DESCRIPTION": " !B! ブロックを得る。"
+  },
+  "PrismaMod:MiyuDefenseAbsorbMinor": {
+    "NAME": "限定展開・アヴェンジャー",
+    "DESCRIPTION": " prismamod:復讐者 "
+  },
+  "PrismaMod:MiyuDefenseAbsorbUber": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuDefenseExplosion": {
+    "NAME": "ミスト・グロスブ",
+    "DESCRIPTION": " prismamod:雲散霧消 "
+  },
+  "PrismaMod:MiyuDefenseRemoval": {
+    "NAME": "メデューサ・アイ",
+    "DESCRIPTION": " 廃棄 。ブロックを全て取り除き、 prismamod:魅了 を与える。"
+  },
+  "PrismaMod:MiyuUberAOEAttack": {
+    "NAME": "エナジードレイン",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 ダメージを与えた敵の数× !M! 次のターン [E] を得る。"
+  },
+  "PrismaMod:MiyuUberAttack": {
+    "NAME": "限定展開・セイバー",
+    "DESCRIPTION": " !D! ダメージを与える。 カードを !M! 枚引く。"
+  },
+  "PrismaMod:MiyuUberDefend": {
+    "NAME": "グランドプロテクター",
+    "DESCRIPTION": " 廃棄 。  !M! prismamod:回避 を得る。 !B! ブロックを得る。"
+  },
+  "PrismaMod:MiyuUncommonAOEAttack": {
+    "NAME": "フィーゲン・フォイエ",
+    "DESCRIPTION": "全ての敵のブロックを全て取り除き、 !D! ダメージを与える。"
+  },
+  "PrismaMod:MiyuUncommonAttack": {
+    "NAME": "碧玉の槍",
+    "DESCRIPTION": " !D! ダメージを与える。この戦闘中このカードの効果を !M! 恒久的に上げる。"
+  },
+  "PrismaMod:MiyuUncommonDefend": {
+    "NAME": "碧玉の盾",
+    "DESCRIPTION": " !B! ブロックを得る。この戦闘中このカードの効果を !M! 恒久的に上げる。"
+  },
+  "PrismaMod:MiyuUncommonDexBuff": {
+    "NAME": "双の舞",
+    "DESCRIPTION": "  !M! 敏捷性、筋力 、 集中力 を得る。"
+  },
+  "PrismaMod:MiyuUncommonPlate": {
+    "NAME": "エーデルフェルト家の加護",
+    "DESCRIPTION": " 廃棄。  !M! プレートアーマー を得る。"
+  },
+  "PrismaMod:MiyuUncommonStrBuff": {
+    "NAME": "オド",
+    "DESCRIPTION": " !M! 集中力 を得る。"
+  },
+  "PrismaMod:MiyuAttackChannelAttack": {
+    "NAME": "グロウスラッシュ",
+    "DESCRIPTION": " !D! ダメージを与える。  !M! prismamod:グロースオーブ を生成する。"
+  },
+  "PrismaMod:MiyuAttackChannelVul": {
+    "NAME": "ディープカット",
+    "DESCRIPTION": " !D! ダメージを与える。  !M! prismamod:フライルオーブ を生成する。"
+  },
+  "PrismaMod:MiyuAttackChannelWeak": {
+    "NAME": "的確な一刺し",
+    "DESCRIPTION": " !D! ダメージを与える。  !M! prismamod:パウズオーブ を生成する。"
+  },
+  "PrismaMod:MiyuChannelAttackEvoke": {
+    "NAME": "マジカルストライク",
+    "DESCRIPTION": "  !M! 集中力を得る。  !D! ダメージを !M! 回与える。 オーブスロットを１減らす。"
+  },
+  "PrismaMod:MiyuChannelDefendEvoke": {
+    "NAME": "鉄壁",
+    "DESCRIPTION": " !M! 集中力を得る。 !B! ブロックを !M! 回得る。 オーブスロットを１減らす。"
+  },
+  "PrismaMod:MiyuChannelHealEvoke": {
+    "NAME": "DEPRECATED Regenerative Stance",
+    "DESCRIPTION": "DEPRECATED Exhaust. Evoke. Heal !M!."
+  },
+  "PrismaMod:MiyuChannelRandomEvoke": {
+    "NAME": "DEPRECATED Guessing Game",
+    "DESCRIPTION": "DEPRECATED Exhaust. Evoke. Channel !M! prismamod:random_orb."
+  },
+  "PrismaMod:MiyuChannelVulEvoke": {
+    "NAME": "DEPRECATED Unfortunate Stance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! vulnerable."
+  },
+  "PrismaMod:MiyuChannelWeakEvoke": {
+    "NAME": "DEPRECATED Off Balance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! weak."
+  },
+  "PrismaMod:MiyuCheapChannelAttack": {
+    "NAME": "サファイアの特命",
+    "DESCRIPTION": " !M! prismamod:グロースオーブ を得る。"
+  },
+  "PrismaMod:MiyuCheapChannelDefend": {
+    "NAME": "サファイアの加護",
+    "DESCRIPTION": " !M! prismamod:シールドオーブ を得る。"
+  },
+  "PrismaMod:MiyuCheapChannelHeal": {
+    "NAME": "サファイアの修復",
+    "DESCRIPTION": " 廃棄 。 !M! prismamod:ヒールオーブ を得る。"
+  },
+  "PrismaMod:MiyuCheapChannelRandom": {
+    "NAME": "ガチャ！",
+    "DESCRIPTION": " !M! prismamod:ランダムオーブ を得る。"
+  },
+  "PrismaMod:MiyuCheapChannelVul": {
+    "NAME": "エーデルフェルト家の導き",
+    "DESCRIPTION": " !M! prismamod:フライルオーブ を得る。"
+  },
+  "PrismaMod:MiyuCheapChannelWeak": {
+    "NAME": "サファイアの策略",
+    "DESCRIPTION": " !M! prismamod:パウズオーブ を得る。"
+  },
+  "PrismaMod:MiyuCheapEvoke": {
+    "NAME": "リリース",
+    "DESCRIPTION": " 解放 。 捨て札からカードを一枚手札に戻す。",
+    "UPGRADE_DESCRIPTION": " 天武 。  解放 。 捨て札からカードを一枚手札に戻す。"
+  },
+  "PrismaMod:MiyuDefendChannelDefend": {
+    "NAME": "クリスタライズマジック",
+    "DESCRIPTION": " !B! ブロックを得る。  !M! prismamod:シールドオーブ を得る。"
+  },
+  "PrismaMod:MiyuEvokeAll": {
+    "NAME": "グランドリリース",
+    "DESCRIPTION": "全てのオーブを 開放 。オーブの数× !M! 枚カードを引く。"
+  },
+  "PrismaMod:MiyuEvokeAllAttack": {
+    "NAME": "リミットブレイカー",
+    "DESCRIPTION": "すべてのオーブを 解放 。  !D! ダメージを !M! 回与える。"
+  },
+  "PrismaMod:MiyuEvokeAllDefend": {
+    "NAME": "大切なもの",
+    "DESCRIPTION": "すべてのオーブを 解放 。 !B! ブロックを !M! 回得る。"
+  },
+  "PrismaMod:MiyuEvokeBuffDex": {
+    "NAME": "ライダーの贈り物",
+    "DESCRIPTION": " 廃棄 。 解放 。  !M! 敏捷性を得る。 "
+  },
+  "PrismaMod:MiyuEvokeBuffStr": {
+    "NAME": "ギルくんの贈り物",
+    "DESCRIPTION": " 廃棄 。手札の アタック カード以外を全て 廃棄 。  !M! ゴールドを得る。"
+  },
+  "PrismaMod:MiyuEvokeCheapAttack": {
+    "NAME": "限定展開・アサシン",
+    "DESCRIPTION": " 解放 。 !D! ダメージを与える。  !M! 弱体 、 脆弱化 、 脱力 を与える。"
+  },
+  "PrismaMod:MiyuEvokeCheapDefend": {
+    "NAME": "限定展開・ルーラー",
+    "DESCRIPTION": " 廃棄 。 解放 。 次のターンまで受けるダメージを半分にする。"
+  },
+  "PrismaMod:MiyuOrbIncreasePerm": {
+    "NAME": "魔術拡張",
+    "DESCRIPTION": " 廃棄 。  オーブスロットを !M! 増やす。"
+  },
+  "PrismaMod:MiyuOrbIncreaseTemp": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuMultiEvoke": {
+    "NAME": "Complete Release",
+    "DESCRIPTION": " X 回 解放 する。",
+    "UPGRADE_DESCRIPTION": " X 回 解放 する。 カードを X 枚引く。"
+  },
+  "PrismaMod:MiyuEvokeTwo": {
+    "NAME": "Release",
+    "DESCRIPTION": "Exhaust. Evoke !M! times.",
+    "UPGRADE_DESCRIPTION": "Evoke !M! times."
+  }
+}

@@ -1,0 +1,857 @@
+{
+  "PrismaMod:IllyaCarnivalPrismaAstolfo": {
+    "NAME": "카니발 프리즈마 아스톨포",
+    "DESCRIPTION": "소멸. 다음 중 무작위 효과를 받습니다: !M! 의 체력 회복, 힘 !M! 증가, 민첩 !M! 증가, 최대 체력 !M! 증가, 20 골드 획득.",
+    "UPGRADE_DESCRIPTION": "소멸. 다음 중 무작위 효과를 받습니다: !M! 의 체력 회복, 힘 !M! 증가, 민첩 !M! 증가, 최대 체력 !M! 증가, [#3ddf3d]30[] 골드 획득."
+  },
+
+  "PrismaMod:IllyaBerserCAR": {
+    "NAME": "광전차",
+    "DESCRIPTION": "피해를 !D! 주고 가압 을 1 얻습니다."
+  },
+
+  "PrismaMod:IllyaCarnivalAttack": {
+    "NAME": "카니발 공격",
+    "DESCRIPTION": "피해를 !D! 줍니다. prismamod:공격_구체 를 !M! 번 영창 합니다."
+  },
+
+  "PrismaMod:IllyaCarnivalDefend": {
+    "NAME": "카니발 수비",
+    "DESCRIPTION": "방어도 를 !B! 얻고 prismamod:수비_구체 를 !M! 번 영창 합니다."
+  },
+
+  "PrismaMod:IllyaUncommonAOEAttack": {
+    "NAME": "가르는 화염",
+    "DESCRIPTION": "모든 적에게 피해를 !D! 주고 약화 를 !M! 부여합니다."
+  },
+
+  "PrismaMod:IllyaAssassinRevenge": {
+    "NAME": "암살자의 반사신경",
+    "DESCRIPTION": "이번 턴에 공격당하면, prismamod:독성_구체 를 1 번 영창 하고 공격자에게 독성 을 !M! 만큼 부여합니다."
+  },
+
+  "PrismaMod:IllyaCarnivalOrbs": {
+    "NAME": "카니발 구체",
+    "DESCRIPTION": "prismamod:공격_구체 , prismamod:수비_구체 , prismamod:성서_구체 , prismamod:쯔바이_구체 , prismamod:암살_구체 , prismamod:독성_구체 를 1번씩 영창 합니다."
+  },
+
+  "PrismaMod:IllyaCommonEvoke": {
+    "NAME": "발현",
+    "DESCRIPTION": "첫번째 구체를 발현 합니다.",
+    "UPGRADE_DESCRIPTION": "첫번째 구체를 2번 발현 합니다."
+  },
+
+  "PrismaMod:IllyaDualEvoke": {
+    "NAME": "이중 발현",
+    "DESCRIPTION": "다음 !M! 개의 구체를 2번 발현 합니다."
+  },
+
+  "PrismaMod:IllyaEvokeAll": {
+    "NAME": "전체 발현",
+    "DESCRIPTION": "모든 구체를 발현 합니다."
+  },
+
+  "PrismaMod:IllyaHassanGift": {
+    "NAME": "암살자의 선물",
+    "DESCRIPTION": "prismamod:독성_구체 를 !M! 번 영창 합니다."
+  },
+
+  "PrismaMod:IllyaMultiEvoke": {
+    "NAME": "다중 발현",
+    "DESCRIPTION": "다음 X 개의 구체를 발현 합니다.",
+    "UPGRADE_DESCRIPTION" : "구체를 소비하지 않고 다음 X 개의 구체를 발현 합니다."
+  },
+
+  "PrismaMod:IllyaRapidFire": {
+    "NAME": "속사",
+    "DESCRIPTION": "증가한 힘 1당 !D! 의 피해를 !M! 번 줍니다. 횟수는 현재 구체 슬롯의 영향을 받습니다."
+  },
+
+  "PrismaMod:IllyaReinForce": {
+    "NAME": "강   화",
+    "DESCRIPTION": "증가한 민첩 1당 !B! 의 방어도를 !M! 번 얻습니다. 횟수는 현재 구체 슬롯의 영향을 받습니다."
+  },
+
+  "PrismaMod:IllyaSaphire": {
+    "NAME": "사파이어",
+    "DESCRIPTION": "소멸. 카드를 !PrismaMod:SecondMagic! 장 뽑고 구체 슬롯을 !M! 개 얻습니다."
+  },
+
+  "PrismaMod:IllyaUberChannel": {
+    "NAME": "우버 채널",
+    "DESCRIPTION": "현재 구체 슬롯의 수 만큼 무작위 구체를 영창 합니다."
+  },
+
+  "PrismaMod:IllyaUncommonEvoke": {
+    "NAME": "빠른 발현",
+    "DESCRIPTION": "첫번째 구체를 발현 하고 영창 합니다."
+  },
+
+  "PrismaMod:IllyaUpgradeOrbs": {
+    "NAME": "구체 강화",
+    "DESCRIPTION": "이번 턴에 발현 과 지속 의 효과가 두배 증가합니다."
+  },
+
+  "PrismaMod:IllyaBlindPoisonToss": {
+    "NAME": "눈가리고 독 뿌리기",
+    "DESCRIPTION": "무작위 3명의 적에게 중독 을 !PrismaMod:SecondMagic! 만큼 부여합니다."
+  },
+
+  "PrismaMod:IllyaFeed": {
+    "NAME": "먹이기",
+    "DESCRIPTION": "소멸. 피해를 !D! 줍니다. 최대 15까지 대상에게 부여된 중독 만큼 회복합니다."
+  },
+
+  "PrismaMod:IllyaFriendMaker": {
+    "NAME": "친구만들기",
+    "DESCRIPTION": "피해를 !D! 줍니다. 중독 을 !M! 부여합니다."
+  },
+
+  "PrismaMod:IllyaPoisonBomb": {
+    "NAME": "맹독 폭탄",
+    "DESCRIPTION": "모든 적에게 중독 을 !M! 부여합니다."
+  },
+
+  "PrismaMod:IllyaPoisoningPhantasm": {
+    "NAME": "환상 중독",
+    "DESCRIPTION": "모든 적의 중독 을 prismamod:확장 시킵니다."
+  },
+
+  "PrismaMod:IllyaPoisonTippedWeapons": {
+    "NAME": "독침",
+    "DESCRIPTION": "모든 공격은 중독 을 !M! 부여합니다.",
+    "UPGRADE_DESCRIPTION": "보존. 모든 공격은 중독 을 !M! 부여합니다."
+  },
+
+  "PrismaMod:IllyaRussianRoulette": {
+    "NAME": "러시안 룰렛",
+    "DESCRIPTION": "이 방에 있는 모든 대상에게 무작위로 중독 을 !M! 부여합니다."
+  },
+
+  "PrismaMod:IllyaStunPoison": {
+    "NAME": "독성 기절",
+    "DESCRIPTION": "피해를 !D! 줍니다. 만약 대상이 중독 된 상태면 피해를 !D! 더 줍니다."
+  },
+
+  "PrismaMod:IllyaCommonAttack": {
+    "NAME": "발사",
+    "DESCRIPTION": "피해를 !D! 줍니다."
+  },
+
+  "PrismaMod:IllyaBoysLove": {
+    "NAME": "보이즈 러브",
+    "DESCRIPTION": "모든 적에게 중독 을 !M! 부여합니다."
+  },
+
+  "PrismaMod:IllyaDetonatingBlow": {
+    "NAME": "격렬한 폭파",
+    "DESCRIPTION": "방어도 를 무시하고 피해를 !D! 줍니다. 대상의 중독 을 prismamod:확장 시킵니다."
+  },
+
+  "PrismaMod:IllyaCommonDefend": {
+    "NAME": "수비",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+
+  "PrismaMod:IllyaUncommonAttack": {
+    "NAME": "진정한 발사",
+    "DESCRIPTION": "피해를 !D! 주고 취약 을 !M! 부여합니다."
+  },
+
+  "PrismaMod:IllyaUncommonDefend": {
+    "NAME": "진정한 수비",
+    "DESCRIPTION": "방어도 를 !B! 얻고 판금 갑옷 을 !M! 얻습니다."
+  },
+
+  "PrismaMod:IllyaBride": {
+    "NAME": "웨딩선물",
+    "DESCRIPTION": "소멸. 카드를 !M! 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "보존. 선천성. 소멸. 카드를 !M! 장 뽑습니다."
+  },
+
+  "PrismaMod:IllyaDevil": {
+    "NAME": "악마소녀",
+    "DESCRIPTION": "피해를 !D! 주고 카드를 !M! 장 뽑습니다."
+  },
+
+  "PrismaMod:IllyaGun": {
+    "NAME": "총",
+    "DESCRIPTION": "피해를 !D! 줍니다."
+  },
+
+  "PrismaMod:IllyaMaid": {
+    "NAME": "메이드",
+    "DESCRIPTION": "이번 턴에 피해를 두배로 받습니다. 다음 턴에 에너지 [E] [E] [E] 를 얻습니다."
+  },
+
+  "PrismaMod:IllyaZwei": {
+    "NAME": "쯔바이 폼",
+    "DESCRIPTION": "모든 prismamod:설치 를 제거합니다. 힘 !M! , 에너지를 13 얻고 카드를 !PrismaMod:SecondMagic! 장 뽑습니다. 구체 슬롯만큼 prismamod:쯔바이_구체 를 발현 하고 영창 합니다. 턴이 끝날때 모든 적의 중독 을 prismamod:완전한_폭발 시킵니다. 다음 턴부터 매 턴마다 99의 힘 을 잃고 99 의 취약 을 얻고 에너지가 0이 됩니다."
+  },
+
+  "PrismaMod:IllyaAlice": {
+    "NAME": "앨리스 폼",
+    "DESCRIPTION": "소멸. 취약 을 !M! 얻습니다. prismamod:앨리스의_곰 유물을 얻거나 체력을 !PrismaMod:SecondMagic! 회복합니다.",
+    "UPGRADE_DESCRIPTION": "소멸. 취약 을 !M! 얻습니다. 체력을 !PrismaMod:SecondMagic! 회복합니다."
+  },
+
+  "PrismaMod:IllyaTestament": {
+    "NAME": "성서",
+    "DESCRIPTION": "모든 구체를 발현 합니다. 구체 슬롯만큼 prismamod:성서_구체 를 영창 합니다."
+  },
+
+  "PrismaMod:IllyaCommandSeal": {
+    "NAME": "명령 봉인",
+    "DESCRIPTION": "소멸. 체력을 !M! 회복하고 불가침 을 !PrismaMod:SecondMagic! 얻습니다."
+  },
+
+  "PrismaMod:IllyaRubysPotion": {
+    "NAME": "루비의 포션",
+    "DESCRIPTION": "소멸. 체력을 !M! 회복합니다."
+  },
+
+  "PrismaMod:IllyaAOECommonAttack": {
+    "NAME": "가르는 불씨",
+    "DESCRIPTION": "모든 적에게 피해를 !D! 줍니다."
+  },
+
+  "PrismaMod:IllyaGrail": {
+    "NAME": "성배",
+    "DESCRIPTION": "소멸. 카드를 !M! 장 뽑고 에너지를 [E] [E] 얻습니다."
+  },
+
+  "PrismaMod:IllyaGrailKun": {
+    "NAME": "성배 군",
+    "DESCRIPTION": "내 덱에서 공격 카드와 스킬 카드 1장을 선택해 손으로 가져옵니다."
+  },
+
+  "PrismaMod:IllyaPartialInstallAssassin": {
+    "NAME": "불완전한 어쌔신",
+    "DESCRIPTION": "소멸. 이번 턴에 공격 카드를 사용할때마다 모든 적에게 피해를 !D! 줍니다.",
+    "UPGRADE_DESCRIPTION": "소멸. 보존. 소멸. 이번 턴에 공격 카드를 사용할때마다 모든 적에게 피해를 !D! 줍니다."
+  },
+
+
+
+
+
+
+  "PrismaMod:IllyaMinorZwei": {
+    "NAME": "Minor Zwei Form",
+    "DESCRIPTION": "Gain !B! block.  Add !M! burns to your hand."
+  },
+
+  "PrismaMod:IllyaCheapDefend": {
+    "NAME": "Minor Avalon",
+    "DESCRIPTION": "Gain !B! block."
+  },
+
+  "PrismaMod:IllyaCheapAttack": {
+    "NAME": "Minor Excalibur",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! weak."
+  },
+
+  "PrismaMod:IllyaChanneledBlock": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": " "
+  },
+
+  "PrismaMod:IllyaChanneledAttack": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": ""
+  },
+
+  "PrismaMod:IllyaCheapChannelAttack": {
+    "NAME": "Minor Attack Orb",
+    "DESCRIPTION": "Channel !M! prismamod:attack orb."
+  },
+
+  "PrismaMod:IllyaCheapChannelDefend": {
+    "NAME": "Minor Defend Orb",
+    "DESCRIPTION": "Channel !M! prismamod:defend orb."
+  },
+
+  "PrismaMod:IllyaCheapChannelPoison": {
+    "NAME": "Minor Poison Orb",
+    "DESCRIPTION": "Channel !M! prismamod:poison orb."
+  },
+
+  "PrismaMod:IllyaMinorRapidFire": {
+    "NAME": "Minor RapidFire",
+    "DESCRIPTION": "Deal !D! damage !M! times. Number of times is determined by half the number of current orb slots."
+  },
+
+  "PrismaMod:IllyaMinorReinForce": {
+    "NAME": "Minor ReinForce",
+    "DESCRIPTION": "Gain !B! block !M! times. Number of times is determined by half the number of current orb slots."
+  },
+
+  "PrismaMod:IllyaUberAttackChannel": {
+    "NAME": "Uber Attack Channel",
+    "DESCRIPTION": "Channel max number of prismamod:attack orbs."
+  },
+
+  "PrismaMod:IllyaUberDefendChannel": {
+    "NAME": "Uber Defend Channel",
+    "DESCRIPTION": "Channel max number of prismamod:defend orbs."
+  },
+
+  "PrismaMod:IllyaUberPoisonChannel": {
+    "NAME": "Uber Poison Channel",
+    "DESCRIPTION": "Channel max number of prismamod:poison orbs."
+  },
+
+  "PrismaMod:IllyaUberPoisonBlock": {
+    "NAME": "Uber Poison Block",
+    "DESCRIPTION": "prismamod:absorb. Gain !M! block.",
+    "UPGRADE_DESCRIPTION": "prismamod:uber_absorb. Gain !M! block."
+  },
+
+  "PrismaMod:IllyaPoisonBlock": {
+    "NAME": "Poison Block",
+    "DESCRIPTION": "prismamod:minor_absorb. Gain !M! block.",
+    "UPGRADE_DESCRIPTION": "prismamod:absorb. Gain !M! block."
+  },
+
+
+
+
+  "PrismaMod:IllyaInstallArcher": {
+    "NAME": "설치 : 아처",
+    "DESCRIPTION": " prismamod:설치 : 각 턴마다 3장의 무작위 카드중  1장을 선택해 가져옵니다. 또한 힘 을 1 얻습니다"
+  },
+
+  "PrismaMod:IllyaInstallAssassin": {
+    "NAME": "설치 : 어쌔신",
+    "DESCRIPTION": " prismamod:설치 : 각 턴마다 받는 첫 공격은 prismamod:회피 합니다. 모든 공격은 중독 을 1 부여합니다.  모든 공격은 !M! % 의 피해를 입히고 받는 피해가 !M! % 증가합니다. 1개의 prismamod:암살_구체 를 영창 합니다. 보스에게는 3의 방어도 무시 데미지와 중독 을 1 더 부여합니다"
+  },
+
+  "PrismaMod:IllyaInstallBerserker": {
+    "NAME": "설치 : 버서커",
+    "DESCRIPTION": " prismamod:설치 : 받는 피해와 입히는 피해가 두배가 됩니다."
+  },
+
+  "PrismaMod:IllyaInstallCaster": {
+    "NAME": "설치 : 캐스터",
+    "DESCRIPTION": " prismamod:설치 : 구체 슬롯을 1개 얻습니다. 구체의 지속 과 발현 효과가 50% 증가합니다."
+  },
+
+  "PrismaMod:IllyaInstallLancer": {
+    "NAME": "설치 : 랜서",
+    "DESCRIPTION": " prismamod:설치  : 적을 !M! 번 공격시 취약 , 손상 , 약화 를 1 부여합니다."
+  },
+
+  "PrismaMod:IllyaInstallRider": {
+    "NAME": "설치 : 라이더",
+    "DESCRIPTION": " prismamod:설치 : 각 턴마다 1의 민첩 을 얻습니다. 공격시 보스를 제외한 모든 적에게 5의 피해를 줍니다."
+  },
+
+  "PrismaMod:IllyaInstallSaber": {
+    "NAME": "설치 : 세이버",
+    "DESCRIPTION": " prismamod:설치 : 매 턴마다 힘 을 얻습니다. 보스에게 방어도 를 무시하는 !M! 의 추가 피해를 입힙니다. 체력을 !PrismaMod:SecondMagic! 회복합니다. 각 턴의 첫 공격은 피해량이 50% 증가합니다."
+  },
+
+  "PrismaMod:IllyaInstallForeigner": {
+    "NAME": "설치 : 포리너",
+    "DESCRIPTION": " prismamod:설치 : 구체 슬롯을 1개 얻습니다. 구체의 발현 효과를 두배로 증가시킵니다."
+  },
+
+  "PrismaMod:IllyaInstallAvenger": {
+    "NAME": "설치 : 어벤저",
+    "DESCRIPTION": " prismamod:설치 : 보스가 아닌 적들에게 받는 피해량을 25% 감소시키고 모든 적에게 각 턴마다 !M! 의 피해량을 입힙니다."
+  },
+
+  "PrismaMod:IllyaInstallAlterEgo": {
+    "NAME": "설치 : 얼터 에고",
+    "DESCRIPTION": " prismamod:설치 : 구체 슬롯을 1개 얻습니다. 각 턴마다 첫번째 구체를 발현 합니다. 스킬 카드의 비용이 1 감소합니다."
+  },
+
+  "PrismaMod:IllyaInstallMoonCancer": {
+    "NAME": "설치 : 문 캔서",
+    "DESCRIPTION": " prismamod:설치 : 구체 슬롯을 1개 얻습니다. 구체의 지속 효과를 두배로 증가시킵니다."
+  },
+
+  "PrismaMod:IllyaInstallRuler": {
+    "NAME": "설치 : 룰러",
+    "DESCRIPTION": " prismamod:설치 : 각 턴마다 민첩, 힘 을 1얻습니다."
+  },
+
+  "PrismaMod:IllyaInstallShielder": {
+    "NAME": "설치 : 실더",
+    "DESCRIPTION": " prismamod:설치 : 체력을 !PrismaMod:SecondMagic! 회복하고 매 턴마다 방어도 를 !M! 얻습니다."
+  },
+
+
+
+
+
+  "PrismaMod:ChloeExhaustOne": {
+    "NAME": "소박한 해체",
+    "DESCRIPTION": "덱에서 카드를 한장 선택하고 소멸 시킵니다. 소멸 된 카드 한장당 !M! 장의 prismamod:arrows 카드를 얻습니다."
+  },
+
+  "PrismaMod:ChloeExhaustTwo": {
+    "NAME": "큰 해체",
+    "DESCRIPTION": "덱에서 카드를 2장 선택하고 소멸 시킵니다. 소멸 된 카드 한장당 !M! 장의 prismamod:arrows 카드를 얻습니다."
+  },
+
+  "PrismaMod:ChloeExhaustThree": {
+    "NAME": "울트라 해체",
+    "DESCRIPTION": "덱에서 카드를 3장 선택하고 소멸 시킵니다. 소멸 된 카드 한장당 !M! 장의 prismamod:arrows 카드를 얻습니다."
+  },
+
+  "PrismaMod:ChloeChristmas": {
+    "NAME": "크리스마스 선물",
+    "DESCRIPTION": "카드를 !M! 장 뽑습니다."
+  },
+
+  "PrismaMod:ChloeDemonicTutor": {
+    "NAME": "악마 가정교사",
+    "DESCRIPTION": "덱에서 카드를 !M! 장 선택하고 손으로 가져옵니다.",
+    "UPGRADE_DESCRIPTION": "덱에서 카드를 !M! 장 선택하고 손으로 가져옵니다."
+  },
+
+  "PrismaMod:ChloeDevil": {
+    "NAME": "악마의 형상",
+    "DESCRIPTION": "소멸. 피해를 !D! 입히고 체력을 !M! 회복합니다."
+  },
+
+  "PrismaMod:ChloeDiscardRecovery": {
+    "NAME": "미량 회복",
+    "DESCRIPTION": "버린 카드 더미에서 카드를 !M! 장 선택하고 손으로 가져옵니다.",
+    "UPGRADE_DESCRIPTION": "버린 카드 더미에서 카드를 !M! 장 선택하고 손으로 가져옵니다."
+  },
+
+  "PrismaMod:ChloeHalloween": {
+    "NAME": "트릭 오어 트리트",
+    "DESCRIPTION": "저주를 !M! 얻거나 무작위 카드를 !M! 장 얻습니다.",
+    "UPGRADE_DESCRIPTION": "저주를 !M! 얻거나 무작위 카드를 !M! 장 얻습니다."
+  },
+
+  "PrismaMod:ChloeMaid": {
+    "NAME": "메이드 폼",
+    "DESCRIPTION": "이번 턴에 피해를 두배로 입습니다.  다음 턴에 에너지를 [E] [E] [E] 얻습니다."
+  },
+
+  "PrismaMod:ChloeMordred": {
+    "NAME": "모드레드 폼",
+    "DESCRIPTION": "소멸. 힘 을 !M! 얻습니다."
+  },
+
+  "PrismaMod:ChloeReshuffleDiscard": {
+    "NAME": "재생시키는 추적",
+    "DESCRIPTION": "버린 카드 더미를 덱에 섞어 넣고 카드를 !M! 장 뽑습니다."
+  },
+
+  "PrismaMod:ChloeRitsuka": {
+    "NAME": "빨간 머리의 주인님",
+    "DESCRIPTION": "소멸. 민첩 을 !M! 얻습니다."
+  },
+
+  "PrismaMod:ChloeUnlimitedBladeWorks": {
+    "NAME": "언리미티드 블레이드 워크스",
+    "DESCRIPTION": "이전에 추적한 카드를 3장까지 선택하고 손으로 가져옵니다 그 카드는 비용이 0이 됩니다.",
+    "UPGRADE_DESCRIPTION": "이전에 추적한 카드를 3장까지 선택하고 손으로 가져옵니다 그 카드는 강화되며 비용이 0이 됩니다."
+  },
+
+  "PrismaMod:ChloeCarnivalAOEAttack": {
+    "NAME": "카니발 범위 공격",
+    "DESCRIPTION": "모든 적에게 피해를 !D! 입힙니다. 적중 한 적 1명당 카드를 1장 소멸 시킵니다. 소멸 된 카드 1장당 prismamod:arrows 카드를 2장 얻습니다."
+  },
+
+  "PrismaMod:ChloeCarnivalAttack": {
+    "NAME": "카니발 공격",
+    "DESCRIPTION": "피해를 !D! 입힙니다. 힘 을 !M! 얻습니다."
+  },
+
+  "PrismaMod:ChloeCarnivalDefend": {
+    "NAME": "카니발 수비",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. 민첩 을 !M! 얻습니다."
+  },
+
+  "PrismaMod:ChloeCheapAttack": {
+    "NAME": "은밀한 공격",
+    "DESCRIPTION": "피해를 !D! 입히고 취약 을 !M! 부여합니다."
+  },
+
+  "PrismaMod:ChloeCheapAttackTwo": {
+    "NAME": "빨판 펀치",
+    "DESCRIPTION": "피해를 !D! 입히고 약화 를 !M! 부여합니다."
+  },
+
+  "PrismaMod:ChloeCheapDefend": {
+    "NAME": "마법 갑옷",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다.",
+    "UPGRADE_DESCRIPTION": "방어도 를 !B! 얻습니다. 카드를 1장 소멸 시키고 prismamod:arrows 카드를 2장 얻습니다."
+  },
+
+  "PrismaMod:ChloeCheapDefendTwo": {
+    "NAME": "즉흥 갑옷",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+
+  "PrismaMod:ChloeCommonAOEAttack": {
+    "NAME": "넓은 베기",
+    "DESCRIPTION": "모든 적에게 피해를 !D! 입힙니다."
+  },
+
+  "PrismaMod:ChloeCommonAttack": {
+    "NAME": "베기",
+    "DESCRIPTION": "피해를 !D! 입힙니다."
+  },
+
+  "PrismaMod:ChloeCommonDefend": {
+    "NAME": "수비",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+
+  "PrismaMod:ChloeShiv": {
+    "NAME": "화살",
+    "DESCRIPTION": "소멸. 피해를 !D! 입힙니다."
+  },
+
+  "PrismaMod:ChloeUncommonAOEAttack": {
+    "NAME": "넓은 휩쓸기",
+    "DESCRIPTION": "모든 적에게 피해를 !D! 입힙니다."
+  },
+
+  "PrismaMod:ChloeUncommonAttack": {
+    "NAME": "창",
+    "DESCRIPTION": "피해를 !D! 입히고 취약 을 !M! 부여합니다."
+  },
+
+  "PrismaMod:ChloeUncommonDefend": {
+    "NAME": "봉쇄",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+
+  "PrismaMod:ChloeBetterTracePools": {
+    "NAME": "향상된 추적",
+    "DESCRIPTION": "추적 선택창에서 희귀도가 낮은 카드를 제거합니다."
+  },
+
+  "PrismaMod:ChloeDoubleRelicSpeed": {
+    "NAME": "신속한 추적",
+    "DESCRIPTION": "간장·막야의 효과를 두배All cards played now count double for Kanshou and Bakuya effects"
+  },
+
+  "PrismaMod:ChloeGreatTracePools": {
+    "NAME": "뛰어난 추적",
+    "DESCRIPTION": "희귀도가 낮은 카드와 언커먼 카드를 추적 선택창에서 제거합니다."
+  },
+
+  "PrismaMod:ChloeCaladbolg": {
+    "NAME": "칼라드볼그",
+    "DESCRIPTION": "모든 적에게 !D! 의 피해를 !M! 번 입힙니다."
+  },
+
+  "PrismaMod:ChloeExcalibur": {
+    "NAME": "엑스칼리버",
+    "DESCRIPTION": "적에게 피해를 !D! 입힙니다. 보스에겐 두배의 피해를 입힙니다."
+  },
+
+  "PrismaMod:ChloeEyeOfTheEuryale": {
+    "NAME": "에우리알레의 눈",
+    "DESCRIPTION": "피해를 !D! 입힙니다. prismamod:도발 을 1 부여합니다."
+  },
+
+  "PrismaMod:ChloeGaeBolg": {
+    "NAME": "게이 볼그",
+    "DESCRIPTION": "피해를 !D! 입힙니다. 약화, 취약, 손상 을 !M! 부여합니다."
+  },
+
+  "PrismaMod:ChloePhantasmPunishment": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+
+  "PrismaMod:ChloeRhongomyniad": {
+    "NAME": "롱고미니아드",
+    "DESCRIPTION": "피해를 !D! 입히고 대상의 방어도 를 모두 제거합니다."
+  },
+
+  "PrismaMod:ChloeRuleBreaker": {
+    "NAME": "규칙 파괴자",
+    "DESCRIPTION": "피해를 !D! 입히고 대상의 모든 이로운 효과를 제거합니다."
+  },
+
+  "PrismaMod:ChloeCreateableTraceCard": {
+    "NAME": "추적 중",
+    "DESCRIPTION": " 소멸. 추적 선택창에서 카드를 1장 가져옵니다.",
+    "UPGRADE_DESCRIPTION": "강화된",
+    "EXTENDED_DESCRIPTION": [" 소멸. "," 색이 "," 고 희귀도가 "," 고 종류가 "," 인 카드 중 한장을 가져옵니다."]
+  },
+
+  "PrismaMod:ChloeAnyAttackTrace": {
+    "NAME": "공격 추적",
+    "DESCRIPTION": "무작위 공격 카드를 1장 prismamod:추적 합니다."
+  },
+
+  "PrismaMod:ChloeAnyCommonTrace": {
+    "NAME": "흔한 추적",
+    "DESCRIPTION": "희귀도가 낮은 카드를 1장 prismamod:추적 합니다."
+  },
+
+  "PrismaMod:ChloeAnyPowerTrace": {
+    "NAME": "파워 추적",
+    "DESCRIPTION": "무작위 파워 카드를 1장 prismamod:추적 합니다."
+  },
+
+  "PrismaMod:ChloeAnyRareTrace": {
+    "NAME": "레어 추적",
+    "DESCRIPTION": "무작위 레어 카드를 1장 prismamod:추적 합니다."
+  },
+
+  "PrismaMod:ChloeAnySkillTrace": {
+    "NAME": "스킬 추적",
+    "DESCRIPTION": "무작위 스킬 카드를 1장 prismamod:추적 합니다."
+  },
+
+  "PrismaMod:ChloeAnyUncommonTrace": {
+    "NAME": "언커먼 추적",
+    "DESCRIPTION": "무작위 언커먼 카드를 1장 prismamod:추적 합니다."
+  },
+
+
+
+
+
+  "PrismaMod:MiyuBride": {
+    "NAME": "Wedding Gifts",
+    "DESCRIPTION": "Exhaust. Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Retain. Innate. Exhaust. Draw !M! cards."
+  },
+  "PrismaMod:MiyuChristmas": {
+    "NAME": "Santa Install",
+    "DESCRIPTION": "Select !M! cards from draw pile.",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuDevil": {
+    "NAME": "Devil Install",
+    "DESCRIPTION": "Deal !D! damage. Draw !M!.",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuMaid": {
+    "NAME": "Maid Install",
+    "DESCRIPTION": "Take double damage for this turn.  Gain [E] [E] [E] energy next turn."
+  },
+  "PrismaMod:MiyuCarnivalAOEAttack": {
+    "NAME": "Carnival Sweep",
+    "DESCRIPTION": "Deal !D! damage to all enemies !M! times."
+  },
+  "PrismaMod:MiyuCarnivalAttack": {
+    "NAME": "Carnival Stab",
+    "DESCRIPTION": "Deal !D! damage 3 times."
+  },
+  "PrismaMod:MiyuCarnivalDefend": {
+    "NAME": "Carnival Shield",
+    "DESCRIPTION": "Gain !B! block. Gain !M! dexterity."
+  },
+  "PrismaMod:MiyuCheapAttack1": {
+    "NAME": "Include Lancer",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! vulnerable."
+  },
+  "PrismaMod:MiyuCheapAttack2": {
+    "NAME": "Include Archer",
+    "DESCRIPTION": "Deal !D! damage. Apply !M! weak."
+  },
+  "PrismaMod:MiyuCheapDefend1": {
+    "NAME": "Minor Regeneration Barrier",
+    "DESCRIPTION": "Exhaust. Gain !B! block. Gain !M! [E]."
+  },
+  "PrismaMod:MiyuCheapDefend2": {
+    "NAME": "Living Barrier",
+    "DESCRIPTION": "Exhaust. Gain !B! block. Gain !M! plated armor."
+  },
+  "PrismaMod:MiyuCheapDexBuff": {
+    "NAME": "Magic Steps",
+    "DESCRIPTION": "Gain !M! dexterity."
+  },
+  "PrismaMod:MiyuCheapPlate": {
+    "NAME": "Include Shielder",
+    "DESCRIPTION": "Gain !M! thorns."
+  },
+  "PrismaMod:MiyuCheapStrBuff": {
+    "NAME": "Include Berserker",
+    "DESCRIPTION": "Gain !M! strength."
+  },
+  "PrismaMod:MiyuCommonAOEAttack": {
+    "NAME": "Wide Slash",
+    "DESCRIPTION": "Deal !D! damage to all enemies."
+  },
+  "PrismaMod:MiyuCommonAttack": {
+    "NAME": "Sapphire Blade",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "PrismaMod:MiyuCommonDefend": {
+    "NAME": "Shield",
+    "DESCRIPTION": "Gain !B! block."
+  },
+  "PrismaMod:MiyuDefenseAbsorbMinor": {
+    "NAME": "Include Avenger",
+    "DESCRIPTION": "prismamod:block_absorb."
+  },
+  "PrismaMod:MiyuDefenseAbsorbUber": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuDefenseExplosion": {
+    "NAME": "Offensive Barrier",
+    "DESCRIPTION": "prismamod:block_explosion."
+  },
+  "PrismaMod:MiyuDefenseRemoval": {
+    "NAME": "Medusa's Gaze",
+    "DESCRIPTION": "Exhaust. Remove all block and apply prismamod:attract."
+  },
+  "PrismaMod:MiyuUberAOEAttack": {
+    "NAME": "Energy Drain",
+    "DESCRIPTION": "Deal !D! damage to all enemies. Gain !M! [E] next turn for each enemy hit."
+  },
+  "PrismaMod:MiyuUberAttack": {
+    "NAME": "Saber Include",
+    "DESCRIPTION": "Deal !D! damage. Draw !M! cards."
+  },
+  "PrismaMod:MiyuUberDefend": {
+    "NAME": "Grand Protector",
+    "DESCRIPTION": "Exhaust. Apply !M! prismamod:Evade. Gain !B! block."
+  },
+  "PrismaMod:MiyuUncommonAOEAttack": {
+    "NAME": "Sweeping Fire",
+    "DESCRIPTION": "Remove all block from enemies. Deal !D! damage to all enemies."
+  },
+  "PrismaMod:MiyuUncommonAttack": {
+    "NAME": "Sapphire Lance",
+    "DESCRIPTION": "Deal !D! damage. Increase the damage of this card by !M! for the rest of combat."
+  },
+  "PrismaMod:MiyuUncommonDefend": {
+    "NAME": "Greater Energy Barrier",
+    "DESCRIPTION": "Gain !B! block.  Increase the block of this card by !M! for the rest of combat."
+  },
+  "PrismaMod:MiyuUncommonDexBuff": {
+    "NAME": "Magic Dancing Lessons",
+    "DESCRIPTION": "Gain !M! dexterity, strength and focus."
+  },
+  "PrismaMod:MiyuUncommonPlate": {
+    "NAME": "Edelfelt's Protection",
+    "DESCRIPTION": "Exhaust. Gain !M! plated armor."
+  },
+  "PrismaMod:MiyuUncommonStrBuff": {
+    "NAME": "Magic Circuit Growth",
+    "DESCRIPTION": "Gain !M! focus."
+  },
+  "PrismaMod:MiyuAttackChannelAttack": {
+    "NAME": "Growing Slash",
+    "DESCRIPTION": "Deal !D! damage. Channel !M! prismamod:growth_orb."
+  },
+  "PrismaMod:MiyuAttackChannelVul": {
+    "NAME": "Deep Cut",
+    "DESCRIPTION": "Deal !D! damage. Channel !M! prismamod:vulnerable_orb."
+  },
+  "PrismaMod:MiyuAttackChannelWeak": {
+    "NAME": "Precise Stab",
+    "DESCRIPTION": "Deal !D! damage. Channel !M! prismamod:weak_orb."
+  },
+  "PrismaMod:MiyuChannelAttackEvoke": {
+    "NAME": "Magical Strike",
+    "DESCRIPTION": "Gain !M! focus. Deal !D! damage !M! times. Decrease max orb slots by 1."
+  },
+  "PrismaMod:MiyuChannelDefendEvoke": {
+    "NAME": "Fortification",
+    "DESCRIPTION": "Gain !M! focus. Gain !B! block !M! times. Decrease max orb slots by 1."
+  },
+  "PrismaMod:MiyuChannelHealEvoke": {
+    "NAME": "DEPRECATED Regenerative Stance",
+    "DESCRIPTION": "DEPRECATED Exhaust. Evoke. Heal !M!."
+  },
+  "PrismaMod:MiyuChannelRandomEvoke": {
+    "NAME": "DEPRECATED Guessing Game",
+    "DESCRIPTION": "DEPRECATED Exhaust. Evoke. Channel !M! prismamod:random_orb."
+  },
+  "PrismaMod:MiyuChannelVulEvoke": {
+    "NAME": "DEPRECATED Unfortunate Stance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! vulnerable."
+  },
+  "PrismaMod:MiyuChannelWeakEvoke": {
+    "NAME": "DEPRECATED Off Balance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! weak."
+  },
+  "PrismaMod:MiyuCheapChannelAttack": {
+    "NAME": "Sapphire Offensive",
+    "DESCRIPTION": "Channel !M! prismamod:growth_orb."
+  },
+  "PrismaMod:MiyuCheapChannelDefend": {
+    "NAME": "Sapphire Defensive",
+    "DESCRIPTION": "Channel !M! prismamod:shield_orb."
+  },
+  "PrismaMod:MiyuCheapChannelHeal": {
+    "NAME": "Sapphire Repair",
+    "DESCRIPTION": "Exhaust. Channel !M! prismamod:heal_orb."
+  },
+  "PrismaMod:MiyuCheapChannelRandom": {
+    "NAME": "Gatcha Pull",
+    "DESCRIPTION": "Channel !M! prismamod:random_orb."
+  },
+  "PrismaMod:MiyuCheapChannelVul": {
+    "NAME": "Edelfelt's Guidance",
+    "DESCRIPTION": "Channel !M! prismamod:vulnerable_orb."
+  },
+  "PrismaMod:MiyuCheapChannelWeak": {
+    "NAME": "Sapphire's Plan",
+    "DESCRIPTION": "Channel !M! prismamod:weak_orb."
+  },
+  "PrismaMod:MiyuCheapEvoke": {
+    "NAME": "Release",
+    "DESCRIPTION": "Evoke. Return a card from the discard pile to your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. Evoke. Return a card from the discard pile to your hand."
+  },
+  "PrismaMod:MiyuDefendChannelDefend": {
+    "NAME": "Crystallized Magic",
+    "DESCRIPTION": "Gain !B! block. Channel !M! prismamod:shield_orb."
+  },
+  "PrismaMod:MiyuEvokeAll": {
+    "NAME": "Grand Release",
+    "DESCRIPTION": "Evoke all orbs. Draw !M! card for each orb evoked."
+  },
+  "PrismaMod:MiyuEvokeAllAttack": {
+    "NAME": "Limit Breaker",
+    "DESCRIPTION": "Evoke all orbs. Deal !D! damage !M! times."
+  },
+  "PrismaMod:MiyuEvokeAllDefend": {
+    "NAME": "Friend's Protection",
+    "DESCRIPTION": "Evoke all orbs. Gain !B! block !M! times."
+  },
+  "PrismaMod:MiyuEvokeBuffDex": {
+    "NAME": "Rider's Gift",
+    "DESCRIPTION": "Exhaust. Evoke. Gain !M! dexterity for one turn."
+  },
+  "PrismaMod:MiyuEvokeBuffStr": {
+    "NAME": "Gil's Gift",
+    "DESCRIPTION": "Exhaust. Exhaust all non attack cards in hand. Gain !M! gold."
+  },
+  "PrismaMod:MiyuEvokeCheapAttack": {
+    "NAME": "Assassin Include",
+    "DESCRIPTION": "Evoke. Deal !D! damage. Apply !M! weak, frail, and vulnerable."
+  },
+  "PrismaMod:MiyuEvokeCheapDefend": {
+    "NAME": "Ruler Include",
+    "DESCRIPTION": "Exhaust. Evoke. Take half damage for the next turn."
+  },
+  "PrismaMod:MiyuOrbIncreasePerm": {
+    "NAME": "Major Magic Expansion",
+    "DESCRIPTION": "Exhaust. Gain !M! orb slots for the rest of combat."
+  },
+  "PrismaMod:MiyuOrbIncreaseTemp": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuMultiEvoke": {
+    "NAME": "Complete Release",
+    "DESCRIPTION": "Evoke X times.",
+    "UPGRADE_DESCRIPTION": "Evoke X times. Draw X cards."
+  },
+  "PrismaMod:MiyuEvokeTwo": {
+    "NAME": "Release",
+    "DESCRIPTION": "Exhaust. Evoke !M! times.",
+    "UPGRADE_DESCRIPTION": "Evoke !M! times."
+  }
+}

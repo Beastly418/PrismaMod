@@ -1,0 +1,125 @@
+﻿{
+  "PrismaMod:IllyaTestamentOrb": {
+    "NAME": "亡语充能球",
+    "DESCRIPTION": [
+      "#y被动： 每回合对自己造成 #r",
+      " 点伤害。",
+      " NL #y激发： 获得 #g",
+      " 点 #p能量"
+    ]
+  },
+  "PrismaMod:IllyaZweiOrb": {
+    "NAME": "双星充能球",
+    "DESCRIPTION": [
+      "#y激发： 对随机一名敌人造成 #r",
+      " 点伤害。"
+    ]
+  },
+  "PrismaMod:IllyaPoisonOrb": {
+    "NAME": "毒药充能球",
+    "DESCRIPTION": [
+      "#y被动： 给予随机敌人 #g",
+      " 层#y中毒 。",
+      " NL #y激发： 给予所有敌人 #g",
+      " 层#y中毒 。"
+    ]
+  },
+  "PrismaMod:IllyaDefendOrb": {
+    "NAME": "防御充能球",
+    "DESCRIPTION": [
+      "#y被动： 获得 #b",
+      " 点格挡。",
+      " NL #y激发： 获得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "PrismaMod:IllyaAttackOrb": {
+    "NAME": "攻击充能球",
+    "DESCRIPTION": [
+      "#y被动： 对随机敌人造成 #r",
+      " 点伤害。",
+      " NL #y激发： 对随机所有敌人造成 #r",
+      " 点伤害。"
+    ]
+  },
+  "PrismaMod:IllyaAssassinOrb": {
+    "NAME": "刺客充能球",
+    "DESCRIPTION": [
+      "#y被动： 获得 #y",
+      " 张 #y小刀 。",
+      " NL #y激发： 获得 #y",
+      " 张 #y小刀 。"
+    ]
+  },
+
+
+
+
+
+  "PrismaMod:MiyuAttackOrb": {
+    "NAME": "成长充能球",
+    "DESCRIPTION": [
+      "#y被动：对随机敌人造成 #r",
+      " 点伤害。",
+      " NL #y激发：获得 #r",
+      " 点力量。"
+    ]
+  },
+  "PrismaMod:MiyuDefendOrb": {
+    "NAME": "护盾充能球",
+    "DESCRIPTION": [
+      "#y被动：获得 #b",
+      " 点格挡。",
+      " NL #y激发： 获得 #b",
+      " 点敏捷。"
+    ]
+  },
+  "PrismaMod:MiyuHealOrb": {
+    "NAME": "治疗充能球",
+    "DESCRIPTION": [
+      "#y被动：回复随机敌人 #r",
+      " 点生命。",
+      " NL #y激发：回复自己 #r",
+      " 点生命。"
+    ]
+  },
+  "PrismaMod:MiyuRandomOrb": {
+    "NAME": "随机充能球",
+    "DESCRIPTION": [
+      "#y被动: 触发 #r",
+      " 点随机效果。",
+      " NL #y激发: 触发 #r",
+      " 点随机效果。",
+      "随机充能球： ", " 个箭矢铸造",
+      "随机充能球：造成 ", " 点伤害",
+      "随机充能球：获得 ", " 点格挡",
+      "随机充能球：给予 ", " 层易伤",
+      "随机充能球：给予 ", " 层虚弱",
+      "随机充能球： ", " 张牌被保护",
+      "随机充能球：获得 ", " 点能量",
+      "随机充能球：抽 ", " 张牌",
+      "随机充能球：受到 ", " 自伤",
+      "随机充能球：治疗敌人 ", " 生命",
+      "随机充能球：获得 ", " 张诅咒",
+      "随机充能球： 你怎么跳出了随机的？？？"
+    ]
+  },
+  "PrismaMod:MiyuVulOrb": {
+    "NAME": "易伤充能球",
+    "DESCRIPTION": [
+      "#y被动： 给予随机敌人 #r",
+      " 层易伤。",
+      " NL #y激发： 给予所有敌人 #r",
+      " 层易伤。"
+    ]
+  },
+  "PrismaMod:MiyuWeakOrb": {
+    "NAME": "虚弱充能球",
+    "DESCRIPTION": [
+      "#y被动： 给予随机敌人 #r",
+      " 层虚弱。",
+      " NL #y激发： 给予所有敌人 #r",
+      " 层虚弱。"
+    ]
+  }
+}

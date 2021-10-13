@@ -1,0 +1,35 @@
+﻿{
+  "PrismaMod:Illya": {
+    "NAMES": [
+      "Illya",
+      "Illya"
+    ],
+    "TEXT": [
+      "UBER KAWAII DESU!!!",
+      "Você sente a magia fluir por seus circuitos mágicos conforme ataca o coração da torre em sua poderosa forma Zwei.",
+      "Você se depara com um estranho grupo de lolicons. Eles pedem para você se unir ao ritual deles..."
+    ]
+  },
+  "PrismaMod:Chloe": {
+    "NAMES": [
+      "Chloe",
+      "Chloe"
+    ],
+    "TEXT": [
+      "Illya mas não tão fofa.",
+      "Você sente a magia emanar de dentro de você conforme liberta a mais poderosa Unlimited Blade Works que consegue no coração da torre.",
+      " Você se depara com um estranho grupo de lolicons. Eles pedem para você se unir ao ritual deles..."
+    ]
+  },
+  "PrismaMod:Miyu": {
+    "NAMES": [
+      "Miyu",
+      "Miyu"
+    ],
+    "TEXT": [
+      "The serious one.",
+      "Você sente a magia crescer dentro de você conforme você ataca o coração da torre com toda sua força.",
+      "Você se depara com um estranho grupo de lolicons. Eles pedem para você se unir ao ritual deles..."
+    ]
+  }
+}

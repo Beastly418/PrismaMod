@@ -1,0 +1,125 @@
+﻿{
+  "PrismaMod:IllyaTestamentOrb": {
+    "NAME": "Orbe do Testamento",
+    "DESCRIPTION": [
+      "#yPassive: Cause #r",
+      " dano em si mesma a cada turno",
+      " NL #yEvocar: Ganhe #g",
+      " #pEnergia"
+    ]
+  },
+  "PrismaMod:IllyaZweiOrb": {
+    "NAME": "Orbe Zwei",
+    "DESCRIPTION": [
+      "#yEvocar: Cause #r",
+      " dano a um inimigo."
+    ]
+  },
+  "PrismaMod:IllyaPoisonOrb": {
+    "NAME": "Orbe de Veneno",
+    "DESCRIPTION": [
+      "#yPassiva: Aplique [#1fc51f]",
+      " Veneno a um inimigo aleatório.",
+      " NL #yEvocar: Aplique [#1fc51f]",
+      " Veneno em todos inimigos."
+    ]
+  },
+  "PrismaMod:IllyaDefendOrb": {
+    "NAME": "Orbe de Defesa",
+    "DESCRIPTION": [
+      "#yPassiva: Ganhe #b",
+      " Bloqueio.",
+      " NL #yEvocar: Ganhe #b",
+      " Bloqueio."
+    ]
+  },
+  "PrismaMod:IllyaAttackOrb": {
+    "NAME": "Orbe de Ataque",
+    "DESCRIPTION": [
+      "#yPassiva: Cause #r",
+      " dano a um inimigo aleatório.",
+      " NL #yEvocar: Cause #r",
+      " dano a todos inimigos."
+    ]
+  },
+  "PrismaMod:IllyaAssassinOrb": {
+    "NAME": "Orbe do Assassino",
+    "DESCRIPTION": [
+      "#yPassiva: Ganhe [#1fc51f]",
+      " lâmina.",
+      " NL #yEvocar: Ganhe [#1fc51f]",
+      " lâminas."
+    ]
+  },
+
+
+
+
+
+  "PrismaMod:MiyuAttackOrb": {
+    "NAME": "Orbe do Crescimento",
+    "DESCRIPTION": [
+      "#yPassiva: Cause #r",
+      " dano a um inimigo aleatório.",
+      " NL #yEvocar: Ganhe #r",
+      " força."
+    ]
+  },
+  "PrismaMod:MiyuDefendOrb": {
+    "NAME": "Orbe Escudo",
+    "DESCRIPTION": [
+      "#yPassiva: Ganhe #b",
+      " Bloqueio.",
+      " NL #yEvocar: Ganhe #b",
+      " Destreza."
+    ]
+  },
+  "PrismaMod:MiyuHealOrb": {
+    "NAME": "Orbe da Cura",
+    "DESCRIPTION": [
+      "#yPassiva: Cure #r",
+      " vida de um inimigo aleatório.",
+      " NL #yEvocar: Cure #r",
+      " de sua vida."
+    ]
+  },
+  "PrismaMod:MiyuRandomOrb": {
+    "NAME": "Orbe aleatório",
+    "DESCRIPTION": [
+      "#yPassiva: Cause #r",
+      " efeito aleatório.",
+      " NL #yEvocar: Cause #r",
+      " efeitos aleatórios.",
+      "Orbe Aleatório: ", " Flecha construída",
+      "Orbe Aleatório: ", " Dano causado ao inimigo",
+      "Orbe Aleatório: ", " Bloqueio obtido",
+      "Orbe Aleatório: ", " Vulnerável aplicado",
+      "Orbe Aleatório: ", " Fraqueza aplicado",
+      "Orbe Aleatório: ", " Proteção temporária de carta completa",
+      "Orbe Aleatório: ", " Energia ganha",
+      "Orbe Aleatório: ", " Cartas compradas",
+      "Orbe Aleatório: ", " Você se machuca confusa",
+      "Orbe Aleatório: ", " Inimigo curado",
+      "Orbe Aleatório: ", " Maldição obtida",
+      "Orbe Aleatório: Como eu quebrei o dado?!?!?!"
+    ]
+  },
+  "PrismaMod:MiyuVulOrb": {
+    "NAME": "Orbe da Vulnerabilidade",
+    "DESCRIPTION": [
+      "#yPassiva: Aplique #r",
+      " Vulnerável a um inimigo aleatório.",
+      " NL #yEvocar: Aplique #r",
+      " Vulnerável em todos inimigos."
+    ]
+  },
+  "PrismaMod:MiyuWeakOrb": {
+    "NAME": "Orbe da Fraqueza",
+    "DESCRIPTION": [
+      "#yPassiva: Aplique #r",
+      " Fraqueza a um inimigo aleatório.",
+      " NL #yEvocar: Aplique #r",
+      " Fraqueza em todos inimigos."
+    ]
+  }
+}

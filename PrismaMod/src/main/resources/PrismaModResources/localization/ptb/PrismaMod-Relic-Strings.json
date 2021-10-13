@@ -1,0 +1,51 @@
+﻿{
+  "PrismaMod:AliceRelic": {
+    "NAME": "Urso da Alice",
+    "FLAVOR": "Shirou?",
+    "DESCRIPTIONS": [
+      "Compre 2 cartas quando um monstro morre."
+      ]
+  },
+  "PrismaMod:PrismaRuby": {
+    "NAME": "Ruby",
+    "FLAVOR": "Um Kaleidocajado que faz algumas coisas questionáveis.",
+    "DESCRIPTIONS": [
+      "Canalize 1 orbe aleatório no começo de cada combate."
+    ]
+  },
+  "PrismaMod:PrismaZwei": {
+    "NAME": "Cajado Zwei",
+    "FLAVOR": "Kaleidocajados combinados são capazes de poderes inimagináveis.",
+    "DESCRIPTIONS": [
+      "Canaliza 1 orbe aleatório ao início de cada turno."
+    ]
+  },
+  "PrismaMod:PrismaTraceOn": {
+    "NAME": "Kanshou e Bakuya",
+    "FLAVOR": "Traçar",
+    "DESCRIPTIONS": [
+      "Gera uma carta Traçar a cada 25 cartas jogadas."
+    ]
+  },
+  "PrismaMod:PrismaTraceOnUpgrade": {
+    "NAME": "Kanshou e Bakuya+",
+    "FLAVOR": "Traçar+",
+    "DESCRIPTIONS": [
+      "Gera uma carta Traçar aprimorada a cada 20 cartas jogadas."
+    ]
+  },
+  "PrismaMod:PrismaSapphire": {
+    "NAME": "Sapphire",
+    "FLAVOR": "Um Kaleidocajado que magicamente te ajuda a dançar.",
+    "DESCRIPTIONS": [
+      "Canalize 1 orbe no começo de cada combate."
+    ]
+  },
+  "PrismaMod:PrismaSapphireUpgrade": {
+    "NAME": "Sapphire+",
+    "FLAVOR": "Um Kaleidocajado que aumenta sua efetividade em combate.",
+    "DESCRIPTIONS": [
+      "Canalize 1 orbe e ganhe 2 Força no começo de cada combate."
+    ]
+  }
+}

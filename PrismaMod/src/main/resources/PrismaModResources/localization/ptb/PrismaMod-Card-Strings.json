@@ -1,0 +1,858 @@
+﻿{
+  "PrismaMod:IllyaCarnivalPrismaAstolfo": {
+    "NAME": "Prisma Astolfo da Folia",
+    "DESCRIPTION": "Esgotar. Ganhe aleatóriamente um dos seguintes:: curar !M!, !M! força, !M! destreza, !M! vida máxima, 20 ouro.",
+    "UPGRADE_DESCRIPTION": "Esgotar. aleatóriamente um dos seguintes: curar !M!, !M! força, !M! destreza, !M! vida máxima, [#3ddf3d]30[] ouro."
+  },
+
+  "PrismaMod:IllyaBerserCAR": {
+    "NAME": "BerserCARRO",
+    "DESCRIPTION": "Cause !D! de dano ao alvo e ganhe 1 energizado."
+  },
+
+  "PrismaMod:IllyaCarnivalAttack": {
+    "NAME": "Ataque da Folia",
+    "DESCRIPTION": "Cause !D! de dano ao alvo. Canalize!M! orbe(s) de prismamod:ataque."
+  },
+
+  "PrismaMod:IllyaCarnivalDefend": {
+    "NAME": "Defesa da Folia",
+    "DESCRIPTION": "Ganhe !B! bloqueio e canalize!M! orbe(s) de prismamod:defesa."
+  },
+
+  "PrismaMod:IllyaUncommonAOEAttack": {
+    "NAME": "Chama Fatiadora ",
+    "DESCRIPTION": "Cause !D! de dano a todos inimigos e cause !M! fraqueza."
+  },
+
+  "PrismaMod:IllyaAssassinRevenge": {
+    "NAME": "Reflexo de Assassino",
+    "DESCRIPTION": "Quando for atacada canalize 1 orbe de prismamod:veneno e inflija !M! envenamento no atacante neste turno."
+  },
+
+  "PrismaMod:IllyaCarnivalOrbs": {
+    "NAME": "Orbes da Folia",
+    "DESCRIPTION": "Canalize 1 de cada: orbe de prismamod:ataque, orbe de prismamod:defesa, orbe de prismamod:veneno, orbe prismamod:zwei, orbe do prismamod:testamento e orbe do prismamod:assassino."
+  },
+
+  "PrismaMod:IllyaCommonEvoke": {
+    "NAME": "Evocar",
+    "DESCRIPTION": "Evoque o primeiro orbe.",
+    "UPGRADE_DESCRIPTION": "Evoque os 2 primeiros orbes."
+  },
+
+  "PrismaMod:IllyaDualEvoke": {
+    "NAME": "Evocação Dupla",
+    "DESCRIPTION": "Evoque os próximos !M! orbes 2 vezes."
+  },
+
+  "PrismaMod:IllyaEvokeAll": {
+    "NAME": "Evocar todos",
+    "DESCRIPTION": "Evoque todos orbes."
+  },
+
+  "PrismaMod:IllyaHassanGift": {
+    "NAME": "Presente do Assassino",
+    "DESCRIPTION": "Canalize !M! orbes de prismamod:veneno."
+  },
+
+  "PrismaMod:IllyaMultiEvoke": {
+    "NAME": "Multi-evocação",
+    "DESCRIPTION": "Evoque os próximos X orbes.",
+    "UPGRADE_DESCRIPTION" : "Evoque o próximo orbe X vezes sem removê-lo."
+  },
+
+  "PrismaMod:IllyaRapidFire": {
+    "NAME": "Fogo Rápido",
+    "DESCRIPTION": " prismamod:aumenta_força . Cause !D! de dano ao alvo !M! vezes. O número de vezes é determinado pelo número de espaços para orbes atual."
+  },
+
+  "PrismaMod:IllyaReinForce": {
+    "NAME": "Rein Force",
+    "DESCRIPTION": " prismamod:aumenta_com_destreza . Ganhe !B! bloqueio !M! vezes. O número de vezes é determinado pelo número de espaços para orbes atual."
+  },
+
+  "PrismaMod:IllyaSaphire": {
+    "NAME": "Sapphire",
+    "DESCRIPTION": "Esgotar. Ganhe !M! espaços para orbes. Compre !PrismaMod:SecondMagic! cartas."
+  },
+
+  "PrismaMod:IllyaUberChannel": {
+    "NAME": "Super Canalização",
+    "DESCRIPTION": "Canalize aleatóriamente o número máximo de orbes."
+  },
+
+  "PrismaMod:IllyaUncommonEvoke": {
+    "NAME": "Evocação Rápida",
+    "DESCRIPTION": "Evoque e canalize o primeiro orbe."
+  },
+
+  "PrismaMod:IllyaUpgradeOrbs": {
+    "NAME": "Melhorar Orbes",
+    "DESCRIPTION": "Durante o turno dobre o efeito de evocações e passivos."
+  },
+
+  "PrismaMod:IllyaBlindPoisonToss": {
+    "NAME": "Jogar Veneno às Cegas ",
+    "DESCRIPTION": "Aplique!PrismaMod:SecondMagic! de veneno a !M! inimigos aleatóriamente."
+  },
+
+  "PrismaMod:IllyaFeed": {
+    "NAME": "Alimentar-se",
+    "DESCRIPTION": "Esgotar. Cause !D! de dano ao alvo. Cure a quantidade de veneno no alvo com o limite de 15 de vida."
+  },
+
+  "PrismaMod:IllyaFriendMaker": {
+    "NAME": "Fazedora de Amigos",
+    "DESCRIPTION": "Cause !D! de dano ao alvo. Inflija !M! de veneno."
+  },
+
+  "PrismaMod:IllyaPoisonBomb": {
+    "NAME": "Bomba de Veneno",
+    "DESCRIPTION": "Aplique !M! de veneno a todos inimigos."
+  },
+
+  "PrismaMod:IllyaPoisoningPhantasm": {
+    "NAME": "Fantasma Envenenador",
+    "DESCRIPTION": "prismamod:Espalhar_veneno. Envenena todos inimigos."
+  },
+
+  "PrismaMod:IllyaPoisonTippedWeapons": {
+    "NAME": "Pontas Envenenadoras",
+    "DESCRIPTION": "Todos ataques adicionam !M! de veneno.",
+    "UPGRADE_DESCRIPTION": "Reter. Todos ataques adicionam !M! de veneno."
+  },
+
+  "PrismaMod:IllyaRussianRoulette": {
+    "NAME": "Roleta Russa",
+    "DESCRIPTION": "Aplque !M! de veneno aleatóriamente a qualquer um na sala."
+  },
+
+  "PrismaMod:IllyaStunPoison": {
+    "NAME": "Veneno Atordoante",
+    "DESCRIPTION": "Cause !D! de dano ao alvo. Se o alvo estiver envenenado cause !D! a mais."
+  },
+
+  "PrismaMod:IllyaCommonAttack": {
+    "NAME": "Fogo",
+    "DESCRIPTION": "Cause !D! de dano ao alvo."
+  },
+
+  "PrismaMod:IllyaBoysLove": {
+    "NAME": "Boys Love",
+    "DESCRIPTION": "Aplique !M! de veneno a todos inimigos."
+  },
+
+  "PrismaMod:IllyaDetonatingBlow": {
+    "NAME": "Golpe Detonador",
+    "DESCRIPTION": "Cause !D! de dano ao alvo. prismamod:espalhar_veneno de veneno no alvo."
+  },
+
+  "PrismaMod:IllyaCommonDefend": {
+    "NAME": "Escudo",
+    "DESCRIPTION": "Ganhe !B! de bloqueio."
+  },
+
+  "PrismaMod:IllyaUncommonAttack": {
+    "NAME": "Fogo Verdadeiro",
+    "DESCRIPTION": "Cause !D! de dano ao alvo. Aplique !M! Vulnerável."
+  },
+
+  "PrismaMod:IllyaUncommonDefend": {
+    "NAME": "Escudo Verdadeiro",
+    "DESCRIPTION": "Ganhe !B! de bloqueio e ganhe !M! armadura galvanizada."
+  },
+
+  "PrismaMod:IllyaBride": {
+    "NAME": "Presente de Casamento",
+    "DESCRIPTION": "Esgotar. Compre !M! cartas.",
+    "UPGRADE_DESCRIPTION": "Reter. Inato. Esgotar. Compre !M! cartas."
+  },
+
+  "PrismaMod:IllyaDevil": {
+    "NAME": "Diabinha",
+    "DESCRIPTION": "Cause !D! dano e compre !M! cartas."
+  },
+
+  "PrismaMod:IllyaGun": {
+    "NAME": "Arma",
+    "DESCRIPTION": "Cause !D! de dano."
+  },
+
+  "PrismaMod:IllyaMaid": {
+    "NAME": "Empregada",
+    "DESCRIPTION": "Tome o dobro de dano este turno.  Ganhe [E] [E] [E] de energia no próximo turno."
+  },
+
+  "PrismaMod:IllyaZwei": {
+    "NAME": "Forma Zwei",
+    "DESCRIPTION": "Retire todas instalações. Ganhe !M! de força, ganhe 13 [E] , compre !PrismaMod:SecondMagic! cartas, canalize todos orbes prismamod:Zwei e prismamod:detonar_completamente todo veneno no final do turno. No próximo turno receba -99 de força e 99 Vulnerável. Perca toda [E] todo turno."
+  },
+
+  "PrismaMod:IllyaAlice": {
+    "NAME": "Forma de Alice",
+    "DESCRIPTION": "Esgotar. Ganhe !M! Vulnerável. Chance de gerar uma prismamod:relíquia especial ou curar !PrismaMod:SecondMagic! de vida.",
+    "UPGRADE_DESCRIPTION": "Esgotar. Ganhe !M! Vulnerável. Cure !PrismaMod:SecondMagic! de vida."
+  },
+
+  "PrismaMod:IllyaTestament": {
+    "NAME": "Testamento",
+    "DESCRIPTION": "Evoque todos os orbes. Canalize o número máximo de orbes do prismamod:Testamento."
+  },
+
+  "PrismaMod:IllyaCommandSeal": {
+    "NAME": "Selo do Comando",
+    "DESCRIPTION": "Esgotar. Ganhe !M! de vida e aplique !PrismaMod:SecondMagic! Intangível."
+  },
+
+  "PrismaMod:IllyaRubysPotion": {
+    "NAME": "Poção da Ruby",
+    "DESCRIPTION": "Esgotar. Ganhe !M! de vida."
+  },
+
+  "PrismaMod:IllyaAOECommonAttack": {
+    "NAME": "Fogo Fatiador",
+    "DESCRIPTION": "Cause !D! de dano a todos inimigos."
+  },
+
+  "PrismaMod:IllyaGrail": {
+    "NAME": "O Cálice",
+    "DESCRIPTION": "Esgotar. Compre !M! cartas. Ganhe [E] [E]."
+  },
+
+  "PrismaMod:IllyaGrailKun": {
+    "NAME": "Cálice-kun",
+    "DESCRIPTION": "Escolha 1 carta de ataque e 1 carta de habilidade do seu deck e adicione à sua mão."
+  },
+
+  "PrismaMod:IllyaPartialInstallAssassin": {
+    "NAME": "Instalação Parcial do Assassino ",
+    "DESCRIPTION": "Esgotar. Cause !D! de dano a todos inimigos toda ve que jogar um ataque este turno."
+  },
+
+
+
+
+
+
+  "PrismaMod:IllyaMinorZwei": {
+    "NAME": "Forma Zwei Menor",
+    "DESCRIPTION": "Ganhe !B! Bloqueio.  Adicione !M! Queimaduras à sua mão."
+  },
+
+  "PrismaMod:IllyaCheapDefend": {
+    "NAME": "Avalon Menor",
+    "DESCRIPTION": "Ganhe !B! Bloqueio."
+  },
+
+  "PrismaMod:IllyaCheapAttack": {
+    "NAME": "Excalibur Menor",
+    "DESCRIPTION": "Cause !D! Dano. Aplique !M! Fraco."
+  },
+
+  "PrismaMod:IllyaChanneledBlock": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": " "
+  },
+
+  "PrismaMod:IllyaChanneledAttack": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": ""
+  },
+
+  "PrismaMod:IllyaCheapChannelAttack": {
+    "NAME": "Orbe de Ataque Menor",
+    "DESCRIPTION": "Canalize !M! prismamod:Orbe de Ataque."
+  },
+
+  "PrismaMod:IllyaCheapChannelDefend": {
+    "NAME": "Orbe de Defesa Menor",
+    "DESCRIPTION": "Canalize !M! prismamod:Orbe de Defesa."
+  },
+
+  "PrismaMod:IllyaCheapChannelPoison": {
+    "NAME": "Orbe de Veneno Menor",
+    "DESCRIPTION": "Canalize !M! prismamod:Orbe de Veneno."
+  },
+
+  "PrismaMod:IllyaMinorRapidFire": {
+    "NAME": "Fogo Rápido Menor",
+    "DESCRIPTION": "Cause !D! dano. Compre !M! cartas."
+  },
+
+  "PrismaMod:IllyaMinorReinForce": {
+    "NAME": "ReinForce Menor",
+    "DESCRIPTION": "Ganhe !B! bloqueio. Compre !M! cartas."
+  },
+
+  "PrismaMod:IllyaUberAttackChannel": {
+    "NAME": "Canalizar Ataque Maior",
+    "DESCRIPTION": "Canalize o máximo de prismamod:Orbes de Ataque."
+  },
+
+  "PrismaMod:IllyaUberDefendChannel": {
+    "NAME": "Canalizar Defesa Maior",
+    "DESCRIPTION": "Canalize o máximo de prismamod:Orbes de Defesa."
+  },
+
+  "PrismaMod:IllyaUberPoisonChannel": {
+    "NAME": "Canalizar Veneno Maior",
+    "DESCRIPTION": "Canalize o máximo de prismamod:Orbes de Veneno."
+  },
+
+  "PrismaMod:IllyaUberPoisonBlock": {
+    "NAME": "Bloqueio de Veneno Maior",
+    "DESCRIPTION": "prismamod:absorver. Ganhe !M! Bloqueio.",
+    "UPGRADE_DESCRIPTION": "prismamod:absorver_maior. Ganhe !M! Bloqueio."
+  },
+
+  "PrismaMod:IllyaPoisonBlock": {
+    "NAME": "Bloqueio de Veneno",
+    "DESCRIPTION": "prismamod:absorver_menor. Ganhe !M! Bloqueio.",
+    "UPGRADE_DESCRIPTION": "prismamod:absorver. Ganhe !M! Bloqueio."
+  },
+
+
+
+
+  "PrismaMod:IllyaInstallArcher": {
+    "NAME": "Instalar Arqueiro",
+    "DESCRIPTION": " prismamod:Instalar : Condece 1 carta de custo 0 aleatória a cada turno. Ganhe 1 de força a cada turno. "
+  },
+
+  "PrismaMod:IllyaInstallAssassin": {
+    "NAME": "Instalar Assassino",
+    "DESCRIPTION": " prismamod:Instalar : prismamod:Esquiva do primeiro ataque a cada turno. Todos ataques aplicam 1 de veneno. Ataques causam !M!% de seu dano e você toma !PrismaMod:SecondMagic!% mais dano dos ataques. Canalize 1 orbe do prismamod:Assassino. Ataques a chefes causam 3 dano extra que ignora Bloqueio e aplica 1 de veneno a mais."
+  },
+
+  "PrismaMod:IllyaInstallBerserker": {
+    "NAME": "Instalar Berserker",
+    "DESCRIPTION": " prismamod:Instalar : Tome o dobro de dano e cause o dobro de dano."
+  },
+
+  "PrismaMod:IllyaInstallCaster": {
+    "NAME": "Instalar Conjurador",
+    "DESCRIPTION": " prismamod:Instalar : Ganhe 1 Energizado por turno. Aumente os efeitos passivos e de evocação dos orbes. Ganhe mais 1 espaço de orbe. Canalize 1 orbe aleatório a cada turno."
+  },
+
+  "PrismaMod:IllyaInstallLancer": {
+    "NAME": "Instalar Lanceiro",
+    "DESCRIPTION": " prismamod:Instalar : Aplique 1 Fraco, Frágil e Vulnerável a cada !M! ataques."
+  },
+
+  "PrismaMod:IllyaInstallRider": {
+    "NAME": "Instalar Cavaleiro",
+    "DESCRIPTION": " prismamod:Instalar : Ganhe !M! de Destreza todo turno. Cause !PrismaMod:SecondMagic! de dano que ignora Bloqueio a todos inimigos não-chefes a cada ataque."
+  },
+
+  "PrismaMod:IllyaInstallSaber": {
+    "NAME": "Instalar Sabre",
+    "DESCRIPTION": " prismamod:Instalar : Ganhe Força todo turno. Cause !M! de dano que ignora Bloqueio extra em chefes. Cure !PrismaMod:SecondMagic! de vida. O primeiro ataque de cada turno causa 50% mais dano."
+  },
+
+  "PrismaMod:IllyaInstallForeigner": {
+    "NAME": "Instalar Estrangeiro",
+    "DESCRIPTION": " prismamod:Instalar : Dobre o efeito de orbes evocados. Orbes de dano evocados aplicam veneno ao alvo."
+  },
+
+  "PrismaMod:IllyaInstallAvenger": {
+    "NAME": "Instalar Vingador",
+    "DESCRIPTION": " prismamod:Instalar : Reduza à metade todo dano de nã0chefes e cause !M! de dano a todos os inimigos a cada turno."
+  },
+
+  "PrismaMod:IllyaInstallAlterEgo": {
+    "NAME": "Instalar Alter Ego",
+    "DESCRIPTION": " prismamod:Instalar : Ganhe 1 espaço para orbe. Evoque o primeiro orbe a cada turno e todas cartas de habilidade custam menos 1 [E]."
+  },
+
+  "PrismaMod:IllyaInstallMoonCancer": {
+    "NAME": "Instalar Câncer da Lua",
+    "DESCRIPTION": " prismamod:Instalar : Concede 1 carta incolor aleatória por turno. Dobra o efeito passivo de orbes. Ganha 1 espaço para orbe."
+  },
+
+  "PrismaMod:IllyaInstallRuler": {
+    "NAME": "Instalar Governante",
+    "DESCRIPTION": " prismamod:Instalar :Ganhe 1 de Força e Destreza a cada turno."
+  },
+
+  "PrismaMod:IllyaInstallShielder": {
+    "NAME": "Instalar Defensor",
+    "DESCRIPTION": " prismamod:Instalar : Ganhe !M! de Bloqueio e cure !PrismaMod:SecondMagic! de vida."
+  },
+
+
+
+
+  "PrismaMod:ChloeExhaustOne": {
+    "NAME": "Desconstrução Menor",
+    "DESCRIPTION": "Selecione 1 carta do baralho e esgote-a. Ganhe !M! prismamod:flechas por carta esgotada."
+  },
+
+  "PrismaMod:ChloeExhaustTwo": {
+    "NAME": "Desconstrução Maior",
+    "DESCRIPTION": " Selecione 2 cartas do baralho e esgote-as. Ganhe !M! prismamod:flechas por carta esgotada."
+  },
+
+  "PrismaMod:ChloeExhaustThree": {
+    "NAME": "Super Desconstrução",
+    "DESCRIPTION": " Selecione 3 cartas do baralho e esgote-as. Ganhe !M! prismamod:flechas por carta esgotada."
+  },
+
+  "PrismaMod:ChloeChristmas": {
+    "NAME": "Presentes de Natal ",
+    "DESCRIPTION": "Compre !M! cartas."
+  },
+
+  "PrismaMod:ChloeDemonicTutor": {
+    "NAME": "Tutora Demoníaca",
+    "DESCRIPTION": "Selecione !M! cartas de seu baralho e adicione à sua mão.",
+    "UPGRADE_DESCRIPTION": "Selecione !M! cartas de seu paralho e adicione à sua mão."
+  },
+
+  "PrismaMod:ChloeDevil": {
+    "NAME": "Disfarce de Diabo",
+    "DESCRIPTION": "Esgotar. Cause !D! de dano e cure !M! ."
+  },
+
+  "PrismaMod:ChloeDiscardRecovery": {
+    "NAME": "Recuperar Traçado",
+    "DESCRIPTION": "Selecione !M! carta(s) da sua pilha de descarte e adicione à sua mão.",
+    "UPGRADE_DESCRIPTION": " Selecione !M! carta(s) da sua pilha de descarte e adicione à sua mão."
+  },
+
+  "PrismaMod:ChloeHalloween": {
+    "NAME": "Gostosuras ou Travessuras",
+    "DESCRIPTION": "Receba 1 carta de qualquer incomum do jogo e adicione à sua mão com custo 0. ",
+    "UPGRADE_DESCRIPTION": "Chance de receber !M! maldições ou !M! cartas aleatórias."
+  },
+
+  "PrismaMod:ChloeMaid": {
+    "NAME": "Forma de Empregada",
+    "DESCRIPTION": "Tome o dobro de dano este turno. Ganhe [E] [E] [E] de energia no próximo turno."
+  },
+
+  "PrismaMod:ChloeMordred": {
+    "NAME": "Forma de Mordred",
+    "DESCRIPTION": "Esgotar. Ganhe !M! força."
+  },
+
+  "PrismaMod:ChloeReshuffleDiscard": {
+    "NAME": "Traçado Regenerativo ",
+    "DESCRIPTION": "Embaralhe sua pilha de descarte no seu baralho e compre !M! cartas."
+  },
+
+  "PrismaMod:ChloeRitsuka": {
+    "NAME": "Mestra Ruiva ",
+    "DESCRIPTION": "Esgotar. Ganhe !M! destreza."
+  },
+
+  "PrismaMod:ChloeUnlimitedBladeWorks": {
+    "NAME": "Unlimited Blade Works",
+    "DESCRIPTION": "Selecione até 3 cartas que você já traçou antes e adicione à sua mão com custo 0.",
+    "UPGRADE_DESCRIPTION": " Selecione até 3 cartas que você já traçou antes e adicione à sua mão aprimoradas e com custo 0."
+  },
+
+  "PrismaMod:ChloeCarnivalAOEAttack": {
+    "NAME": "Ataque em Área da Folia ",
+    "DESCRIPTION": "Cause !D! de dano a todos inimigos. Esgote até 1 carta por cada inimigo atingido. Ganhe 2 prismamod:flechas por cada carta esgotada."
+  },
+
+  "PrismaMod:ChloeCarnivalAttack": {
+    "NAME": "Ataque da Folia ",
+    "DESCRIPTION": "Cause !D! de dano. Ganhe !M! força."
+  },
+
+  "PrismaMod:ChloeCarnivalDefend": {
+    "NAME": "Defesa da Folia",
+    "DESCRIPTION": "Ganhe !B! de bloqueio. Ganhe !M! destreza."
+  },
+
+  "PrismaMod:ChloeCheapAttack": {
+    "NAME": "Ataque Furtivo",
+    "DESCRIPTION": "Cause !D! de dano. Aplique !M! Vulnerável."
+  },
+
+  "PrismaMod:ChloeCheapAttackTwo": {
+    "NAME": "Soco Repentino",
+    "DESCRIPTION": "Cause !D! de dano. Aplique !M! Fraco."
+  },
+
+  "PrismaMod:ChloeCheapDefend": {
+    "NAME": "Armadura Mágica",
+    "DESCRIPTION": "Ganhe !B! Bloqueio.",
+    "UPGRADE_DESCRIPTION": "Ganhe !B! Bloqueio. Esgote 1 carta e ganhe 2 prismamod:flechas."
+  },
+
+  "PrismaMod:ChloeCheapDefendTwo": {
+    "NAME": "Armadura Improvisada",
+    "DESCRIPTION": "Ganhe !B! Bloqueio."
+  },
+
+  "PrismaMod:ChloeCommonAOEAttack": {
+    "NAME": "Corte Extenso",
+    "DESCRIPTION": "Cause !D! de dano a todos inimigos."
+  },
+
+  "PrismaMod:ChloeCommonAttack": {
+    "NAME": "Corte",
+    "DESCRIPTION": "Cause !D! de dano."
+  },
+
+  "PrismaMod:ChloeCommonDefend": {
+    "NAME": "Escudo",
+    "DESCRIPTION": "Ganhe !B! Bloqueio."
+  },
+
+  "PrismaMod:ChloeShiv": {
+    "NAME": "Flecha",
+    "DESCRIPTION": "Esgotar. Cause !D! de dano."
+  },
+
+  "PrismaMod:ChloeUncommonAOEAttack": {
+    "NAME": "Corte Circular Extenso",
+    "DESCRIPTION": "Cause !D! de dano a todos inimigos."
+  },
+
+  "PrismaMod:ChloeUncommonAttack": {
+    "NAME": "Lança",
+    "DESCRIPTION": "Cause !D! dano. Aplique !M! Vulnerável."
+  },
+
+  "PrismaMod:ChloeUncommonDefend": {
+    "NAME": "Obstruir",
+    "DESCRIPTION": "Ganhe !B! Bloqueio."
+  },
+
+  "PrismaMod:ChloeBetterTracePools": {
+    "NAME": "Melhorar Traço",
+    "DESCRIPTION": "Remove cartas comuns da lista de traçado."
+  },
+
+  "PrismaMod:ChloeDoubleRelicSpeed": {
+    "NAME": "Traçado Rápido",
+    "DESCRIPTION": "Todas cartas jogadas a partir de agora contam o dobro para os efeitos de Kanshou e Bakuya."
+  },
+
+  "PrismaMod:ChloeGreatTracePools": {
+    "NAME": "Traçado Maior",
+    "DESCRIPTION": "Remove cartas comuns e incomuns da lista de traçado."
+  },
+
+  "PrismaMod:ChloeCaladbolg": {
+    "NAME": "Caladbolg",
+      "DESCRIPTION": "Cause !D! de dano a todos inimigos !M! vezes."
+  },
+
+  "PrismaMod:ChloeExcalibur": {
+    "NAME": "Excalibur",
+    "DESCRIPTION": "Cause !D! de dano ao alvo. Causa o dobro de dano em chefes."
+  },
+
+  "PrismaMod:ChloeEyeOfTheEuryale": {
+    "NAME": "Olho do Euryale",
+    "DESCRIPTION": "Cause !D! de dano. Aplique 1 prismamod:Atrair."
+  },
+
+  "PrismaMod:ChloeGaeBolg": {
+    "NAME": "Gae Bolg",
+    "DESCRIPTION": "Cause !D! de dano. Aplique !M! Fraqueza, Vulnerável e Frágil."
+  },
+
+  "PrismaMod:ChloePhantasmPunishment": {
+    "NAME": "DESCONTINUADO",
+    "DESCRIPTION": "DESCONTINUADO"
+  },
+
+  "PrismaMod:ChloeRhongomyniad": {
+    "NAME": "Rhongomyniad",
+    "DESCRIPTION": "Cause !D! de dano e remova todo Bloqueio do alvo."
+  },
+
+  "PrismaMod:ChloeRuleBreaker": {
+    "NAME": "Rule Breaker",
+    "DESCRIPTION": "Cause !D! de dano e remova todos poderes do alvo."
+  },
+
+  "PrismaMod:ChloeCreateableTraceCard": {
+    "NAME": "Trace On",
+    "DESCRIPTION": " Esgotar. Selecione 1 carta de uma lista.",
+    "UPGRADE_DESCRIPTION": "Esgotar. Selecione 1 carta aprimorada de uma lista",
+    "EXTENDED_DESCRIPTION": [" Esgotar. Selecione 1 "," carta entre todas as "," "," ","."]
+  },
+
+  "PrismaMod:ChloeAnyAttackTrace": {
+    "NAME": "Traçar Ataque",
+    "DESCRIPTION": "prismamod:Trace 1 de qualquer carta de ataque."
+  },
+
+  "PrismaMod:ChloeAnyCommonTrace": {
+    "NAME": "Traçar Comum",
+    "DESCRIPTION": "prismamod: Trace 1 de qualquer carta comum."
+  },
+
+  "PrismaMod:ChloeAnyPowerTrace": {
+    "NAME": "Traçar Poder",
+    "DESCRIPTION": "prismamod: Trace 1 de qualquer carta de poder."
+  },
+
+  "PrismaMod:ChloeAnyRareTrace": {
+    "NAME": "Traçar Raro",
+    "DESCRIPTION": "prismamod: Trace 1 de qualquer carta rara."
+  },
+
+  "PrismaMod:ChloeAnySkillTrace": {
+    "NAME": "Traçar Habilidade",
+    "DESCRIPTION": "prismamod: Trace 1 de qualquer carta de habilidade."
+  },
+
+  "PrismaMod:ChloeAnyUncommonTrace": {
+    "NAME": "Traçar Incomum",
+    "DESCRIPTION": "prismamod: Trace 1 de qualquer carta incomum."
+  },
+
+
+
+
+
+
+
+  "PrismaMod:MiyuBride": {
+    "NAME": "Presentes de Casamento",
+    "DESCRIPTION": "Esgotar. Compre !M! cartas.",
+    "UPGRADE_DESCRIPTION": "Reter. Inata. Esgotar. Compre !M! cartas."
+  },
+  "PrismaMod:MiyuChristmas": {
+    "NAME": "Instalar Papai Noel",
+    "DESCRIPTION": "Seleione !M! cartas do seu baralho.",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuDevil": {
+    "NAME": "Instalar Demônio",
+    "DESCRIPTION": "Cause !D! dano. Compre !M! cartas.",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuMaid": {
+    "NAME": "Instalar Empregada",
+    "DESCRIPTION": "Tome o dobro de dano este turno.  Ganhe [E] [E] [E] energia no próximo turno."
+  },
+  "PrismaMod:MiyuCarnivalAOEAttack": {
+    "NAME": "Varredura da Folia",
+    "DESCRIPTION": "Cause !D! dano a todos inimigos !M! vezes."
+  },
+  "PrismaMod:MiyuCarnivalAttack": {
+    "NAME": "Estocada da Folia",
+    "DESCRIPTION": "Cause !D! dano 3 vezes."
+  },
+  "PrismaMod:MiyuCarnivalDefend": {
+    "NAME": "Escudo da Folia",
+    "DESCRIPTION": "Ganhe !B! Bloqueio. Ganhe !M! Destreza."
+  },
+  "PrismaMod:MiyuCheapAttack1": {
+    "NAME": "Incluir Lanceiro",
+    "DESCRIPTION": "Cause !D! dano. Aplique !M! Vulnerável."
+  },
+  "PrismaMod:MiyuCheapAttack2": {
+    "NAME": "Incluir Arqueiro",
+    "DESCRIPTION": "Cause !D! dano. Aplique !M! Fraqueza."
+  },
+  "PrismaMod:MiyuCheapDefend1": {
+    "NAME": "Barreira Regenerativa Menor",
+    "DESCRIPTION": "Esgotar. Ganhe !B! Bloqueio. Ganhe !M! [E]."
+  },
+  "PrismaMod:MiyuCheapDefend2": {
+    "NAME": "Barreira Viva",
+    "DESCRIPTION": "Esgotar. Ganhe !B! Bloqueio. Ganhe !M! Armadura Galvanizada."
+  },
+  "PrismaMod:MiyuCheapDexBuff": {
+    "NAME": "Passos Mágicos",
+    "DESCRIPTION": "Ganhe !M! Destreza."
+  },
+  "PrismaMod:MiyuCheapPlate": {
+    "NAME": "Incluir Defensor",
+    "DESCRIPTION": "Ganhe !M! Espinhos."
+  },
+  "PrismaMod:MiyuCheapStrBuff": {
+    "NAME": "Incluir Berserker",
+    "DESCRIPTION": "Ganhe !M! Força."
+  },
+  "PrismaMod:MiyuCommonAOEAttack": {
+    "NAME": "Corte Longo",
+    "DESCRIPTION": "Causa !D! dano a todos inimigos."
+  },
+  "PrismaMod:MiyuCommonAttack": {
+    "NAME": "Lâmina da Sapphire",
+    "DESCRIPTION": "Cause !D! dano."
+  },
+  "PrismaMod:MiyuCommonDefend": {
+    "NAME": "Escudo",
+    "DESCRIPTION": "Ganhe !B! Bloqueio."
+  },
+  "PrismaMod:MiyuDefenseAbsorbMinor": {
+    "NAME": "Incluir Vingador",
+    "DESCRIPTION": "prismamod:absorção_de_bloqueio."
+  },
+  "PrismaMod:MiyuDefenseAbsorbUber": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuDefenseExplosion": {
+    "NAME": "Barreira Ofensiva",
+    "DESCRIPTION": "prismamod:explosão_de_bloqueio."
+  },
+  "PrismaMod:MiyuDefenseRemoval": {
+    "NAME": "Olhar da Medusa",
+    "DESCRIPTION": "Exhaust. Remove all block and apply prismamod:attract."
+  },
+  "PrismaMod:MiyuUberAOEAttack": {
+    "NAME": "Drenar Energia",
+    "DESCRIPTION": "Cause !D! dano a todos inimigos. Ganhe !M! [E] no próximo turno para cada inimigo atingido."
+  },
+  "PrismaMod:MiyuUberAttack": {
+    "NAME": "Incluir Sabre",
+    "DESCRIPTION": "Cause !D! dano. Compre !M! cartas."
+  },
+  "PrismaMod:MiyuUberDefend": {
+    "NAME": "Grande Protetor",
+    "DESCRIPTION": "Esgotar. Aplique !M! prismamod:Evasão. Ganhe !B! Bloqueio."
+  },
+  "PrismaMod:MiyuUncommonAOEAttack": {
+    "NAME": "Varredura de Fogo",
+    "DESCRIPTION": "Remove all block from enemies. Deal !D! damage to all enemies."
+  },
+  "PrismaMod:MiyuUncommonAttack": {
+    "NAME": "Lança da Sapphire",
+    "DESCRIPTION": "Cause !D! dano. Aumente o dano desta carta por !M! pelo resto do combate."
+  },
+  "PrismaMod:MiyuUncommonDefend": {
+    "NAME": "Barreira de Energia Maior",
+    "DESCRIPTION": "Ganhe !B! bloqueio. Aumente o Bloqueio desta carta em !M! pelo resto do combate."
+  },
+  "PrismaMod:MiyuUncommonDexBuff": {
+    "NAME": "Aulas de Dança Mágica",
+    "DESCRIPTION": "Gain !M! dexterity, strength and focus."
+  },
+  "PrismaMod:MiyuUncommonPlate": {
+    "NAME": "Proteção de Edelfelt",
+    "DESCRIPTION": "Ganhe !M! Armadura Galvanizada."
+  },
+  "PrismaMod:MiyuUncommonStrBuff": {
+    "NAME": "Crescimento de Circuitos Mágicos",
+    "DESCRIPTION": "Ganhe !M! Foco."
+  },
+  "PrismaMod:MiyuAttackChannelAttack": {
+    "NAME": "Corte Crescente",
+    "DESCRIPTION": "Cause !D! dano. Canalize !M! prismamod:orbe_do_crescimento."
+  },
+  "PrismaMod:MiyuAttackChannelVul": {
+    "NAME": "Corte Profundo",
+    "DESCRIPTION": "Cause !D! dano. Canalize !M! prismamod:orbe_da_vulnerabilidade."
+  },
+  "PrismaMod:MiyuAttackChannelWeak": {
+    "NAME": "Estocada Precisa",
+    "DESCRIPTION": "Cause !D! dano. Canalize prismamod:orbe_da_fraqueza."
+  },
+  "PrismaMod:MiyuChannelAttackEvoke": {
+    "NAME": "Ataque Mágico",
+    "DESCRIPTION": "Gain !M! focus. Deal !D! damage !M! times. Decrease max orb slots by 1."
+  },
+  "PrismaMod:MiyuChannelDefendEvoke": {
+    "NAME": "Fortificação",
+    "DESCRIPTION": "Gain !M! focus. Gain !B! block !M! times. Decrease max orb slots by 1."
+  },
+  "PrismaMod:MiyuChannelHealEvoke": {
+    "NAME": "DEPRECATED Regenerative Stance",
+    "DESCRIPTION": "DEPRECATED Exhaust. Evoke. Heal !M!."
+  },
+  "PrismaMod:MiyuChannelRandomEvoke": {
+    "NAME": "DEPRECATED Guessing Game",
+    "DESCRIPTION": "DEPRECATED Exhaust. Evoke. Channel !M! prismamod:random_orb."
+  },
+  "PrismaMod:MiyuChannelVulEvoke": {
+    "NAME": "Posição Inoportuna",
+    "DESCRIPTION": "Evocar. Ganhe !M! Vulnerável."
+  },
+  "PrismaMod:MiyuChannelWeakEvoke": {
+    "NAME": "DEPRECATED Off Balance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! weak."
+  },
+  "PrismaMod:MiyuCheapChannelAttack": {
+    "NAME": "Ofensiva da Sapphire",
+    "DESCRIPTION": "Canalize !M! prismamod:orbe_do_crescimento."
+  },
+  "PrismaMod:MiyuCheapChannelDefend": {
+    "NAME": "Defensiva da Sapphire",
+    "DESCRIPTION": "Canalizel !M! prismamod:orbe_escudo."
+  },
+  "PrismaMod:MiyuCheapChannelHeal": {
+    "NAME": "Conserto da Sapphire",
+    "DESCRIPTION": "Esgotar. Canalize !M! prismamod:orbe_da_cura."
+  },
+  "PrismaMod:MiyuCheapChannelRandom": {
+    "NAME": "Tentar Sorteio",
+    "DESCRIPTION": "Canalize !M! prismamod:orbe_aleatório."
+  },
+  "PrismaMod:MiyuCheapChannelVul": {
+    "NAME": "Orientação de Edelfelt",
+    "DESCRIPTION": "Canalize !M! prismamod:orbe_da_vulnerabilidade."
+  },
+  "PrismaMod:MiyuCheapChannelWeak": {
+    "NAME": "Plano da Sapphire",
+    "DESCRIPTION": "Canalize !M! prismamod:orbe_da_fraqueza."
+  },
+  "PrismaMod:MiyuCheapEvoke": {
+    "NAME": "Libertar",
+    "DESCRIPTION": "Evoke. Return a card from the discard pile to your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. Evoke. Return a card from the discard pile to your hand."
+  },
+  "PrismaMod:MiyuDefendChannelDefend": {
+    "NAME": "Magia Cristalizada",
+    "DESCRIPTION": "Ganhe !B! Bloqueio. Canalize !M! prismamod:orbe_escudo."
+  },
+  "PrismaMod:MiyuEvokeAll": {
+    "NAME": "Grande Libertação",
+    "DESCRIPTION": "Evoke all orbs. Draw !M! card for each orb evoked."
+  },
+  "PrismaMod:MiyuEvokeAllAttack": {
+    "NAME": "Quebrar os Limites",
+    "DESCRIPTION": "Evoque todos os orbes. Cause !D! dano !M! vezes."
+  },
+  "PrismaMod:MiyuEvokeAllDefend": {
+    "NAME": "Proteção das Amigas",
+    "DESCRIPTION": "Evoque todos orbes. Ganhe !B! Bloqueio !M! vezes."
+  },
+  "PrismaMod:MiyuEvokeBuffDex": {
+    "NAME": "Presente do Cavaleiro",
+    "DESCRIPTION": "Exhaust. Evoke. Gain !M! dexterity for one turn."
+  },
+  "PrismaMod:MiyuEvokeBuffStr": {
+    "NAME": "Presente do Sabre",
+    "DESCRIPTION": "Exhaust. Exhaust all non attack cards in hand. Gain !M! gold."
+  },
+  "PrismaMod:MiyuEvokeCheapAttack": {
+    "NAME": "Incluir Assassino",
+    "DESCRIPTION": "Evoke. Deal !D! damage. Apply !M! weak, frail, and vulnerable."
+  },
+  "PrismaMod:MiyuEvokeCheapDefend": {
+    "NAME": "Incluir Governante",
+    "DESCRIPTION": "Esgotar. Evocar. Tome metade do dano pelo resto do turno."
+  },
+  "PrismaMod:MiyuOrbIncreasePerm": {
+    "NAME": "Expansão Mágica Maior",
+    "DESCRIPTION": "Esgotar. Ganhe !M! espaços de orbes pelo resto do combate."
+  },
+  "PrismaMod:MiyuOrbIncreaseTemp": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuMultiEvoke": {
+    "NAME": "Libertação Completa",
+    "DESCRIPTION": "Evoque X vezes.",
+    "UPGRADE_DESCRIPTION": "Evoque X vezes. Compre X cartas"
+  },
+  "PrismaMod:MiyuEvokeTwo": {
+    "NAME": "Libertar",
+    "DESCRIPTION": "Esgotar. Evoque !M! vezes.",
+    "UPGRADE_DESCRIPTION": "Evoque !M! vezes."
+  }
+}
+

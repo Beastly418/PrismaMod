@@ -1,0 +1,17 @@
+Cards that need to be updated
+MiyuEvokeAll
+MiyuCheapEvoke
+MiyuUncommonDexBuff
+MiyuDefenseRemoval
+MiyuUncommonAOEAttack
+MiyuEvokeCheapAttack
+MiyuChannelDefendEvoke
+MiyuEvokeBuffStr
+MiyuChannelAttackEvoke
+MiyuEvokeBuffDex
+
+Powers that need to be updated
+MaidPower
+
+Character
+Miyu's Description changed

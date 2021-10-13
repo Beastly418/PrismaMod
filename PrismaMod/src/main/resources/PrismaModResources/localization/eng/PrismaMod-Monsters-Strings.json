@@ -1,0 +1,50 @@
+{
+  "SaberAlter": {
+    "MOVES": [
+      "Mana Burst",
+      "Instinct",
+      "Charisma",
+      "Magic Resistance",
+      "Excalibur Morgan",
+      "Basic Attack",
+      "Memories of the Dragon",
+      "Channel"
+    ],
+    "NAME": "SaberAlter",
+    "DIALOG": [
+      "EXCALIBUUUUUUU NL UUUUUUUUUUUUUURR!!!!"
+    ]
+  },
+  "Rider": {
+    "MOVES": [
+      "Mystic Eyes",
+      "Monstrous Strength",
+      "Basic Attack",
+      "Bridle of Chivalry",
+      "Pegasus Charge",
+      "Shapeless Island",
+      "Cursed Eyes",
+      "Heretical Mount"
+    ],
+    "NAME": "Rider",
+    "DIALOG": [
+      "Come my Pegasus."
+    ]
+  },
+  "Gilgamesh": {
+    "MOVES": [
+      "Charisma",
+      "Golden Rule",
+      "Treasury of Babylon",
+      "Magic Resistance",
+      "Basic Attack",
+      "Divinity",
+      "Enuma Elis",
+      "Key of Kings Law"
+    ],
+    "NAME": "Gilgamesh",
+    "DIALOG": [
+      "Mongrels..."
+    ]
+  }
+}
